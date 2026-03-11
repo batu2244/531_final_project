@@ -1,0 +1,28 @@
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL
+Frameworks: Django, React
+Cloud: AWS
+Databases: PostgreSQL
+Other: REST APIs, Caching Strategies
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Shopify | 2021–Present
+- Developed backend APIs for merchant analytics dashboards.
+- Improved database indexing reducing query latency by 32%.
+- Built feature flag system for incremental rollouts.
+
+Software Engineer
+Square (Block) | 2018–2021
+- Implemented transaction reporting services.
+- Built internal admin tools for support teams.
+- Increased reliability via circuit breaker patterns.
+
+PROJECT EXPERIENCE
+- Built a scalable inventory management prototype.
+- Designed API rate limiting middleware.
+
+EDUCATION
+B.S. in Computer Science
+Georgia Institute of Technology

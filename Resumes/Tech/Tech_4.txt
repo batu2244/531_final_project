@@ -1,0 +1,29 @@
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Java
+Frameworks: React, Node.js, Spring Boot
+Cloud: AWS
+Databases: PostgreSQL
+Other: REST, GraphQL, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Atlassian | 2021–Present
+- Built scalable APIs supporting collaboration features across products.
+- Improved frontend performance by 35% via code splitting and caching.
+- Led migration to GraphQL-based service aggregation.
+- Partnered with product teams to design new feature rollouts.
+
+Software Engineer
+HubSpot | 2018–2021
+- Developed full-stack features for marketing analytics dashboards.
+- Designed backend data aggregation services.
+- Increased unit test coverage to 90% across modules.
+
+PROJECT EXPERIENCE
+- Developed a collaborative document editing prototype using WebSockets.
+- Built a CI pipeline template for automated testing and deployment.
+
+EDUCATION
+B.S. in Computer Science
+University of Washington

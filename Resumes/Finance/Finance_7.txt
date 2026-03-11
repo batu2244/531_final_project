@@ -1,0 +1,22 @@
+EDUCATION
+University of North Carolina at Charlotte
+Bachelor of Science in Finance
+
+PROFESSIONAL EXPERIENCE
+
+Ally Financial — Risk Analyst
+2021–Present
+- Monitor consumer lending portfolio performance metrics.
+- Conduct stress testing and scenario analysis.
+- Prepare reports summarizing delinquency and default trends.
+- Recommend policy adjustments to mitigate risk exposure.
+
+BB&T — Credit Risk Analyst
+2018–2021
+- Analyzed borrower credit profiles and payment histories.
+- Developed risk scoring summaries for internal review.
+- Assisted in regulatory reporting and compliance documentation.
+
+PROJECT EXPERIENCE
+- Built probability-of-default model using historical loan data.
+- Conducted portfolio concentration risk analysis by sector and geography.

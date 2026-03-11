@@ -1,0 +1,28 @@
+TECHNICAL SKILLS
+Languages: C#, SQL, JavaScript
+Frameworks: .NET Core, React
+Cloud: Microsoft Azure
+Databases: SQL Server
+Other: Microservices, Authentication Systems
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Microsoft | 2021–Present
+- Built internal cloud services supporting enterprise customers.
+- Designed identity authentication services using OAuth 2.0.
+- Reduced production incidents by 30% through improved monitoring.
+
+Software Engineer
+ServiceNow | 2018–2021
+- Developed workflow automation services.
+- Improved backend processing throughput by 25%.
+- Led code quality initiative across team.
+
+PROJECT EXPERIENCE
+- Built a secure document-sharing web application.
+- Implemented JWT-based authentication service.
+
+EDUCATION
+B.S. in Computer Science
+University of Wisconsin–Madison

@@ -1,0 +1,30 @@
+Name: Tanisha Williams
+
+TECHNICAL SKILLS
+Languages: Go, Python, SQL
+Frameworks: Gin, FastAPI
+Cloud: AWS, GCP
+Databases: PostgreSQL
+Other: High-Availability Systems, API Design
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Uber | 2020–Present
+- Built ride-matching backend services with high availability.
+- Improved request routing efficiency by 23%.
+- Designed service health monitoring system.
+
+Software Engineer
+Lyft | 2018–2020
+- Implemented pricing and route estimation services.
+- Reduced latency via caching and query optimization.
+- Refactored monolithic services into smaller APIs.
+
+PROJECT EXPERIENCE
+- Built distributed rate-limiter service in Go.
+- Designed service failover testing framework.
+
+EDUCATION
+B.S. in Computer Science
+University of Maryland, College Park

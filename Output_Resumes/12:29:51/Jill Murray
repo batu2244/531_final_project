@@ -1,0 +1,30 @@
+Name: Jill Murray
+
+TECHNICAL SKILLS
+Languages: Python, Scala, SQL
+Frameworks: Spark, Flask
+Cloud: AWS
+Databases: Redshift, PostgreSQL
+Other: Data Pipelines, ETL, Distributed Systems
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Netflix | 2021–Present
+- Developed data ingestion pipelines processing billions of events daily.
+- Improved Spark job efficiency by 27%.
+- Built internal APIs exposing analytics datasets.
+
+Software Engineer
+PayPal | 2018–2021
+- Designed ETL workflows for fraud detection analytics.
+- Reduced batch processing time by 35%.
+- Implemented monitoring alerts for pipeline failures.
+
+PROJECT EXPERIENCE
+- Built distributed log processing tool.
+- Implemented real-time analytics dashboard.
+
+EDUCATION
+B.S. in Computer Science
+Purdue University

@@ -1,0 +1,31 @@
+Name: Kristen McCarthy
+
+TECHNICAL SKILLS
+Languages: Java, Kotlin, SQL
+Frameworks: Spring Boot
+Cloud: AWS, Kubernetes
+Databases: MySQL, Redis
+Other: API Design, Distributed Tracing
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Airbnb | 2020–Present
+- Developed booking and pricing microservices.
+- Implemented distributed tracing to debug cross-service latency.
+- Reduced API response times by 20%.
+- Led performance testing initiatives.
+
+Software Engineer
+Twilio | 2018–2020
+- Built messaging APIs handling high-throughput traffic.
+- Designed rate limiting and retry mechanisms.
+- Improved deployment stability through containerization.
+
+PROJECT EXPERIENCE
+- Designed a load-balanced chat messaging service.
+- Built a metrics aggregation system using Prometheus.
+
+EDUCATION
+B.S. in Computer Science
+University of Texas at Austin

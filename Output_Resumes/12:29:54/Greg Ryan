@@ -1,0 +1,31 @@
+Name: Greg Ryan
+
+TECHNICAL SKILLS
+Languages: C++, Python, SQL
+Frameworks: gRPC, Flask
+Cloud/DevOps: Google Cloud Platform, Docker
+Databases: Spanner, PostgreSQL
+Other: Multithreading, Performance Optimization
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Google | 2021–Present
+- Developed backend services for internal data processing tools.
+- Improved RPC performance by 22% via concurrency optimizations.
+- Built scalable logging infrastructure handling terabytes of data daily.
+- Collaborated on cross-region replication reliability initiatives.
+
+Software Engineer
+LinkedIn | 2018–2021
+- Implemented profile ranking and recommendation backend services.
+- Refactored monolithic components into modular services.
+- Reduced memory usage by 28% through profiling and optimization.
+
+PROJECT EXPERIENCE
+- Built a multithreaded in-memory caching layer in C++.
+- Implemented consistent hashing for load-balanced service routing.
+
+EDUCATION
+B.S. in Computer Science
+University of Illinois Urbana-Champaign

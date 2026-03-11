@@ -1,0 +1,33 @@
+Name: Jamal Robinson
+
+TECHNICAL SKILLS
+
+Languages: Java, Python, SQL
+Frameworks: Spring Boot, Flask
+Cloud/DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes
+Databases: PostgreSQL, Redis
+Other: REST APIs, Microservices, Distributed Systems, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Salesforce | 2021–Present
+- Designed and implemented microservices supporting CRM analytics workflows handling 4M+ daily requests.
+- Migrated legacy services to containerized Kubernetes infrastructure, reducing deployment times by 45%.
+- Optimized PostgreSQL queries and indexing strategies, improving reporting latency by 30%.
+- Led cross-team API design initiative adopted by three engineering groups.
+
+Software Engineer
+Adobe | 2018–2021
+- Developed backend services for document processing and storage systems.
+- Built asynchronous processing pipelines using AWS SQS and Lambda.
+- Implemented authentication and role-based authorization services.
+- Increased automated test coverage from 60% to 88%.
+
+PROJECT EXPERIENCE
+- Built a distributed URL-shortening service with rate limiting and caching using Redis.
+- Implemented a monitoring dashboard using Prometheus and Grafana for service metrics.
+
+EDUCATION
+B.S. in Computer Science
+University of California, San Diego

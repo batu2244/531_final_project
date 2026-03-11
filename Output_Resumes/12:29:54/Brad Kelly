@@ -1,0 +1,31 @@
+Name: Brad Kelly
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL
+Frameworks: FastAPI, Gin
+Cloud/DevOps: AWS, Terraform, Docker
+Databases: MySQL, DynamoDB
+Other: System Design, Event-Driven Architecture
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer
+Stripe | 2020–Present
+- Built payment processing services supporting international transactions.
+- Designed idempotent APIs handling 3M+ daily requests.
+- Improved service reliability from 99.5% to 99.95%.
+- Reduced infrastructure costs by 18% via workload optimization.
+
+Software Engineer
+Dropbox | 2018–2020
+- Developed metadata indexing services for large-scale file storage systems.
+- Implemented background job systems for file synchronization workflows.
+- Improved cache hit rates by 25% through Redis tuning.
+
+PROJECT EXPERIENCE
+- Implemented a simplified distributed key-value store in Go.
+- Designed a fault-tolerant task queue with retry logic and exponential backoff.
+
+EDUCATION
+B.S. in Computer Science
+University of Michigan
