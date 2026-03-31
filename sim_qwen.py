@@ -393,11 +393,9 @@ def classify_resume(resume_text: str) -> dict:
 
 # Hire decision rule
 def derive_hire_decision(overall_score: int) -> str:
-    if overall_score >= 70:
-        return "hire"
-    if overall_score >= 50:
-        return "consider"
-    return "reject"
+    if overall_score >= 60:
+        return 1
+    return 0
 
 
 # Experience -> qualification tier
