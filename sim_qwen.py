@@ -1,41 +1,88 @@
 """
 sim_qwen.py
 
-resume-to-JD scorer using Ollama (qwen3.5:9b).
+Resume-to-JD scorer using llama.cpp server (Qwen3.5-4B-GGUF:Q4_K_M).
 
-Key improvements over similarity_llm_qwen.py:
-- Three sub-dimensions: skills (0-40), experience (0-35), leadership (0-25)
-- Model must list matched / missing evidence BEFORE assigning scores
-- Tight rubric anchors force the model to spread scores across the full range
-- Hard penalty when required qualifications are absent
-- Deterministic output with keeping temperature=0 + format-constrained JSON
-- run_id stamped once per execution; all required CSV columns present
+Start the server in a separate terminal before running:
+
+./llama-server -hf unsloth/Qwen3.5-4B-GGUF:Q4_K_M \
+--ctx-size 16384 \
+--top-p 0.8 \
+--top-k 20 \
+--min-p 0.00 \
+--chat-template-kwargs "{\"enable_thinking\":false}"
+
+Llama.coo server should ve listening at http://127.0.0.1:8080
+
+Usage:
+  python sim_qwen.py Banking
+  python sim_qwen.py "Research Assistant"
+  python sim_qwen.py TEACHER
+
+The occupation argument selects which subfolder of
+  Resumes/Normalized_Resumes/
+to read resumes from. All JDs in jd_templates.json are always used.
+
+Output CSV: similarity_scores_<occupation>.csv
 """
 
+import argparse
 import hashlib
 import json
 import re
 import uuid
 from pathlib import Path
 
-import ollama
+import requests
+import csv
 import pandas as pd
 
-# Model
-MODEL = "qwen3.5:9b"
+# llama.cpp server endpoint
+SERVER_URL = "http://localhost:8080/v1/chat/completions"
+MODEL = "Qwen3.5-4B-GGUF:Q4_K_M"
 
+HEADERS = {"Content-Type": "application/json"}
+
+
+# ---------------------------------------------------------------------------------
+# llama.cpp HTTP wrapper
+def llama_chat(messages: list, schema: dict) -> str:
+    """
+    Send a chat request to the llama.cpp server.
+    Uses response_format JSON schema for constrained decoding.
+    Returns the raw content string.
+    """
+    payload = {
+        "model": MODEL,
+        "messages": messages,
+        "temperature": 0,
+        "response_format": {
+            "type": "json_schema",
+            "json_schema": {
+                "name": "output",
+                "strict": True,
+                "schema": schema,
+            },
+        },
+    }
+    resp = requests.post(SERVER_URL, headers=HEADERS, json=payload, timeout=120)
+    resp.raise_for_status()
+    return resp.json()["choices"][0]["message"]["content"]
+
+
+# ---------------------------------------------------------------------------------
 # Scoring prompt — built once per JD with dynamic weights
 def build_scoring_prompt(skills_w: int, experience_w: int, leadership_w: int) -> str:
-    s4 = skills_w // 4        # 25 % band boundary
-    s2 = skills_w // 2        # 50 %
-    s34 = skills_w * 3 // 4   # 75 %
+    s4  = skills_w // 4
+    s2  = skills_w // 2
+    s34 = skills_w * 3 // 4
 
-    e4 = experience_w // 4
-    e2 = experience_w // 2
+    e4  = experience_w // 4
+    e2  = experience_w // 2
     e34 = experience_w * 3 // 4
 
-    l4 = leadership_w // 4
-    l2 = leadership_w // 2
+    l4  = leadership_w // 4
+    l2  = leadership_w // 2
     l34 = leadership_w * 3 // 4
 
     return f"""You are a senior technical recruiter and ATS evaluator.
@@ -114,6 +161,7 @@ Return ONLY valid JSON — no markdown, no prose:
 All numeric fields must be integers.
 """
 
+
 # Classification prompt (runs once per resume, independent of any JD)
 CLASSIFY_PROMPT = """You are a resume analyst. Given a resume, predict three
 characteristics by reading the text carefully.
@@ -163,6 +211,7 @@ CLASSIFY_SCHEMA = {
     "additionalProperties": False,
 }
 
+
 # JD weight prompt (runs once per JD, before any resume is scored)
 JD_WEIGHT_PROMPT = """You are a job description analyst.
 Read the job description and decide how to distribute 100 points across three
@@ -192,24 +241,23 @@ Return ONLY valid JSON:
 JD_WEIGHT_SCHEMA = {
     "type": "object",
     "properties": {
-        "skills_weight":      {"type": "integer", "minimum": 5,  "maximum": 70},
-        "experience_weight":  {"type": "integer", "minimum": 5,  "maximum": 70},
-        "leadership_weight":  {"type": "integer", "minimum": 5,  "maximum": 70},
-        "reasoning":          {"type": "string"},
+        "skills_weight":     {"type": "integer", "minimum": 5, "maximum": 70},
+        "experience_weight": {"type": "integer", "minimum": 5, "maximum": 70},
+        "leadership_weight": {"type": "integer", "minimum": 5, "maximum": 70},
+        "reasoning":         {"type": "string"},
     },
     "required": ["skills_weight", "experience_weight", "leadership_weight", "reasoning"],
     "additionalProperties": False,
 }
 
-#---------------------------------------------------------------------------------
-# JSON schema for format-constrained decoding
+# JSON schema for scoring constrained decoding
 ATS_SCHEMA = {
     "type": "object",
     "properties": {
-        "matched_skills":        {"type": "array",   "items": {"type": "string"}},
-        "missing_required":      {"type": "array",   "items": {"type": "string"}},
+        "matched_skills":        {"type": "array", "items": {"type": "string"}},
+        "missing_required":      {"type": "array", "items": {"type": "string"}},
         "experience_notes":      {"type": "string"},
-        "leadership_indicators": {"type": "array",   "items": {"type": "string"}},
+        "leadership_indicators": {"type": "array", "items": {"type": "string"}},
         "skills_score":          {"type": "integer"},
         "experience_score":      {"type": "integer"},
         "leadership_score":      {"type": "integer"},
@@ -225,28 +273,18 @@ ATS_SCHEMA = {
 }
 
 
-#---------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 # JD weight extractor (runs once per JD)
 def extract_jd_weights(jd_text: str) -> dict:
-    """
-    Ask the model to decide dimension weights for this specific JD.
-    Returns a dict with skills_weight, experience_weight, leadership_weight.
-    Falls back to balanced defaults (40/35/25) on any error.
-    """
     defaults = {"skills_weight": 40, "experience_weight": 35, "leadership_weight": 25, "reasoning": "default"}
     try:
-        response = ollama.chat(
-            model=MODEL,
+        raw = llama_chat(
             messages=[
                 {"role": "system", "content": JD_WEIGHT_PROMPT},
                 {"role": "user",   "content": f"JOB DESCRIPTION:\n{jd_text}\n\nReturn JSON only."},
             ],
-            think=False,
-            stream=False,
-            format=JD_WEIGHT_SCHEMA,
-            options={"temperature": 0},
+            schema=JD_WEIGHT_SCHEMA,
         )
-        raw = response.message.content
         raw = re.sub(r"^```[^\n]*\n?", "", raw.strip())
         raw = re.sub(r"```$", "", raw.strip())
         data = json.loads(raw)
@@ -255,7 +293,6 @@ def extract_jd_weights(jd_text: str) -> dict:
         ew = max(5, int(data.get("experience_weight", 35)))
         lw = max(5, int(data.get("leadership_weight", 25)))
 
-        # Normalise to exactly 100 if the model drifts
         total = sw + ew + lw
         if total != 100:
             sw = round(sw / total * 100)
@@ -263,10 +300,10 @@ def extract_jd_weights(jd_text: str) -> dict:
             lw = 100 - sw - ew
 
         return {
-            "skills_weight":      sw,
-            "experience_weight":  ew,
-            "leadership_weight":  lw,
-            "weight_reasoning":   data.get("reasoning", ""),
+            "skills_weight":    sw,
+            "experience_weight": ew,
+            "leadership_weight": lw,
+            "weight_reasoning":  data.get("reasoning", ""),
         }
 
     except Exception as exc:
@@ -276,16 +313,11 @@ def extract_jd_weights(jd_text: str) -> dict:
 
 # Core scoring function
 def score_resume(jd_text: str, resume_text: str, weights: dict) -> dict:
-    """
-    Score a resume against a JD using the pre-computed JD weights.
-    Falls back to zero-scores on any parse / network error.
-    """
     sw = weights["skills_weight"]
     ew = weights["experience_weight"]
     lw = weights["leadership_weight"]
 
     system_prompt = build_scoring_prompt(sw, ew, lw)
-
     user_message = (
         "JOB DESCRIPTION:\n"
         f"{jd_text}\n\n"
@@ -295,32 +327,22 @@ def score_resume(jd_text: str, resume_text: str, weights: dict) -> dict:
     )
 
     try:
-        response = ollama.chat(
-            model=MODEL,
+        raw = llama_chat(
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user",   "content": user_message},
             ],
-            think=False,
-            stream=False,
-            format=ATS_SCHEMA,
-            options={"temperature": 0},
+            schema=ATS_SCHEMA,
         )
-        raw = response.message.content
-
-        # Strip accidental markdown fences if the model wraps anyway
         raw = re.sub(r"^```[^\n]*\n?", "", raw.strip())
         raw = re.sub(r"```$", "", raw.strip())
-
         data = json.loads(raw)
 
-        # Clamp sub-scores to their JD-specific maximums
-        data["skills_score"]    = max(0, min(sw, int(data.get("skills_score", 0))))
-        data["experience_score"]= max(0, min(ew, int(data.get("experience_score", 0))))
-        data["leadership_score"]= max(0, min(lw, int(data.get("leadership_score", 0))))
-        data["penalty"]         = max(0, min(10, int(data.get("penalty", 0))))
+        data["skills_score"]     = max(0, min(sw, int(data.get("skills_score", 0))))
+        data["experience_score"] = max(0, min(ew, int(data.get("experience_score", 0))))
+        data["leadership_score"] = max(0, min(lw, int(data.get("leadership_score", 0))))
+        data["penalty"]          = max(0, min(10, int(data.get("penalty", 0))))
 
-        # Re-derive overall_score from sub-scores
         computed = (
             data["skills_score"]
             + data["experience_score"]
@@ -351,23 +373,14 @@ def score_resume(jd_text: str, resume_text: str, weights: dict) -> dict:
 
 # Resume classifier (name_condition / wording_condition / format_condition)
 def classify_resume(resume_text: str) -> dict:
-    """
-    Runs once per resume. Returns predicted condition labels.
-    Falls back to 'unknown' on any error.
-    """
     try:
-        response = ollama.chat(
-            model=MODEL,
+        raw = llama_chat(
             messages=[
                 {"role": "system", "content": CLASSIFY_PROMPT},
                 {"role": "user",   "content": f"RESUME:\n{resume_text}\n\nReturn JSON only."},
             ],
-            think=False,
-            stream=False,
-            format=CLASSIFY_SCHEMA,
-            options={"temperature": 0},
+            schema=CLASSIFY_SCHEMA,
         )
-        raw = response.message.content
         raw = re.sub(r"^```[^\n]*\n?", "", raw.strip())
         raw = re.sub(r"```$", "", raw.strip())
         data = json.loads(raw)
@@ -391,16 +404,14 @@ def classify_resume(resume_text: str) -> dict:
         }
 
 
-# Hire decision rule
-def derive_hire_decision(overall_score: int) -> str:
-    if overall_score >= 60:
-        return 1
-    return 0
+# ---------------------------------------------------------------------------------
+# Helpers
+
+def derive_hire_decision(overall_score: int) -> int:
+    return 1 if overall_score >= 60 else 0
 
 
-# Experience -> qualification tier
 def derive_qualification_tier(experience_entries: list) -> str:
-
     n = len(experience_entries)
     if n >= 3:
         return "senior"
@@ -409,103 +420,134 @@ def derive_qualification_tier(experience_entries: list) -> str:
     return "junior"
 
 
-# Build a stable resume_id
-def make_resume_id(name: str, source_file: str) -> str:
-    raw = f"{name}|{source_file}"
+def make_resume_id(resume_file_stem: str, occupation: str) -> str:
+    raw = f"{occupation}|{resume_file_stem}"
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
 
-# Flatten parsed resume to plain text
-def build_resume_text(p: dict) -> str:
-    parts = [f"Candidate: {p.get('name', 'Unknown')}"]
+def build_resume_text(data: dict) -> str:
+    """Convert normalized JSON resume to plain text for the model."""
+    parts = []
 
-    skills = p.get("technical_skills", {})
-    for cat, vals in skills.items():
-        parts.append(f"{cat}: {', '.join(vals)}")
+    name = data.get("name", "")
+    if name:
+        parts.append(f"Name: {name}")
 
-    for exp in p.get("professional_experience", []):
-        header = (
-            f"{exp.get('title', '')} at {exp.get('company', '')} "
-            f"({exp.get('date_range', '')})"
-        )
-        parts.append(header)
-        parts.extend(exp.get("responsibilities", []))
+    for edu in data.get("education", []):
+        school = edu.get("school", "")
+        degree = edu.get("degree", "")
+        details = edu.get("details", "")
+        line = f"Education: {degree} — {school}"
+        if details:
+            line += f" ({details})"
+        parts.append(line)
 
-    for proj in p.get("project_experience", []):
-        desc = proj.get("description", "")
-        if desc:
-            parts.append(f"Project: {desc}")
+    for exp in data.get("experience", []):
+        title = exp.get("title", "")
+        dates = exp.get("dates", "")
+        parts.append(f"{title} ({dates})")
+        for bullet in exp.get("bullets", []):
+            parts.append(f"  - {bullet}")
 
-    for edu in p.get("education", []):
-        parts.append(
-            f"Education: {edu.get('degree', '')} — {edu.get('institution', '')}"
-        )
-
-    certs = p.get("certifications", [])
-    if certs:
-        parts.append(f"Certifications: {', '.join(certs)}")
+    skills = data.get("skills_and_achievements", "")
+    if skills:
+        parts.append(f"Skills & Achievements: {skills}")
 
     return "\n".join(parts)
 
 
-#---------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
+# Load resumes from an Output_Resumes occupation folder (batched, name-assigned)
+def load_resumes(output_dir: Path, occupation: str) -> list:
+    folder = output_dir / occupation
+    if not folder.exists():
+        raise FileNotFoundError(
+            f"Occupation folder not found: {folder}\n"
+            f"Available: {[d.name for d in output_dir.iterdir() if d.is_dir()]}"
+        )
+
+    batch_dirs = sorted(
+        [d for d in folder.iterdir() if d.is_dir() and d.name.startswith("Batch_")],
+        key=lambda d: int(d.name.split("_")[1]),
+    )
+    if not batch_dirs:
+        raise FileNotFoundError(f"No Batch_* subfolders found in {folder}")
+
+    records = []
+    for batch in batch_dirs:
+        batch_id = batch.name
+        for jf in sorted(batch.iterdir()):
+            if not jf.is_file() or jf.name.startswith("."):
+                continue
+            try:
+                data = json.loads(jf.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, UnicodeDecodeError) as exc:
+                print(f"  [WARN] Skipping {batch_id}/{jf.name}: {exc}")
+                continue
+
+            candidate_name = data.get("name", jf.name)
+            records.append({
+                "resume_id":          make_resume_id(f"{batch_id}/{jf.name}", occupation),
+                "variant_id":         occupation,
+                "batch_id":           batch_id,
+                "source_file":        str(jf),
+                "candidate_name":     candidate_name,
+                "qualification_tier": derive_qualification_tier(data.get("experience", [])),
+                "resume_text":        build_resume_text(data),
+                "name_condition":     "unknown",
+                "wording_condition":  "unknown",
+                "format_condition":   "unknown",
+            })
+
+    if not records:
+        raise FileNotFoundError(f"No resume files loaded from {folder}")
+    return records
+
+
+# ---------------------------------------------------------------------------------
 # Main
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Score resumes against all JDs using llama.cpp (Qwen3.5-4B)."
+    )
+    parser.add_argument(
+        "occupation",
+        help="Subfolder name inside Resumes/Normalized_Resumes/ to score, e.g. Banking",
+    )
+    args = parser.parse_args()
+    occupation = args.occupation
+
     base   = Path(__file__).parent
     run_id = str(uuid.uuid4())
-    print(f"Run ID: {run_id}\nModel:  {MODEL}\n")
+    print(f"Run ID:     {run_id}")
+    print(f"Model:      {MODEL}")
+    print(f"Occupation: {occupation}\n")
 
     # Load resumes
-    parsed = json.loads((base / "parsed_resumes.json").read_text())
+    output_dir = base / "Resumes" / "Output_Resumes"
+    resume_records = load_resumes(output_dir, occupation)
+    print(f"Loaded {len(resume_records)} resumes from '{occupation}'.\n")
 
-    resume_records = []
-    for p in parsed:
-        name        = p.get("name", "Unknown")
-        source_file = p.get("source_file", "")
-
-        # Derive variant_id from the last timestamp-named directory in the path
-        path_parts  = Path(source_file).parts
-        # Walk from the right looking for a segment that looks like a timestamp
-        variant_id  = "v_unknown"
-        for part in reversed(path_parts):
-            if re.match(r"^\d{1,2}:\d{2}(:\d{2})?$", part):
-                variant_id = part.replace(":", "")
-                break
-
-        resume_records.append({
-            "resume_id":          make_resume_id(name, source_file),
-            "variant_id":         variant_id,
-            "name":               name,
-            "name_condition":     p.get("name_condition",     "unknown"),
-            "wording_condition":  p.get("wording_condition",  "unknown"),
-            "format_condition":   p.get("format_condition",   "unknown"),
-            "qualification_tier": derive_qualification_tier(
-                                      p.get("professional_experience", [])),
-            "resume_text":        build_resume_text(p),
-        })
-
-    print(f"Loaded {len(resume_records)} resumes.")
-
-    # Classify each resume once (conditions are resume-level, not JD-level)
-    print("\nClassifying resumes ...")
+    # Classify each resume once
+    print("Classifying resumes ...")
     for rec in resume_records:
         labels = classify_resume(rec["resume_text"])
         rec["name_condition"]    = labels["name_condition"]
         rec["wording_condition"] = labels["wording_condition"]
         rec["format_condition"]  = labels["format_condition"]
         print(
-            f"  {rec['name']:<25} "
+            f"  {rec['candidate_name']:<20} "
             f"name={rec['name_condition']:<18} "
             f"wording={rec['wording_condition']:<20} "
             f"format={rec['format_condition']}"
         )
     print()
 
-    # Load JD templates 
+    # Load JD templates
     jd_templates = json.loads((base / "jd_templates.json").read_text())
     print(f"Loaded {len(jd_templates)} JD templates.\n")
 
-    # Score 
+    # Score every resume against every JD
     all_rows = []
 
     for jd_role, jd_text in jd_templates.items():
@@ -513,7 +555,6 @@ if __name__ == "__main__":
         print(f"JD: {jd_role.upper()}")
         print(f"{'='*55}")
 
-        # Extract weights once for this JD
         weights = extract_jd_weights(jd_text)
         print(
             f"  Weights → skills={weights['skills_weight']}  "
@@ -524,9 +565,9 @@ if __name__ == "__main__":
         print()
 
         for rec in resume_records:
-            print(f"  Scoring: {rec['name']} ...", end=" ", flush=True)
+            print(f"  Scoring: {rec['candidate_name']} ...", end=" ", flush=True)
 
-            scores = score_resume(jd_text, rec["resume_text"], weights)
+            scores  = score_resume(jd_text, rec["resume_text"], weights)
             overall = scores["overall_score"]
             print(
                 f"overall={overall}  "
@@ -537,51 +578,44 @@ if __name__ == "__main__":
             )
 
             all_rows.append({
-                # Identity columns
                 "resume_id":          rec["resume_id"],
                 "variant_id":         rec["variant_id"],
+                "batch_id":           rec["batch_id"],
                 "run_id":             run_id,
                 "model_name":         MODEL,
-                # Experimental-design columns
                 "name_condition":     rec["name_condition"],
                 "wording_condition":  rec["wording_condition"],
                 "format_condition":   rec["format_condition"],
                 "qualification_tier": rec["qualification_tier"],
-                # JD label + weights
                 "jd_role":            jd_role,
                 "skills_weight":      weights["skills_weight"],
                 "experience_weight":  weights["experience_weight"],
                 "leadership_weight":  weights["leadership_weight"],
-                # Scores
                 "overall_score":      overall,
                 "skills_score":       scores["skills_score"],
                 "experience_score":   scores["experience_score"],
                 "leadership_score":   scores["leadership_score"],
-                # Derived decision
                 "hire_decision":      derive_hire_decision(overall),
-                # Candidate metadata
-                "candidate_name":     rec["name"],
+                "candidate_name":     rec["candidate_name"],
             })
 
         print()
 
     # Save CSV
-    output_df   = pd.DataFrame(all_rows)
+    output_df = pd.DataFrame(all_rows)
 
-    # Reorder so the required columns come first, in exactly the specified order
     required_cols = [
         "resume_id", "variant_id", "run_id", "model_name",
         "name_condition", "wording_condition", "format_condition",
         "qualification_tier", "hire_decision",
         "overall_score", "leadership_score", "experience_score", "skills_score",
     ]
-    extra_cols    = [c for c in output_df.columns if c not in required_cols]
-    output_df     = output_df[required_cols + extra_cols]
+    extra_cols = [c for c in output_df.columns if c not in required_cols]
+    output_df  = output_df[required_cols + extra_cols]
 
-    output_path = base / "similarity_scores_sim_qwen.csv"
+    safe_name   = occupation.replace(" ", "_")
+    output_path = base / f"similarity_scores_{safe_name}.csv"
     output_df.to_csv(output_path, index=False)
     print(f"Saved {len(output_df)} rows → {output_path}")
     print("\nScore distribution (overall_score):")
     print(output_df["overall_score"].describe().round(1).to_string())
-
-
