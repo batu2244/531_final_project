@@ -1,0 +1,31 @@
+{
+  "name": "Keisha Jackson",
+  "education": [
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.URP",
+      "details": "2019–24, GPA 5.00 in HSC"
+    },
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "GPA 5.00 in HSC"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Asst.",
+      "dates": "2024–25",
+      "bullets": [
+        "projects on seismic & multi-hazard resilience"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2023",
+      "bullets": [
+        "Works on spatial risk modeling & urban heat analysis"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in GIS, Remote Sensing, SPSS, ERDAS Imagine, AutoCAD & Spatial Analysis. Published in Computational Urban Science (Springer, 2024) & ICWFM 2023. Gold Award in Intl. Poster Comp. on SDGs (2021). Certified in Python, PowerPoint, and GIS Apps"
+}

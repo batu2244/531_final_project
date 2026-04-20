@@ -1,0 +1,52 @@
+{
+  "name": "Maria Lee",
+  "education": [
+    {
+      "school": "Southwestern University",
+      "degree": "M.A. in Math Education",
+      "details": "2000"
+    },
+    {
+      "school": "Philippine Normal University",
+      "degree": "M.A. in Education",
+      "details": "1994"
+    },
+    {
+      "school": "Maryland Teacher Certificate (APC)",
+      "degree": "current"
+    }
+  ],
+  "experience": [
+    {
+      "title": "High School Math Teacher",
+      "dates": "2009–Present",
+      "bullets": [
+        "taught Data Analysis (Regular/Honors)",
+        "taught Algebra I (Regular/Honors and Intensified)",
+        "taught Geometry (Regular/Honors)"
+      ]
+    },
+    {
+      "title": "High School Math Teacher",
+      "dates": "2005–2009",
+      "bullets": [
+        "Geometry and Algebra (grades 9–11)"
+      ]
+    },
+    {
+      "title": "High School Math Educator",
+      "dates": "1997–2005",
+      "bullets": [
+        "Geometry, Data Analysis, Algebra I (grades 9–10)"
+      ]
+    },
+    {
+      "title": "High School Math Educator",
+      "dates": "1995–1996",
+      "bullets": [
+        "Algebra I (first-year)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "~19 years of high school math teaching with strengths in differentiated instruction, interactive learning, learning-style assessment, and family collaboration; experienced with special needs students; proficient with Microsoft Word, PowerPoint, Excel, Google Docs, Dropbox, Derive. Recognitions include Teacher of the Month (Jan 2011, May 2014), MCTM Teacher of the Year nominee (2011), qualified TOY applicant (2014), consistent “Proficient” ratings since 2003, highest HS assessment percentages (May 2013, May 2014), and 100% HSA pass rate (2010). Leadership as H3 team leader, Math Mentors Club moderator, Vita Matematica contributor; active in BTU, NCTM, and AFT; community involvement with ASPCA; CPR-capable with documented lifesaving incidents."
+}

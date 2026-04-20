@@ -1,0 +1,43 @@
+{
+  "name": "Lisa Tsosie",
+  "education": [
+    {
+      "school": "South West Schools",
+      "degree": "Clinical Medical Assistant certificate",
+      "details": "2012, ~800 training hours including Medical Terminology and Anatomy & Physiology"
+    },
+    {
+      "school": "Holy Cross High School",
+      "degree": "High School Diploma",
+      "details": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Medical Assistant",
+      "dates": "2012–2013",
+      "bullets": [
+        "Assisted exams"
+      ]
+    },
+    {
+      "title": "Medical Assistant",
+      "dates": "2011",
+      "bullets": [
+        "Vitals",
+        "Range-of-motion exercises",
+        "Ultrasound exams",
+        "Room preparation",
+        "Patient care"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2013",
+      "bullets": [
+        "Taught letters, numbers, and arts/crafts"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Vital signs, injections (IM/ID/Sub-Q/Z-track), phlebotomy (butterfly, vacutainer, syringe, capillary), ultrasound procedures, exam room setup/sterilization, patient education, EMR documentation, ICD-9/CPT familiarity, scheduling, insurance and co-pays, Microsoft Office; classroom readiness, early literacy/numeracy, arts activities, child supervision and safety."
+}

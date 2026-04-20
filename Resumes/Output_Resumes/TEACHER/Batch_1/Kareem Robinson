@@ -1,0 +1,61 @@
+{
+  "name": "Kareem Robinson",
+  "education": [
+    {
+      "school": "Marygrove",
+      "degree": "M.Ed.",
+      "details": "2007"
+    },
+    {
+      "school": "Tennessee State",
+      "degree": "B.S.",
+      "details": "1996"
+    },
+    {
+      "school": "GA Certs",
+      "degree": "P–5",
+      "details": "Reading 4–8, Social Science 4–8, ELA 4–8"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2011–Present",
+      "bullets": [
+        "Writing Dept. Chair",
+        "5th Grade Level Chair",
+        "differentiated & data-driven instruction",
+        "Georgia Milestones CR",
+        "Promethean/Study Island",
+        "PD facilitation"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2008–2010",
+      "bullets": [
+        "Character education",
+        "behavior systems"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2007–2008",
+      "bullets": [
+        "Mr. C’s Bucks”, “Project L.O.N.G./“Our Squad.”",
+        "Presenter (MASPA, Marygrove, W.I.G.O. Radio)"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2005–2007",
+      "bullets": [
+        "Academy Director",
+        "evals",
+        "single-gender master schedule",
+        "discipline/handbooks/ops"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Writing Dept. Chair; 5th Grade Level Chair; differentiated & data-driven instruction; Georgia Milestones CR; Promethean/Study Island; PD facilitation. Results: ~85% ELA meet/exceed (2014–15); EIP homeroom 100% reading pass; 95% 5th-grade writing pass (2013–14)."
+}

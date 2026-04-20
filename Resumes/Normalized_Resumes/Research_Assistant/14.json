@@ -1,0 +1,52 @@
+{
+  "education": [
+    {
+      "school": "University of Toronto",
+      "degree": "PhD Student in Mechanical & Robotics Engineering",
+      "details": "2024–28"
+    },
+    {
+      "school": "Carleton University",
+      "degree": "MSc in Neuroscience",
+      "details": "2022–24, GPA 3.8"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Doctoral Researcher",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in Robotics"
+      ]
+    },
+    {
+      "title": "Software Eng. Intern",
+      "dates": "UofT Hatchery",
+      "bullets": [
+        "Research Consultant, Quansah Consulting"
+      ]
+    },
+    {
+      "title": "Peer Mentor",
+      "dates": "Temerty Med",
+      "bullets": [
+        "Co-President, Human Factors Group, UofT"
+      ]
+    },
+    {
+      "title": "Data Analysis",
+      "dates": "2021–",
+      "bullets": [
+        "Certified in AI for Robotics & Mechanical Engineers (Univ. of Michigan)"
+      ]
+    },
+    {
+      "title": "IBET Momentum Fellow",
+      "dates": "2025",
+      "bullets": [
+        "Winner of Morris Wayman Prize & OSOTF Bursary"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Robotics, Neuroscience, Project Mgmt, User Experience Design, Data Analysis, AI, Jupyter. IBET Momentum Fellow, Junior Fellow at Massey College. Winner of Morris Wayman Prize & OSOTF Bursary (2025)."
+}

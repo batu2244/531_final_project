@@ -1,0 +1,39 @@
+{
+  "name": "Brendan O’Brien",
+  "education": [
+    {
+      "school": "University of Albuquerque",
+      "degree": "B.S. Accounting",
+      "details": "Cum Laude"
+    },
+    {
+      "school": "University of Albuquerque",
+      "degree": "B.S. Accounting",
+      "details": "1966"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Finance Manager",
+      "dates": "04/2004–06/2011",
+      "bullets": [
+        "led audits and pricing reviews"
+      ]
+    },
+    {
+      "title": "Owner",
+      "dates": "03/2001–08/2004",
+      "bullets": [
+        "audited 50+ county fair vendors"
+      ]
+    },
+    {
+      "title": "Director, Govt Contracts/Costing",
+      "dates": "1988–2001",
+      "bullets": [
+        "reviewed proposals for 8 plants"
+      ]
+    }
+  ],
+  "skills_and_achievements": "40+ years in AP/AR, payroll, budgeting, cost proposals, CAS disclosure/cost impact; led audits and pricing reviews; AIA Cost Principles Committee member—contributed to 48 CFR 15 rewrite on commercial pricing; built Excel bid/home-office allocation models; trained plant controllers; resolved $8M AR on B-2 materials; streamlined fund accounting (staff −24%, audit fees −40%)."
+}

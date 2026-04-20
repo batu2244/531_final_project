@@ -1,0 +1,45 @@
+{
+  "education": [
+    {
+      "school": "Manipal International University",
+      "degree": "B.Eng. in Mechanical Engineering",
+      "details": "CGPA 3.30/4.0, 2015–20"
+    },
+    {
+      "school": "Hazi Muhammad Mohsin College",
+      "degree": "HSC",
+      "details": "GPA 5.00, 2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2024–",
+      "bullets": [
+        "Developed 6 molds for ACC compressors, boosting output by 18%"
+      ]
+    },
+    {
+      "title": "Assistant Director",
+      "dates": "2021–24",
+      "bullets": [
+        "Managed R&D in compressor mold and quality systems"
+      ]
+    },
+    {
+      "title": " Asst. Mech. Engr.",
+      "dates": "2020",
+      "bullets": [
+        "Developed 6 molds for ACC compressors"
+      ]
+    },
+    {
+      "title": "Customer Support",
+      "dates": "2021",
+      "bullets": [
+        "R&D in compressor mold and quality systems"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in SolidWorks, Magmasoft, Mold Design, Product Simulation, and Quality Management. Certified SolidWorks Professional in Mold Making, Sheet Metal, Surfacing, and Drawing Tools. Developed 6 molds for ACC compressors, boosting output by 18%"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Michael Chee",
+  "education": [
+    {
+      "school": "University of North Alabama",
+      "degree": "Bachelors in Marketing"
+    },
+    {
+      "school": "Health care",
+      "degree": "Not specified"
+    }
+  ],
+  "experience": [
+    {
+      "title": "QA Test Analyst",
+      "dates": "09/2014–Current",
+      "bullets": [
+        "Manual QA across web"
+      ]
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "dates": "10/2013–07/2014",
+      "bullets": [
+        "Test strategy, regression, Agile"
+      ]
+    },
+    {
+      "title": "Manual Tester",
+      "dates": "06/2010–06/2013",
+      "bullets": [
+        "POS certification"
+      ]
+    },
+    {
+      "title": "Jr. QA Analyst",
+      "dates": "07/2009–05/2010",
+      "bullets": [
+        "Airline web apps"
+      ]
+    },
+    {
+      "title": "GUI/security tests",
+      "dates": "06/2010–06/2013",
+      "bullets": [
+        "Airline web apps"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Manual QA across web, client/server, SaaS; SDLC/STLC; test plans/cases; functional/regression/UAT/performance/smoke; mobile testing (iOS/Android); cross-browser; SQL backend validation; Agile/Scrum; defect mgmt (Quality Center/JIRA); stakeholder comms; RCA; built quality metrics"
+}

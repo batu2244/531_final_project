@@ -1,0 +1,14 @@
+EDUCATION
+Chittagong Univ. of Engineering & Technology
+B.Sc. in Electronics & Telecommunication Engineering
+
+RAJUK Uttara Model College
+HSC
+
+PROFESSIONAL EXPERIENCE
+Graduate Research Assistant
+2024-present
+- works on deep learning-based medical imaging and AI-driven multimodal analysis for diagnostic applications
+
+SKILLS
+Skilled in Deep Learning, CNN, Computer Vision, Medical Image Analysis, Python, NI Multisim, Git, and Data Structures. Published in IEEE (2023) and JISEBI (2022) on MRI brain tumor classification.

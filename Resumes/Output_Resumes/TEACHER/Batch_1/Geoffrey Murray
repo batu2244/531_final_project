@@ -1,0 +1,40 @@
+{
+  "name": "Geoffrey Murray",
+  "education": [
+    {
+      "school": "Delta State University",
+      "degree": "Bachelor of Science in Reading",
+      "details": "Concentrations in English and Social Studies"
+    },
+    {
+      "school": "Delta State University",
+      "degree": "Mississippi Teaching Certificate with Elementary Education endorsement",
+      "details": "Renewed 2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2009–Present",
+      "bullets": [
+        "Created engaging environments"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2007–2009",
+      "bullets": [
+        "Adapted resources for special education and varying abilities"
+      ]
+    },
+    {
+      "title": "Teacher Intern",
+      "dates": "08/2006–12/2006",
+      "bullets": [
+        "Developed unit plans aligned to county curriculum for seventh-grade inclusion classes"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Teacher of the Year (2009)",
+  "job_type": "Senior-level"
+}

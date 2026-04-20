@@ -1,0 +1,59 @@
+{
+  "name": "Sarah Tran",
+  "education": [
+    {
+      "school": "University of South Carolina–Upstate",
+      "degree": "B.S. in Accounting & Finance",
+      "details": "1993"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–present",
+      "bullets": [
+        "Overseeing financial reporting"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "2010–2014",
+      "bullets": [
+        "Delivering statements"
+      ]
+    },
+    {
+      "title": "Senior Accountant",
+      "dates": "2005–2009",
+      "bullets": [
+        "Handling property/development accounting"
+      ]
+    },
+    {
+      "title": "Finance Manager/Accountant",
+      "dates": "2004–2005",
+      "bullets": [
+        "Producing financials and forecasts"
+      ]
+    },
+    {
+      "title": "Assistant Controller",
+      "dates": "2001–2004",
+      "bullets": [
+        "Leading controls"
+      ]
+    },
+    {
+      "title": "Project Accountant",
+      "dates": "1999–2001",
+      "bullets": [
+        "Preparing monthly reporting"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GAAP general ledger, AP/AR, reconciliations, cash management, budgeting and variance analysis, job costing, inventory control, AIA and T&M billing, percent-completion revenue, audit prep; systems include Timberline, MRI, YARDI, Peachtree, PeopleSoft, OneSite, QuickBooks, and Microsoft Excel/Word."
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Juan Rodriguez",
+  "education": [
+    {
+      "school": "Syracuse University",
+      "degree": "B.S. Textile Design"
+    },
+    {
+      "school": "Other",
+      "degree": "Other"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freelance Product Development Manager",
+      "dates": "2012 - Present",
+      "bullets": [
+        "Managed teams and major product lines"
+      ]
+    },
+    {
+      "title": "Sr. Apparel Designer",
+      "dates": "2002 – 2012",
+      "bullets": [
+        "Led cross-functional teams"
+      ]
+    },
+    {
+      "title": "Textile Design",
+      "dates": "2002 – 2012",
+      "bullets": [
+        "Designed 600+ styles"
+      ]
+    },
+    {
+      "title": "Home Décor Management",
+      "dates": "Overseas sourcing",
+      "bullets": [
+        "Sourced products"
+      ]
+    },
+    {
+      "title": "Print Management",
+      "dates": "30K savings",
+      "bullets": [
+        "Saved $30K on prints"
+      ]
+    },
+    {
+      "title": "Training Freelancers",
+      "dates": "20+ freelancers",
+      "bullets": [
+        "Trained 20+ freelancers"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Expert in apparel, packaging, graphics, fabric sourcing, knitwear, cost structuring, CAD (Ned Graphics, Kaledo, U4ia), Adobe CC, and PDM/PLM. Strong in trend boards, fit, production specs, and negotiation; managed teams and major product lines; grew a children’s line to $10M, saved $30K on prints, and trained 20+ freelancers."
+}

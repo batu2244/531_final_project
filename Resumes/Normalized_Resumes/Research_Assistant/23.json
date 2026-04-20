@@ -1,0 +1,55 @@
+{
+  "education": [
+    {
+      "school": "Washington State University",
+      "degree": "Ph.D. in Computer Science",
+      "details": "2025–"
+    },
+    {
+      "school": "Islamic University of Technology",
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "details": "2018–2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA & TA",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in Web Security",
+        "Risk-Based Authentication",
+        "Browser Fingerprinting",
+        "QA Automation",
+        "Python"
+      ]
+    },
+    {
+      "title": "Software Engineer (QA)",
+      "dates": "2022–24",
+      "bullets": [
+        "Focused on web security",
+        "Risk-Based Authentication",
+        "Automation Testing"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2021",
+      "bullets": [
+        "Web Security",
+        "Risk-Based Authentication",
+        "Automation Testing"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2021",
+      "bullets": [
+        "Focused on web security",
+        "Risk-Based Authentication",
+        "Automation Testing"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Web Security, Risk-Based Authentication, Browser Fingerprinting, QA Automation, and Python. 7th place in Dhaka AI Traffic Detection Challenge (2020). City Highest in Cambridge IGCSE Accounting (2015)."
+}

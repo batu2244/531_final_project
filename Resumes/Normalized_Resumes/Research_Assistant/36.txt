@@ -1,0 +1,18 @@
+EDUCATION
+United International Univ.
+B.Sc. in CSE
+
+Concordia Univ. of Edmonton
+Study in Canada Scholar
+
+PROFESSIONAL EXPERIENCE
+Research Asst.
+2025–
+- Contributed to ML & biomedical signal research
+
+Teaching Asst.
+2023–25
+- Developed award-winning AI software projects
+
+SKILLS
+Skilled in AI, ML, CV, Research Design, Technical Writing, Svelte-Kit. Publications in IEEE Access (EEG Motor Imagery, 2025), Elsevier CBM (GBDTSVM model), and ICCV 2025 Workshop (MLLM safety).

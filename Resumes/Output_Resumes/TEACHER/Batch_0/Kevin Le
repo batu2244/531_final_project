@@ -1,0 +1,50 @@
+{
+  "name": "Kevin Le",
+  "education": [
+    {
+      "school": "Tennessee Technological University",
+      "degree": "M.S., Instructional Leadership—Early Childhood Education",
+      "details": "2008"
+    },
+    {
+      "school": "Georgia Southwestern University",
+      "degree": "B.S., Early Childhood Education",
+      "details": "1996"
+    },
+    {
+      "school": "Valdosta State University",
+      "degree": "additional study"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2004–Mar 2014",
+      "bullets": [
+        "child-centered curricula"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2002–Jun 2004",
+      "bullets": [
+        "led conferences, paperwork/compliance"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "1997–Jun 2002",
+      "bullets": [
+        "routines, one-on-one support"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "1996–Jun 1997",
+      "bullets": [
+        "inquiry games, assessments"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Instructional design, early childhood pedagogy, lesson planning, classroom management, progress monitoring, conflict resolution, critical thinking, time management, communication (written/verbal), conferences & meetings, problem solving, process improvement, Promethean Board, charts/data use"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mary Chee",
+  "education": [
+    {
+      "school": "University of Greenwich",
+      "degree": "B.A. Business Studies",
+      "details": "ABE Business coursework (Levels 3–6), Oshwal College"
+    },
+    {
+      "school": "Shantilal Gala & Company",
+      "degree": "Accountant"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Jul 2012–Oct 2015",
+      "bullets": [
+        "maintained AR records",
+        "ran weekly/monthly bank recs & financial reports",
+        "created Excel recording system to improve efficiency",
+        "processed payroll, deposits, and pay adjustments",
+        "prepared sales/customer count sheets",
+        "collaborated closely with auditors"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Periodic financial reporting, invoice coding, general ledger, account reconciliations, AR documentation, payroll processing, Excel system building, audit support (prelim & year-end), complex problem solving, strong communication, organization, time management, adaptability"
+}

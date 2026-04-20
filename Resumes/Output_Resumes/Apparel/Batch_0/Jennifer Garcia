@@ -1,0 +1,45 @@
+{
+  "name": "Jennifer Garcia",
+  "education": [
+    {
+      "school": "Oldham County High School",
+      "degree": "High School Diploma"
+    },
+    {
+      "school": "Oldham County High School",
+      "degree": "High School Diploma"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Bookseller",
+      "dates": "2015",
+      "bullets": [
+        "handled sales, stock, and customer service"
+      ]
+    },
+    {
+      "title": "Teacher/Closer",
+      "dates": "2015-2018",
+      "bullets": [
+        "managed classrooms, safety, and parent communication"
+      ]
+    },
+    {
+      "title": "Apparel and Jewelry Associate/Cashier",
+      "dates": "2015-2018",
+      "bullets": [
+        "handled merchandising, POS operations, jewelry counter, and customer relations"
+      ]
+    },
+    {
+      "title": "Walmart",
+      "dates": "2018-Present",
+      "bullets": [
+        "Assisted with sales, stock, and customer service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Customer service, communication, cashiering, inventory, stock rotation, jewelry sales, classroom management, childcare, MS Office, time management, basic ASL learner",
+  "job_type": "Entry-level"
+}

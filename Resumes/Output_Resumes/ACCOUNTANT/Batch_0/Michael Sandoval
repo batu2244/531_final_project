@@ -1,0 +1,38 @@
+{
+  "name": "Michael Sandoval",
+  "education": [
+    {
+      "school": "Kaplan University",
+      "degree": "B.S. Accounting",
+      "details": "2009"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2010–Present",
+      "bullets": [
+        "Implemented A/R reporting & recon improvements"
+      ]
+    },
+    {
+      "title": "Customer Service Rep",
+      "dates": "2007–2010",
+      "bullets": [
+        "Cashiering, issue resolution, money orders"
+      ]
+    },
+    {
+      "title": "Store Manager",
+      "dates": "2005–2007",
+      "bullets": [
+        "Hired/trained staff"
+      ]
+    }
+  ],
+  "skills_and_achievements": "A/R reporting enhancements & reconciliation procedures; cash/check/voucher processing; bank deposit & transaction recon; client discovery for accounting requirements; Salesforce, TapScan; Bacon’s Mediasource, Factiva; Photoshop, Illustrator, basic HTML"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Jesus Garcia",
+  "education": [
+    {
+      "school": "South Dakota Mines",
+      "degree": "Ph.D. in Electrical Engineering",
+      "details": "2025"
+    },
+    {
+      "school": "Ahsanullah Univ. of Science & Technology",
+      "degree": "B.Sc. in EEE",
+      "details": "2020–24"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2025–",
+      "bullets": [
+        "Led 6G polarization converter project"
+      ]
+    },
+    {
+      "title": "Research Asst.",
+      "dates": "2024–25",
+      "bullets": [
+        "Chair, IEEE PES AUST"
+      ]
+    },
+    {
+      "title": "Treasurer",
+      "dates": "2022–23",
+      "bullets": [
+        "Work in RF & antenna development"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2023–24",
+      "bullets": [
+        "Lead, 6G polarization converter project"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in CST, HFSS, COMSOL, RF circuit design, and antenna simulation. Published in Elsevier Results in Engineering (2025, 2024) on X-band and 5G antennas. IEEE PES leader; focus on biomedical & EM design"
+}

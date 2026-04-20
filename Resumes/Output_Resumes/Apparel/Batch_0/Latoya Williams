@@ -1,0 +1,53 @@
+{
+  "name": "Latoya Williams",
+  "education": [
+    {
+      "school": "College of Creative Studies",
+      "degree": "B.F.A. Industrial Design",
+      "details": "Summer Courses in Design, Monroe Community College Rochester (GPA 3.6)"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "CCA certified"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freelance Designer",
+      "dates": "2014–Now",
+      "bullets": [
+        "created tech packs, gloves, hoodies, polos, promotional caps"
+      ]
+    },
+    {
+      "title": "Apparel Designer",
+      "dates": "2012–2013",
+      "bullets": [
+        "managed new lines, fit tests, costing, and tech packs"
+      ]
+    },
+    {
+      "title": "Product Designer",
+      "dates": "2007–2012",
+      "bullets": [
+        "designed products for Dick’s, Walmart, Kohl’s, Cabela’s, Magellan, Kryptek"
+      ]
+    },
+    {
+      "title": "Website Designer",
+      "dates": "2006",
+      "bullets": [
+        "designed website"
+      ]
+    },
+    {
+      "title": "Contract Designer",
+      "dates": "2006",
+      "bullets": [
+        "designed products"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Product development, 3D modeling, concept sketches, apparel design, prototype creation, project management, Rhino, Alias, Hypershot, Keyshot, Adobe Photoshop/Illustrator, ProEngineer, MS Office; mentored students, built children’s playground"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Todd Kelly",
+  "education": [
+    {
+      "school": "Temple Real Estate School",
+      "degree": "Certificate in Marketing"
+    },
+    {
+      "school": "Virginia Union University",
+      "degree": "Studied Marketing"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Key Holder",
+      "dates": "2012",
+      "bullets": [
+        "trained sales teams",
+        "resolved customer issues",
+        "managed promotions",
+        "store operations"
+      ]
+    },
+    {
+      "title": "Collections Specialist",
+      "dates": "2012-2018",
+      "bullets": [
+        "handled high-volume calls and account resolutions"
+      ]
+    },
+    {
+      "title": "Sales Associate",
+      "dates": "2013-2017",
+      "bullets": [
+        "greeted customers",
+        "sold products",
+        "registered customers"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Customer service, fashion sales, team training, workflow management, MS Office, Outlook, Excel, Word, inventory, cash handling, real estate, leadership, quality focus"
+}

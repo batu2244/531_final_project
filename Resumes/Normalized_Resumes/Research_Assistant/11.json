@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "school": "Shahjalal University of Science & Technology",
+      "degree": "B.Sc. in Software Engineering",
+      "details": "CGPA 3.63/4.0, HSC, GPA 5.00"
+    },
+    {
+      "school": "Notre Dame College",
+      "degree": "HSC",
+      "details": "GPA 5.00"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "dates": "2023–",
+      "bullets": [
+        "Improved CI/CD"
+      ]
+    },
+    {
+      "title": "Software Eng. Intern",
+      "dates": "2021–22",
+      "bullets": [
+        "Built Vue UI & optimized notification systems"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Java, Python, Django, Spring, SQL, Vue, Angular, Docker, CI/CD, RabbitMQ. Published ‘Verse-Based Emotion Analysis of Bengali Music’ (IJCDS 2024). Leetcode Data Structure-1, LinkedIn OOP badges; honors in Neural Networks & Deep Learning"
+}

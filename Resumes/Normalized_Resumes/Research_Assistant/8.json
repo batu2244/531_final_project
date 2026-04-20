@@ -1,0 +1,66 @@
+{
+  "education": [
+    {
+      "school": "Bangladesh University of Engineering and Technology",
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "details": "2017–2022"
+    },
+    {
+      "school": "Bangladeshi Institute of Technology",
+      "degree": "CGPA 3.80/4.00",
+      "details": "Major CGPA 3.95/4.00"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer II",
+      "dates": "2024–",
+      "bullets": [
+        "Developed microservices"
+      ]
+    },
+    {
+      "title": "SE I",
+      "dates": "2022–3",
+      "bullets": [
+        "Migrated Postgres→Spanner"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2022",
+      "bullets": [
+        "Built Experiment Collaboration & Scheduling using FastAPI"
+      ]
+    },
+    {
+      "title": "GCP",
+      "dates": "2023",
+      "bullets": [
+        "Built GCP"
+      ]
+    },
+    {
+      "title": "Docker",
+      "dates": "2023",
+      "bullets": [
+        "Built Docker"
+      ]
+    },
+    {
+      "title": "Kubernetes",
+      "dates": "2023",
+      "bullets": [
+        "Built Kubernetes"
+      ]
+    },
+    {
+      "title": "Terraform",
+      "dates": "2023",
+      "bullets": [
+        "Built Terraform"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Python, C++, TypeScript, FastAPI, React, Node, Docker, Kubernetes, GCP, Terraform, CI/CD. Top 4% Codeforces (900+ solves). 9th in ICPC Asia Dhaka 2020. H&M AI Microdegree Scholar. Dean’s List (BUET). Certified in Deep Learning & Advanced Problem Solving"
+}

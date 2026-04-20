@@ -1,0 +1,31 @@
+{
+  "name": "Michael Lee",
+  "education": [
+    {
+      "school": "University of Nebraska–Lincoln",
+      "degree": "BSBA in Marketing"
+    },
+    {
+      "school": "North America",
+      "degree": "MVP"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior-level",
+      "dates": "10+ yrs",
+      "bullets": [
+        "Led retail and communications teams",
+        "Boosted client acquisition",
+        "Achieved top territory results",
+        "Managed route sales and A/R",
+        "Delivered presentations",
+        "Trained teams",
+        "Improved store execution",
+        "Shrink control",
+        "Customer service excellence"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Golden Eagle & Service Star Award, North America MVP, 3-time 2K Club, proven record in closing sales and driving revenue."
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Geoffrey Murphy",
+  "education": [
+    {
+      "school": "Wilmington University",
+      "degree": "B.S. General Studies",
+      "details": "2011"
+    },
+    {
+      "school": "Cecil County Community College",
+      "degree": "Accounting Certificate",
+      "details": "2012"
+    },
+    {
+      "school": "Cecil County Community College",
+      "degree": "Certificate—Performing Payroll in QuickBooks 2009",
+      "details": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–Present",
+      "bullets": [
+        "delivered 95% internal audit score"
+      ]
+    },
+    {
+      "title": "Accounting Coordinator Associate",
+      "dates": "2011–2014",
+      "bullets": [
+        "built pivot-table reports"
+      ]
+    },
+    {
+      "title": "Auditor",
+      "dates": "2007–2011",
+      "bullets": [
+        "led cross-functional reviews"
+      ]
+    },
+    {
+      "title": "Claims Reviewer",
+      "dates": "2007",
+      "bullets": [
+        "analyzed asbestos claims"
+      ]
+    },
+    {
+      "title": "Payment Analyst",
+      "dates": "2004–2007",
+      "bullets": [
+        "processed ~1,000 monthly auto-loan payments"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Financial statement analysis, GL accounting, risk management, portfolio oversight, auditing, SAP, QuickBooks, MS Office with advanced Excel (pivot tables); delivered 95% internal audit score, promoted to Auditor in 3 months, and raised quality ratings by 85% through process improvements."
+}

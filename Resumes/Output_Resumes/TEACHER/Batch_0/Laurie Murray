@@ -1,0 +1,46 @@
+{
+  "name": "Laurie Murray",
+  "education": [
+    {
+      "school": "The University of Texas",
+      "degree": "M.A. Education",
+      "details": "Education, The University of Texas (2002)"
+    },
+    {
+      "school": "The University of Texas",
+      "degree": "B.A. Psychology & Government with Early Childhood Development/Child Psychology",
+      "details": "Graduate Assistant in Education & Counseling; supported adult GED learners"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "Aug 2011–Present",
+      "bullets": [
+        "plan standards-aligned lessons"
+      ]
+    },
+    {
+      "title": "Reading Tutor",
+      "dates": "Feb–May 2011",
+      "bullets": [
+        "1:1 and small-group literacy support"
+      ]
+    },
+    {
+      "title": "4th Grade Teacher",
+      "dates": "Sep 2006–Aug 2008",
+      "bullets": [
+        "core instruction, assessment, behavior support, parent conferences, remedial programs, and literacy integration"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "Sep 2006–Aug 2008",
+      "bullets": [
+        "reading tutor"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Texas Teaching Certificate (EC endorsement); classroom management; guided reading/small-group instruction; hands-on math; curriculum development (campus-wide contributor); Title I; standardized testing/assessment; IEP familiarity; tech-integrated instruction; calm under pressure; flexible/adaptive; ATPE member."
+}

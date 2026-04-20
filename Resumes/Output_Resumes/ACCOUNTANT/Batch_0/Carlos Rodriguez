@@ -1,0 +1,70 @@
+{
+  "name": "Carlos Rodriguez",
+  "education": [
+    {
+      "school": "HMRC Staff College",
+      "degree": "Management",
+      "details": "2009"
+    },
+    {
+      "school": "HMRC Staff College",
+      "degree": "Taxation",
+      "details": "2004"
+    },
+    {
+      "school": "Kaplan FTC",
+      "degree": "ACCA",
+      "details": "2002"
+    },
+    {
+      "school": "Management Development Institute",
+      "degree": "Gambia",
+      "details": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Commissioner of Taxes",
+      "dates": "2011–2012",
+      "bullets": [
+        "led domestic revenue operations"
+      ]
+    },
+    {
+      "title": "Deputy Commissioner of Taxes",
+      "dates": "2007–2011",
+      "bullets": [
+        "oversaw Large Taxpayer Unit"
+      ]
+    },
+    {
+      "title": "Inspector of Taxes",
+      "dates": "2003–2007",
+      "bullets": [
+        "audits, reports, compliance advisory"
+      ]
+    },
+    {
+      "title": "Assistant Inspector",
+      "dates": "1999–2002",
+      "bullets": [
+        "enforcement, desk audits, assessments"
+      ]
+    },
+    {
+      "title": "Tax Officer",
+      "dates": "1997–1999",
+      "bullets": [
+        "return processing, liability/payment records"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "Jun–Nov 2013",
+      "bullets": [
+        "GL close, reconciliations, banking, financial/regulatory reporting"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Tax auditing, general & tax accounting, policy/strategy, budgeting, compliance/risk, team leadership (managed 80+ staff), process improvement, MS Office, QuickBooks; launched Large Taxpayer Unit (collected >70% of domestic revenue), introduced TIN, boosted collections 20% in two years, built enforcement and performance-evaluation frameworks, strengthened taxpayer relations."
+}

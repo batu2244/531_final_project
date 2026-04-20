@@ -1,0 +1,38 @@
+{
+  "name": "John Le",
+  "education": [
+    {
+      "school": "University of West Georgia",
+      "degree": "B.S. in Criminal Justice",
+      "details": "post-grad in Business and Education"
+    },
+    {
+      "school": "University of West Georgia",
+      "degree": "multiple certifications in Drug Court, Mental Health, and Judicial training"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Coordinator",
+      "dates": "2003",
+      "bullets": [
+        "Oversees grants, budgets, and compliance for court programs"
+      ]
+    },
+    {
+      "title": "Manager",
+      "dates": "2003-2015",
+      "bullets": [
+        "Manages staff, contracts, and client flow"
+      ]
+    },
+    {
+      "title": "Retail Sales Rep",
+      "dates": "2003-2015",
+      "bullets": [
+        "exceeding quotas and Sales Manager handling payroll, merchandising, and apparel show coordination"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in coordination, grant writing, budgeting, invoicing, and contracts; Microsoft Office, iMs Connexis; manages 70+ clients; lab operations, community relations, and staff supervision; recognized by Verizon Wireless Winner’s Circle; multiple Georgia court grants; active in local coalitions and university advising."
+}

@@ -1,0 +1,45 @@
+{
+  "education": [
+    {
+      "school": "Rowan University",
+      "degree": "Ph.D. in Electrical & Computer Engineering",
+      "details": "2024–29"
+    },
+    {
+      "school": "Chittagong University of Engineering & Technology",
+      "degree": "B.Sc. in EEE",
+      "details": "2013–17"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2024–",
+      "bullets": [
+        "Skilled in Machine Learning, Photonics, Neurotechnology, and Hardware Systems."
+      ]
+    },
+    {
+      "title": " Asst. Hardware Engr.",
+      "dates": "2018–",
+      "bullets": [
+        "Certified in BCI & Neurotechnology (g.tec, 2024)"
+      ]
+    },
+    {
+      "title": "Adjunct Faculty",
+      "dates": "2023–",
+      "bullets": [
+        "Lecturer, Feni Univ."
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2017–18",
+      "bullets": [
+        "Microsoft BD"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Machine Learning, Photonics, Neurotechnology, and Hardware Systems. Certified in BCI & Neurotechnology (g.tec, 2024) and WES verification. Winner, Microsoft Student Intern Competition (2018)."
+}

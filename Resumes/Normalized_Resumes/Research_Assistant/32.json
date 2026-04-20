@@ -1,0 +1,54 @@
+{
+  "education": [
+    {
+      "school": "BRAC University",
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "details": "2019–23"
+    },
+    {
+      "school": "Notre Dame College",
+      "degree": "HSC",
+      "details": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2024–",
+      "bullets": [
+        "Skilled in ML, DL, Computer Vision, MLOps, Docker, and QA automation."
+      ]
+    },
+    {
+      "title": "Research Associate",
+      "dates": "2023–24",
+      "bullets": [
+        "Published in Nature Scientific Reports (VICReg, 2024)",
+        "ICECCME 2023 (Corn Leaf Disease CNN)"
+      ]
+    },
+    {
+      "title": "SWE Trainee",
+      "dates": "2023",
+      "bullets": [
+        "AWSome Day attendee."
+      ]
+    },
+    {
+      "title": "QA Tester",
+      "dates": "2021–24",
+      "bullets": [
+        "Honourable Mention, Notre Dame Science Club (2018)"
+      ]
+    },
+    {
+      "title": "Tutor",
+      "dates": "2022",
+      "bullets": [
+        "Web Dev Intern, Parallaxlogic (2021)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in ML, DL, Computer Vision, MLOps, Docker, and QA automation. Published in Nature Scientific Reports (VICReg, 2024) and ICECCME 2023 (Corn Leaf Disease CNN).",
+  "job_type": "Entry-level"
+}

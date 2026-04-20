@@ -1,0 +1,46 @@
+{
+  "name": "Sarah Kelly",
+  "education": [
+    {
+      "school": "University of Central Oklahoma",
+      "degree": "B.B.A.",
+      "details": "1989"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Finance Manager",
+      "dates": "11/2009–10/2015",
+      "bullets": [
+        "budget-vs-actuals"
+      ]
+    },
+    {
+      "title": "Accounting Technician",
+      "dates": "10/2006–07/2009",
+      "bullets": [
+        "accruals"
+      ]
+    },
+    {
+      "title": "Owner/Bookkeeper",
+      "dates": "01/2006–07/2006",
+      "bullets": [
+        "full-charge bookkeeping"
+      ]
+    },
+    {
+      "title": "Office Manager",
+      "dates": "04/2003–12/2005",
+      "bullets": [
+        "office ops"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Financial reporting; budget & cash-flow forecasting; AP/AR; GL & bank recs; fixed assets; audit prep; vendor/credit-card admin; HR/payroll liaison; process improvement; tracked 30+ projects; verified 200+ GL accts/month; tools: Financial Edge, QuickBooks, Excel/Word, Microsoft Project"
+}

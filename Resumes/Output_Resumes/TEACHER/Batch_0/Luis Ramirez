@@ -1,0 +1,74 @@
+{
+  "name": "Luis Ramirez",
+  "education": [
+    {
+      "school": "St. Joseph's University",
+      "degree": "M.S. Human Resource Management",
+      "details": null
+    },
+    {
+      "school": "Cheyney University",
+      "degree": "B.S. Social Relations",
+      "details": null
+    }
+  ],
+  "experience": [
+    {
+      "title": "Special Education Teacher",
+      "dates": "2004–Present",
+      "bullets": [
+        "Classroom management",
+        "differentiated instruction",
+        "behavior modification",
+        "IEP development & 30-day reviews",
+        "parent communication",
+        "CPR/First Aid"
+      ]
+    },
+    {
+      "title": "Teacher Assistant",
+      "dates": "2001–2003",
+      "bullets": [
+        "Improved study/social/test skills"
+      ]
+    },
+    {
+      "title": "Residential & Therapeutic Recreation Counselor",
+      "dates": "1998–2002",
+      "bullets": [
+        "Designed/implemented curriculum and performance assessments"
+      ]
+    },
+    {
+      "title": "Office Manager",
+      "dates": "1999–2001",
+      "bullets": [
+        "Admin Assistant"
+      ]
+    },
+    {
+      "title": "Head Teacher, infants",
+      "dates": "1994–1995",
+      "bullets": [
+        "Classroom management",
+        "differentiated instruction",
+        "behavior modification"
+      ]
+    },
+    {
+      "title": "Community: Youth ministry teacher; YMCA volunteer basketball coach",
+      "dates": "1994–1995",
+      "bullets": [
+        "Youth ministry teacher"
+      ]
+    },
+    {
+      "title": "Banking/Teller & Call Center roles",
+      "dates": "1992–1998",
+      "bullets": [
+        "Admin Assistant"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Classroom management, differentiated instruction, behavior modification, IEP development & 30-day reviews, parent communication, CPR/First Aid. Improved study/social/test skills; designed/implemented curriculum and performance assessments."
+}

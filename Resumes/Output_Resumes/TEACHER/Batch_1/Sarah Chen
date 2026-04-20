@@ -1,0 +1,49 @@
+{
+  "name": "Sarah Chen",
+  "education": [
+    {
+      "school": "Southeastern University",
+      "degree": "M.S. Forensic Psychology",
+      "details": "in progress"
+    },
+    {
+      "school": "Clinical",
+      "degree": "M.S.W.",
+      "details": "in progress"
+    },
+    {
+      "school": "Warner University",
+      "degree": "B.A. Psychology",
+      "details": "2014"
+    },
+    {
+      "school": "Nova Southeastern University",
+      "degree": "B.A. Social Work",
+      "details": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Social Services Specialist",
+      "dates": "05/2014–Present",
+      "bullets": [
+        "coordinate safe newborn and maternal discharges"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "08/2015–07/2017",
+      "bullets": [
+        "designed standards-aligned syllabi and lessons"
+      ]
+    },
+    {
+      "title": "Social Work Intern",
+      "dates": "01/2014–05/2014",
+      "bullets": [
+        "supported discharge planning"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Discharge planning, case coordination, needs assessment, DME arrangements, documentation and care continuity; lesson planning, curriculum delivery, classroom management, collaboration and stakeholder communication"
+}

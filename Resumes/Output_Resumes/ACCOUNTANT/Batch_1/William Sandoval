@@ -1,0 +1,60 @@
+{
+  "name": "William Sandoval",
+  "education": [
+    {
+      "school": "University of the Ozarks",
+      "degree": "B.S. Business Administration",
+      "details": "1985"
+    },
+    {
+      "school": "Colgate",
+      "degree": "not specified",
+      "details": "not specified"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2016–2017",
+      "bullets": [
+        "Implemented SAP implementation"
+      ]
+    },
+    {
+      "title": "Co-Owner",
+      "dates": "2007–2016",
+      "bullets": [
+        "Launched/grew retail concepts"
+      ]
+    },
+    {
+      "title": "Owner",
+      "dates": "2001–2007",
+      "bullets": [
+        "Led multiple software rollouts and audits"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "1999–2001",
+      "bullets": [
+        "Implemented new software"
+      ]
+    },
+    {
+      "title": "Cost Accounting Manager",
+      "dates": "1997–1999",
+      "bullets": [
+        "Implemented SAP implementation (Starbucks manufacturing)"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "1985–1989",
+      "bullets": [
+        "Implemented new software"
+      ]
+    }
+  ],
+  "skills_and_achievements": "SAP implementation, QuickBooks, cost accounting, GL/AP/AR, budgeting & financial reporting, bank & account reconciliations, inventory controls, process design/automation, strategic planning, team leadership, small-business operations.  Built and sold a 7-employee bookkeeping firm; co-founded top-10 U.S. fabric/fiber shop; led multiple software rollouts and audits."
+}

@@ -1,0 +1,43 @@
+{
+  "education": [
+    {
+      "school": "University of Kentucky",
+      "degree": "PhD in Computer Science",
+      "details": "2023"
+    },
+    {
+      "school": "University of Dhaka",
+      "degree": "M.S. & B.S. in CSE",
+      "details": "2016–2023"
+    },
+    {
+      "school": "CVPR, EMBC, ISBI, MICCAI (Top 13%)",
+      "degree": "Research in multimodal AI, text summarization, and medical imaging"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2023–",
+      "bullets": [
+        "Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging"
+      ]
+    },
+    {
+      "title": "Software Eng.",
+      "dates": "2021–33",
+      "bullets": [
+        "GTA for CS-216. Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging"
+      ]
+    },
+    {
+      "title": "Entry-level",
+      "dates": "2023–",
+      "bullets": [
+        "Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Python, PyTorch, TensorFlow, C++, JavaScript, MySQL, Flask. Published at CVPR, EMBC, ISBI, MICCAI (Top 13%). IEEE & MICCAI member. Awards: UKY Fellowship, ICT Fellowship (BD), Bracathon 3.0 Champion, ISBI Travel Grant.",
+  "job_type": "Entry-level"
+}

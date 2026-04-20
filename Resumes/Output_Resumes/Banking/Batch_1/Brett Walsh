@@ -1,0 +1,45 @@
+{
+  "name": "Brett Walsh",
+  "education": [
+    {
+      "school": "Los Angeles Southwest College",
+      "degree": "A.S.",
+      "details": "Inter/Social Behavioral Sciences"
+    },
+    {
+      "school": "Los Angeles Southwest College",
+      "degree": "Certificate: Fingerprinting"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Banking Relationship Specialist",
+      "dates": "2005–2011",
+      "bullets": [
+        "client onboarding, transactions, reports, escalations"
+      ]
+    },
+    {
+      "title": "Merchant Teller",
+      "dates": "2004–2005",
+      "bullets": [
+        "large deposits, courier ops, daily balancing"
+      ]
+    },
+    {
+      "title": "Teller",
+      "dates": "2004",
+      "bullets": [
+        "cashing, payments, cashier's checks"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "Mid-level",
+      "bullets": [
+        "client onboarding, transactions, reports, escalations"
+      ]
+    }
+  ],
+  "skills_and_achievements": "100% teller balancing; managed vaults avg. $900K; call center support; account opening; cash handling; MS Word/Excel; phones/fax/filing; ~50 WPM; conflict resolution; client rapport"
+}

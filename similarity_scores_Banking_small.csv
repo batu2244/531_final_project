@@ -1,0 +1,13 @@
+resume_id,variant_id,run_id,model_name,name_condition,wording_condition,format_condition,qualification_tier,hire_decision,overall_score,leadership_score,experience_score,skills_score,jd_role,skills_weight,experience_weight,leadership_weight,candidate_name
+4b161911a613,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,senior,0,10,10,0,0,software engineer,50,30,20,11065180
+24cd644576ca,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,mid,0,0,0,0,0,software engineer,50,30,20,2841992
+291d82ec1b69,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,neutral,clean,senior,0,0,0,0,0,software engineer,50,30,20,3547447
+4b161911a613,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,senior,0,0,0,0,0,data scientist,55,30,15,11065180
+24cd644576ca,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,mid,0,12,12,0,0,data scientist,55,30,15,2841992
+291d82ec1b69,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,neutral,clean,senior,0,0,0,0,0,data scientist,55,30,15,3547447
+4b161911a613,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,senior,0,5,5,0,0,product manager,35,45,20,11065180
+24cd644576ca,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,mid,0,0,0,0,0,product manager,35,45,20,2841992
+291d82ec1b69,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,neutral,clean,senior,0,0,0,0,0,product manager,35,45,20,3547447
+4b161911a613,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,senior,0,11,11,0,0,marketing manager,35,45,20,11065180
+24cd644576ca,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,strong_leadership,clean,mid,0,0,0,0,0,marketing manager,35,45,20,2841992
+291d82ec1b69,Banking_small,88eb1b96-23b7-45e5-bf3a-77540eaaf880,Qwen3.5-4B-GGUF:Q4_K_M,non_binary_coded,neutral,clean,senior,0,0,0,0,0,marketing manager,35,45,20,3547447

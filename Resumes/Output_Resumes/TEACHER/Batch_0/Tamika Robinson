@@ -1,0 +1,76 @@
+{
+  "name": "Tamika Robinson",
+  "education": [
+    {
+      "school": "California State University, Bakersfield",
+      "degree": "B.A.",
+      "details": "Child, Adolescent & Family Studies (Minor: Sociology)"
+    },
+    {
+      "school": "Bakersfield College",
+      "degree": "B.A.",
+      "details": "K-5"
+    },
+    {
+      "school": "Irvine Valley College",
+      "degree": "Associate's Degree",
+      "details": "2003–05"
+    },
+    {
+      "school": "Cuyama Valley High School",
+      "degree": "2002, 2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher/Substitute",
+      "dates": "Aug 2012–Present",
+      "bullets": [
+        "adheres to plans"
+      ]
+    },
+    {
+      "title": "ASES Coordinator",
+      "dates": "Jan 2009–Jan 2011",
+      "bullets": [
+        "built successful program"
+      ]
+    },
+    {
+      "title": "After-School Program Coordinator",
+      "dates": "Aug 2006–Jun 2011",
+      "bullets": [
+        "supervised staff"
+      ]
+    },
+    {
+      "title": "Outreach Liaison",
+      "dates": "Jan 2009–Jan 2011",
+      "bullets": [
+        "community meetings"
+      ]
+    },
+    {
+      "title": "Cilingualess support",
+      "dates": "Aug 2012–Present",
+      "bullets": [
+        "bilingual English/Spanish"
+      ]
+    },
+    {
+      "title": "CPR/First Aid",
+      "dates": "2009–2011",
+      "bullets": [
+        "CPR/First Aid"
+      ]
+    },
+    {
+      "title": "Certificate of Clearance",
+      "dates": "2009–2011",
+      "bullets": [
+        "Certificate of Clearance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "classroom management; ELL/Special Ed support; after-school program design; staff supervision (7 paraeducators); coaching (volleyball, cheer, flag football, basketball); family/community outreach; attendance improvement (SARB); tech-integrated learning (student web pages); bilingual English/Spanish; CPR/First Aid; Certificate of Clearance"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Jill Ryan",
+  "education": [
+    {
+      "school": "University of Colorado",
+      "degree": "Bachelor of Arts in Fine Arts",
+      "details": "Painting"
+    },
+    {
+      "school": "Art Institute of Colorado",
+      "degree": "Associate of Arts in Fashion Merchandising"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Business Owner",
+      "dates": "2020-Present",
+      "bullets": [
+        "Launched women's boutique"
+      ]
+    },
+    {
+      "title": "Apparel Production Coordinator",
+      "dates": "2018-2020",
+      "bullets": [
+        "Managed sketches, tech packs, QC, and international communications"
+      ]
+    },
+    {
+      "title": "Sweater Production Coordinator",
+      "dates": "2017-2018",
+      "bullets": [
+        "Led research, design, and seasonal analysis for Missy sweaters"
+      ]
+    },
+    {
+      "title": "Retail Entrepreneurship",
+      "dates": "2016-2017",
+      "bullets": [
+        "Developed private label"
+      ]
+    }
+  ],
+  "skills_and_achievements": "retail entrepreneurship, apparel design, private-label development, production coordination, lab dip and print approval, trend and color analysis, tech pack creation, visual merchandising, and vendor relationship management",
+  "job_type": "Senior-level"
+}

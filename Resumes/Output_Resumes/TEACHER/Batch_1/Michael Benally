@@ -1,0 +1,47 @@
+{
+  "name": "Michael Benally",
+  "education": [
+    {
+      "school": "Robert Morris University",
+      "degree": "M.S. Instructional Leadership",
+      "details": "2009"
+    },
+    {
+      "school": "Robert Morris University",
+      "degree": "B.A. Social Studies",
+      "details": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2007–2016",
+      "bullets": [
+        "taught asynchronous Law, Government, Algebra, Sociology, PA History, Political Science across multiple schools/states"
+      ]
+    },
+    {
+      "title": "Department Chair",
+      "dates": "2006–2007",
+      "bullets": [
+        "built new courses on multiple LMSs"
+      ]
+    },
+    {
+      "title": "SAP coordinator for at-risk students",
+      "dates": "2006–2007",
+      "bullets": [
+        "managed national real estate appraisal workflow"
+      ]
+    },
+    {
+      "title": "Appraisal Coordinator",
+      "dates": "2006–2007",
+      "bullets": [
+        "managed national real estate appraisal workflow"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Marine Corps veteran (Squad Leader); distance-learning design & delivery; IEPs/GIEPs; LMS course building (content & assessments); strong communication; MS Office",
+  "job_type": "Senior-level"
+}

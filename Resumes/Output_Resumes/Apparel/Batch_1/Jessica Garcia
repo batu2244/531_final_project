@@ -1,0 +1,44 @@
+{
+  "name": "Jessica Garcia",
+  "education": [
+    {
+      "school": "New Mexico Highlands Univ",
+      "degree": "BSW",
+      "details": "4.0 GPA"
+    },
+    {
+      "school": "CNMCC",
+      "degree": "AS in Electronic Eng Tech",
+      "details": "3.96 GPA"
+    },
+    {
+      "school": "ITT Tech",
+      "degree": "AS in Electronic Eng Tech",
+      "details": "Salutatorian"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Level 2 Ops Coordinator",
+      "dates": "2023-01-01 - Present",
+      "bullets": [
+        "Led wet etch & thin film process"
+      ]
+    },
+    {
+      "title": "Practicum in substance abuse & IPV programs",
+      "dates": "2022-06-01 - 2023-06-30",
+      "bullets": [
+        "Group facilitation, detox support, foster youth & fashion volunteer work"
+      ]
+    },
+    {
+      "title": "Training",
+      "dates": "2021-09-01 - 2021-12-31",
+      "bullets": [
+        "Matrix & Seeking Safety models, relapse prevention"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Ops coordination, wet etch, thin films, wafer QA, gas equip maintenance, mechanical alignment, training, community work, Phi Theta Kappa, Honor Roll, multiple academic awards"
+}

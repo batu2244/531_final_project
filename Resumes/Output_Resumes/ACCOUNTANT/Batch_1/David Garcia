@@ -1,0 +1,39 @@
+{
+  "name": "David Garcia",
+  "education": [
+    {
+      "school": "University of Phoenix",
+      "degree": "B.S. Accounting",
+      "details": "2013"
+    },
+    {
+      "school": "University of Phoenix",
+      "degree": "Certified Medical Billing/Coding Specialist",
+      "details": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–Present",
+      "bullets": [
+        "GL, close, reconciliations, AP/AR issue resolution, automation, audits, and payroll for 100+ staff/7 stores"
+      ]
+    },
+    {
+      "title": "Accountant & Exec Assistant",
+      "dates": "2010–2013",
+      "bullets": [
+        "financials, closings, cash reports, tax/government filings, vendor recs, expense review, executive support"
+      ]
+    },
+    {
+      "title": "Billing/Collections Supervisor & Accountant",
+      "dates": "2008–2010",
+      "bullets": [
+        "led 15-person team, GL/recons, billing/coding, collections improvement"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GL & financial reporting, AR/AP, reconciliations, QuickBooks, Excel/Access, payroll, HIPAA/CMS-1500/ICD-9, audit readiness, process automation; led medical collections to +69% profit."
+}

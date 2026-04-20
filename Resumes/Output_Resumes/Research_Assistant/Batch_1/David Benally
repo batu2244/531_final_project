@@ -1,0 +1,32 @@
+{
+  "name": "David Benally",
+  "education": [
+    {
+      "school": "Calcutta School of Tropical Medicine",
+      "degree": "M.Sc. in Medical Biotechnology",
+      "details": "2023–25"
+    },
+    {
+      "school": "St. Xavier’s College",
+      "degree": "B.Sc. (Hons) in Biotechnology",
+      "details": "A+ grade, 2020–23"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Co-author",
+      "dates": "2024–25",
+      "bullets": [
+        "Contributed to review Expert Reviews in Molecular Medicine on dengue immunopathogenesis."
+      ]
+    },
+    {
+      "title": "Dissertee",
+      "dates": "2025",
+      "bullets": [
+        "Conducted Alzheimer’s genetics research using PCR-RFLP and contributed to dengue immunology review with conceptual figures and analysis."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in PCR, RFLP, neurogenetics, immunology, molecular biology, and data analysis. Co-author of review Expert Reviews in Molecular Medicine (Cambridge Univ. Press, 2025) on dengue immunopathogenesis."
+}

@@ -1,0 +1,52 @@
+{
+  "education": [
+    {
+      "school": "Texas A&M Univ.–Kingsville",
+      "degree": "Ph.D. in Engineering (Cybersecurity & Medical Informatics)",
+      "details": "2025–28"
+    },
+    {
+      "school": "Uttara Univ.",
+      "degree": "M.Sc. in CSE",
+      "details": "2022–24"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in ML, DL, IoT, Blockchain, Python, and Medical Image Analysis."
+      ]
+    },
+    {
+      "title": "Asst. Prof.",
+      "dates": "2025–",
+      "bullets": [
+        "Researcher at TRI."
+      ]
+    },
+    {
+      "title": "Sr. Lecturer & Lecturer",
+      "dates": "2022–25",
+      "bullets": [
+        "Lecturer, Bangladesh Univ."
+      ]
+    },
+    {
+      "title": "Researcher",
+      "dates": "2018–24",
+      "bullets": [
+        "Founder & CEO, Wahid’s Research Lab"
+      ]
+    },
+    {
+      "title": "Founder & CEO",
+      "dates": "2018–",
+      "bullets": [
+        "Wahid’s Research Lab"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in ML, DL, IoT, Blockchain, Python, and Medical Image Analysis. Published in IEEE CARS’25, Springer 2022 (COVID-19 Diagnosis), Tech Science Press 2022 (Diabetes Detection)."
+}

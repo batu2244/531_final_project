@@ -1,0 +1,57 @@
+{
+  "name": "Lisa Yazzie",
+  "education": [
+    {
+      "school": "Bentley University",
+      "degree": "B.S. in Finance",
+      "details": "Dean’s/President’s List"
+    },
+    {
+      "school": "Universidad de Navarra",
+      "degree": "Study Abroad (International Business)",
+      "details": "Advanced Spanish"
+    },
+    {
+      "school": "SNL (GL live feed)",
+      "degree": "GL live feed"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Finance Specialist",
+      "dates": "09/2014–Current",
+      "bullets": [
+        "AP, prepaids, fixed assets, fair-value of acquired loans",
+        "purchase accounting SOPs",
+        "10-Q/10-K tables",
+        "SNL implementation",
+        "GL/bank recs",
+        "investments",
+        "cross-functional leadership"
+      ]
+    },
+    {
+      "title": "Deposit Operations Associate",
+      "dates": "04/2014–08/2014",
+      "bullets": [
+        "items processing, ACH, wires, GL recs, procedure updates"
+      ]
+    },
+    {
+      "title": "Accounting Associate",
+      "dates": "09/2012–05/2013",
+      "bullets": [
+        "AP/AR, automated 1099s in Intacct, IRS liaison, bank recs, loan P&I, Salesforce→Intacct, FX revaluation/hedging, financials with Controller"
+      ]
+    },
+    {
+      "title": "Community Consultant",
+      "dates": "07/2012–08/2012",
+      "bullets": [
+        "microfinance outreach in Guatemala, sales/market research, data analysis/presentation"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Variance analysis, financial modeling, GL/bank reconciliations, AP/AR, fixed assets & prepaids, investment activity, board reporting, 10-Q/10-K support, SOPs, Advanced Excel, Salesforce, SNL (GL live feed), Primatics Evolv, Intacct, Oracle, Peachtree, Access, PowerPoint; reduced AP processing cost ~95% ($1→$0.05/payment); led Purchase Loan Accounting (Evolv) adding ~$300K/month (~43% EBT); supported Riverside Bank acquisition ($550M→$850M assets)",
+  "job_type": "Mid-level"
+}

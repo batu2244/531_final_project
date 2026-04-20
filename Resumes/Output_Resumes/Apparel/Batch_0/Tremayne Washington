@@ -1,0 +1,63 @@
+{
+  "name": "Tremayne Washington",
+  "education": [
+    {
+      "school": "Some college",
+      "degree": "High School Diploma (expected 05/2022)"
+    },
+    {
+      "school": "Wayne County CCD",
+      "degree": "None"
+    },
+    {
+      "school": "CPR certified",
+      "degree": "None"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Head Hostess",
+      "dates": "2018–Current",
+      "bullets": [
+        "guest relations, seating, complaint resolution"
+      ]
+    },
+    {
+      "title": "Apparel Team Lead",
+      "dates": "2019–2020",
+      "bullets": [
+        "visuals, merchandising, loyalty signups, KPIs, register"
+      ]
+    },
+    {
+      "title": "Waitress",
+      "dates": "2017–2020",
+      "bullets": [
+        "register"
+      ]
+    },
+    {
+      "title": "Private Nanny",
+      "dates": "2016–2020",
+      "bullets": [
+        "caregiving and household support"
+      ]
+    },
+    {
+      "title": "Child psychology knowledge",
+      "dates": "None",
+      "bullets": [
+        "taught elementary robotics"
+      ]
+    },
+    {
+      "title": "Dual Enrollment",
+      "dates": "2014–2016",
+      "bullets": [
+        "dual enrollment"
+      ]
+    }
+  ],
+  "skills_and_achievements": "guest service, upselling, POS, high-volume dining, team management, reliability; child psychology knowledge; first aid/CPR; leadership: cheer captain/coach, student council president, honor roll, youth pastor; taught elementary robotics; dual enrollment.",
+  "job_type": "Entry-Level"
+}

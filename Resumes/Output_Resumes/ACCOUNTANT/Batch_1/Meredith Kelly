@@ -1,0 +1,60 @@
+{
+  "name": "Meredith Kelly",
+  "education": [
+    {
+      "school": "Univ. of Phoenix",
+      "degree": "BBA—Administration",
+      "details": "Minor: Mgmt"
+    },
+    {
+      "school": "Univ. of Phoenix",
+      "degree": "Certs: HR Block Tax",
+      "details": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2018–Present",
+      "bullets": [
+        "Full-cycle accounting"
+      ]
+    },
+    {
+      "title": "Accounting & Finance Supervisor",
+      "dates": "2017",
+      "bullets": [
+        "Month-end, GL/AP, bank variances, tax filings"
+      ]
+    },
+    {
+      "title": "Administrator/Accountant",
+      "dates": "2015–2017",
+      "bullets": [
+        "AP/AR, GL, payroll, fixed assets, audits, HR"
+      ]
+    },
+    {
+      "title": "Assistant Controller",
+      "dates": "2013–2015",
+      "bullets": [
+        "recs, JEs, AP/AR, payroll/benefits, invoicing"
+      ]
+    },
+    {
+      "title": "Seasonal Tax Advisor",
+      "dates": "2012–2013",
+      "bullets": [
+        "prep federal/state returns"
+      ]
+    },
+    {
+      "title": "Account Executive",
+      "dates": "2008–2013",
+      "bullets": [
+        "mortgage/loan consulting, $2.5M+ monthly sales"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Full-cycle accounting, GL, reconciliations, FS analysis, budgeting, cash mgmt, AR/AP, inventory & fixed assets, payroll, taxes, audits, HR/benefits; bilingual EN/ES; tools: Excel/Office, ADP, QuickBooks, Peachtree, PC Law, PR Soft, CDI, PICO/SURI."
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Michael Lee",
+  "education": [
+    {
+      "school": "Hocking Technical College",
+      "degree": "A.A.S. in Accounting",
+      "details": "4.0 in upper-level accounting"
+    },
+    {
+      "school": "Marshall University",
+      "degree": "B.A. in Economics",
+      "details": "5.0 in Economics"
+    },
+    {
+      "school": "Dallas Theological Seminary",
+      "degree": "M.A. in Christian Education"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–2015",
+      "bullets": [
+        "managing full-cycle accounting for 2 companies + 5 royalty entities"
+      ]
+    },
+    {
+      "title": "District Administrative Manager",
+      "dates": "2014",
+      "bullets": [
+        "overseeing AR/AP/HR and financial reporting"
+      ]
+    },
+    {
+      "title": "Business Manager",
+      "dates": "2005–2014",
+      "bullets": [
+        "finance, operations, logistics, USDA contracts, software upgrade, monthly closes"
+      ]
+    },
+    {
+      "title": "Staffing Manager",
+      "dates": "2003–2004",
+      "bullets": [
+        "accounting/admin placements"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "2002",
+      "bullets": [
+        "supervising billing/cash receipts and software upgrades"
+      ]
+    },
+    {
+      "title": "General Merchandise Department Manager",
+      "dates": "2000–2002",
+      "bullets": [
+        "leading merchandising, scheduling, inventories"
+      ]
+    },
+    {
+      "title": "Accounting Software Consultant",
+      "dates": "1998–2000",
+      "bullets": [
+        "training, system setup, procedures"
+      ]
+    }
+  ],
+  "skills_and_achievements": "CPA; budgeting/closings, GL reconciliations, fixed assets, cash management, forecasting, audits; inventory control and food safety/QA; government/USDA contract administration; staff supervision, procedure writing, project management; tools: Microsoft Office (Excel), AX, OnBase, Avantis; community leadership (Board of Directors, Food Bank of Corpus Christi); former life-insurance license; varsity basketball official.",
+  "job_type": "Senior-level"
+}

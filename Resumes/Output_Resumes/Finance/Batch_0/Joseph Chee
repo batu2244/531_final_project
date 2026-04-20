@@ -1,0 +1,51 @@
+{
+  "name": "Joseph Chee",
+  "education": [
+    {
+      "school": "Hawaii Pacific University",
+      "degree": "MBA",
+      "details": "1994"
+    },
+    {
+      "school": "University of Hawaii",
+      "degree": "B.S.",
+      "details": "1993"
+    },
+    {
+      "school": "Pacific University",
+      "degree": "Cum Laude",
+      "details": "14"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Finance Controller",
+      "dates": "2014–Now",
+      "bullets": [
+        "Cut close 15→9 days, DSO 96→42;"
+      ]
+    },
+    {
+      "title": "Division Controller",
+      "dates": "2008–2014",
+      "bullets": [
+        "Automated close; pricing→proformas;"
+      ]
+    },
+    {
+      "title": "Corporate Controller",
+      "dates": "2002–2008",
+      "bullets": [
+        "Built post-acq finance org/ERP;"
+      ]
+    },
+    {
+      "title": "Sr Accounting Consultant",
+      "dates": "post-acq/GAAP, Oracle, FAS 52",
+      "bullets": [
+        "Sr Accounting Consultant (post-acq/GAAP, Oracle, FAS 52)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GAAP reporting, budgeting/forecasting, revenue recognition, consolidations, intercompany, reconciliations, audits/controls. ERPs/Tools: PeopleSoft, Oracle 11i, Epicor/Platinum SQL, nVision, Essbase, Assurenet, BlackLine."
+}

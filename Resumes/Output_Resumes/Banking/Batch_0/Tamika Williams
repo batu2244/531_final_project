@@ -1,0 +1,36 @@
+{
+  "name": "Tamika Williams",
+  "education": [
+    {
+      "school": "Univ. of San Francisco",
+      "degree": "MBA",
+      "details": "May 2023, expected"
+    },
+    {
+      "school": "Pacific Coast Banking School—Finance",
+      "degree": "BA",
+      "details": "Toulouse-Lautrec School of Art"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Regional Dir., Banking & Wealth",
+      "dates": "2018–2020",
+      "bullets": [
+        "+$10B deposits",
+        "AUM >20%",
+        "turnover −50%",
+        "N. CA Ops Exec"
+      ]
+    },
+    {
+      "title": "Sales & Service Exec",
+      "dates": "2011–2016",
+      "bullets": [
+        "West Coast"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Exec leadership; partnership building; team hiring; ops/process improvement; relationship & data management; CEO-recognized results; SF “Most Influential Woman” (2016, 2020)” }\n<|im_start|>user\n```\n```json\n{\n  ",
+  "job_type": "Senior-level"
+}

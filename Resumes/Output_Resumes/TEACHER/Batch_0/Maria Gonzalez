@@ -1,0 +1,57 @@
+{
+  "name": "Maria Gonzalez",
+  "education": [
+    {
+      "school": "California State University",
+      "degree": "B.S. Chemistry",
+      "details": "GPA 3.65"
+    },
+    {
+      "school": "California State University",
+      "degree": "Additional study in biology, general chemistry, and law/justice topics"
+    },
+    {
+      "school": "Coastline ROP / Hoag Hospital",
+      "degree": "Nursing Intern",
+      "details": "20+ clinical hours assisting in acute care and multiple departments"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "Feb–Jun 2016",
+      "bullets": [
+        "taught children with Autism using music, dance, and art"
+      ]
+    },
+    {
+      "title": "Teacher & Company Dancer",
+      "dates": "Dec 2015–Jul 2016",
+      "bullets": [
+        "assisted instruction across Bollywood/Bharatanatyam/Fusion"
+      ]
+    },
+    {
+      "title": "Nursing Intern",
+      "dates": "Jul–Sep 2013",
+      "bullets": [
+        "20+ clinical hours assisting in acute care and multiple departments"
+      ]
+    },
+    {
+      "title": "Leadership & Volunteering",
+      "dates": "2004–Present",
+      "bullets": [
+        "Lead/Post-Graduate Company Dancer, Rangoli Dance Company"
+      ]
+    },
+    {
+      "title": "Vice President, Youth Committee, Karnataka Cultural Association (2010–Present)",
+      "dates": "2010–Present",
+      "bullets": [
+        "Vice President, Volunteer Group, Lakeview Senior Center (2012–2016)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Arts-integrated instruction (music/dance/art) for students with Autism; classroom support and parent communication; choreography and performance leadership; event emceeing and fundraising; healthcare exposure (vital signs, acute care, pediatrics, urology); presentations on science and elder care; community service awards; CPR"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tyrone Williams",
+  "education": [
+    {
+      "school": "Seattle Central Community College",
+      "degree": "C.D.A."
+    },
+    {
+      "school": "Grand Canyon University",
+      "degree": "B.A. Elementary Education / Special Needs"
+    },
+    {
+      "school": "Head Start",
+      "degree": "Documentation & Assessments"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2013–2016",
+      "bullets": [
+        "Supervised 3–5-year-olds"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2008–2013",
+      "bullets": [
+        "Designed and delivered developmentally appropriate curriculum"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2004–2007",
+      "bullets": [
+        "Weekly plans, security/safety, progress reporting"
+      ]
+    },
+    {
+      "title": "Lead Volunteer",
+      "dates": "2015–2016",
+      "bullets": [
+        "Ministry support and team lead"
+      ]
+    },
+    {
+      "title": "Baggage Supervisor",
+      "dates": "2007–2011",
+      "bullets": [
+        "Safety oversight, logistics, shift reporting"
+      ]
+    },
+    {
+      "title": "Lead Volunteer",
+      "dates": "2015–2016",
+      "bullets": [
+        "Ministry support and team lead"
+      ]
+    }
+  ],
+  "skills_and_achievements": "CPR/First Aid; classroom management for ages 3–5; curriculum & weekly planning; positive behavior reinforcement; Head Start documentation & assessments; family communication & conferences; safety/compliance; time management; conflict resolution; food-handling training; volunteer of the Month; lead volunteer/team coordinator."
+}

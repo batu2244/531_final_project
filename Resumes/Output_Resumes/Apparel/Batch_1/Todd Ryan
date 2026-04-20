@@ -1,0 +1,52 @@
+{
+  "name": "Todd Ryan",
+  "education": [
+    {
+      "school": "University of Oregon",
+      "degree": "BA Sociology",
+      "details": null
+    },
+    {
+      "school": "N/A",
+      "degree": "N/A"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior-level",
+      "dates": "2014–present",
+      "bullets": [
+        "Specialized;"
+      ]
+    },
+    {
+      "title": "Manager",
+      "dates": "2006–2014",
+      "bullets": [
+        "Reduced labor rates 10%;"
+      ]
+    },
+    {
+      "title": "Product Developer/Production Asst",
+      "dates": "2003–2005",
+      "bullets": [
+        "Delivered high-profile projects (Olympics, All-Star, Jeremy Scott)"
+      ]
+    },
+    {
+      "title": "Buyer",
+      "dates": "1999–2003",
+      "bullets": [
+        "Sourced across US, China, India, Nicaragua, Colombia, Thailand, Indonesia, Turkey, Bangladesh"
+      ]
+    },
+    {
+      "title": "Consulting",
+      "dates": "1997–1999",
+      "bullets": [
+        "Sourced across US, China, India, Nicaragua, Colombia, Thailand, Indonesia, Turkey, Bangladesh"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Adobe CS5/Illustrator, Flex PLM, Excel/MS Office, tech packs, costing, merchandising, sourcing, vendor onboarding, fit/testing, market research, leadership, built fast-track juniors model; reduced labor rates 10%; led cross-functional meetings; delivered high-profile projects (Olympics, All-Star, Jeremy Scott)"
+}

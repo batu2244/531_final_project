@@ -1,0 +1,50 @@
+{
+  "name": "Rosa Ramirez",
+  "education": [
+    {
+      "school": "Concordia University",
+      "degree": "Master’s — Educational Leadership",
+      "details": "2015"
+    },
+    {
+      "school": "University of Texas",
+      "degree": "Bachelor of Business — Marketing",
+      "details": "1999"
+    },
+    {
+      "school": "Bilingual: English/Spanish",
+      "degree": "Bilingual"
+    }
+  ],
+  "experience": [
+    {
+      "title": "4th Grade Bilingual Teacher",
+      "dates": "2005–Present",
+      "bullets": [
+        "data-driven instruction"
+      ]
+    },
+    {
+      "title": "Kindergarten Bilingual Teacher",
+      "dates": "2003–2005",
+      "bullets": [
+        "self-contained and team-teaching roles"
+      ]
+    },
+    {
+      "title": "Sales & Marketing/PR Manager",
+      "dates": "1999–2002",
+      "bullets": [
+        "revived key government account"
+      ]
+    },
+    {
+      "title": "Market Share Lead",
+      "dates": "2002",
+      "bullets": [
+        "revived key government account"
+      ]
+    }
+  ],
+  "skills_and_achievements": "90–100% annual pass rates across content areas; +80% exceeding progress in Math and +30% in Reading (Bilingual–SPED class). PBIS presenter (Region 19) and committee lead; launched/led Robotics Elementary Camp; annual school talent show founder (since 2008); Foro Abierto (Spanish Reading First) consultant."
+}

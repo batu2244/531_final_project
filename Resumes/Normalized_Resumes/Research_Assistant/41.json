@@ -1,0 +1,55 @@
+{
+  "education": [
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "M.Sc. in EEE (2025–26)",
+      "details": "coursework in photonics, COMSOL & signal processing"
+    },
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.Sc. in EEE (2019–24)"
+    },
+    {
+      "school": "IEEE",
+      "degree": "Champion—IEEE & Top-4 RMA Article Competitions"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Asst.",
+      "dates": "2025–",
+      "bullets": [
+        "Research on AI-driven cardiac detection & solar energy optimization."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "dates": "2024–25",
+      "bullets": [
+        "Data Analysis"
+      ]
+    },
+    {
+      "title": "Maintenance Intern",
+      "dates": "2024",
+      "bullets": [
+        "Maintenance Intern"
+      ]
+    },
+    {
+      "title": "Gen. Sec.",
+      "dates": "2023",
+      "bullets": [
+        "Work on solar cleaning robotics & telecom data analytics"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2025–",
+      "bullets": [
+        "Work on solar cleaning robotics & telecom data analytics"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in ML, signal processing, COMSOL, Lumerical FDTD, SQL & data analysis. Research on AI-driven cardiac detection & solar energy optimization."
+}

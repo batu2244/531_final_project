@@ -1,0 +1,51 @@
+{
+  "name": "David Tran",
+  "education": [
+    {
+      "school": "San Francisco State University",
+      "degree": "B.S. Management"
+    },
+    {
+      "school": "Cal State Hayward",
+      "degree": "B.B.A. Accounting"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mortgage Banking Executive Analyst",
+      "dates": "2009–Present",
+      "bullets": [
+        "Escalation resolution"
+      ]
+    },
+    {
+      "title": "Business Manager–Analyst",
+      "dates": "2003–15",
+      "bullets": [
+        "Billing",
+        "Collections",
+        "Client Installations",
+        "Process testing",
+        "Team supervision"
+      ]
+    },
+    {
+      "title": "Deposit Recovery Collector",
+      "dates": "2006–09",
+      "bullets": [
+        "Payment negotiations",
+        "Risk control"
+      ]
+    },
+    {
+      "title": "Sr. Tax Preparer Manager",
+      "dates": "2003–07",
+      "bullets": [
+        "Tax staff management",
+        "Training",
+        "Quality control"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Operations & risk mgmt, compliance documentation, client relations, business analysis, MS Office, Oracle, Peachtree, Solomon. Managed 25 staff; produced executive-level mortgage reports; handled 300+ escalated cases weekly; improved accuracy and customer satisfaction."
+}

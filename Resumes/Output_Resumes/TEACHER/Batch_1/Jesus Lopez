@@ -1,0 +1,53 @@
+{
+  "name": "Jesus Lopez",
+  "education": [
+    {
+      "school": "Brooklyn College",
+      "degree": "B.A. Childhood Education",
+      "details": "1–6"
+    },
+    {
+      "school": "Nassau CC",
+      "degree": "A.A. Liberal Arts",
+      "details": "2003"
+    },
+    {
+      "school": "Psychology",
+      "degree": "minor"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "inclusive, hands-on, adaptive lessons",
+      "bullets": [
+        "Differentiated instruction",
+        "balanced literacy",
+        "classroom management",
+        "assessment",
+        "SEL",
+        "family communication",
+        "lesson planning",
+        "collaboration"
+      ]
+    },
+    {
+      "title": "Student Teacher",
+      "dates": "Grade 1 (2006–2007)",
+      "bullets": [
+        "inclusive, hands-on, adaptive lessons"
+      ]
+    },
+    {
+      "title": "Dentist Office Manager",
+      "dates": "2002–2012",
+      "bullets": [
+        "leadership",
+        "training",
+        "scheduling",
+        "insurance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Trilingual (English/Russian/Hebrew). Certs: First Aid/CPR, FACR, CAAN, SAP"
+}

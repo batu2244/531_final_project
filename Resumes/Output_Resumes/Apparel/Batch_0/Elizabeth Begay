@@ -1,0 +1,30 @@
+{
+  "name": "Elizabeth Begay",
+  "education": [
+    {
+      "school": "Bucks County CC",
+      "degree": "Associate in Networking Tech"
+    },
+    {
+      "school": "New Wave Tech",
+      "degree": "MSCE Prep Cert"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior-level",
+      "dates": "15+ yrs",
+      "bullets": [
+        "managed audits, compliance, procurement, licensing, and security"
+      ]
+    },
+    {
+      "title": "Auditor, Analyst, and Support",
+      "dates": "15+ yrs",
+      "bullets": [
+        "audits, compliance, procurement, licensing, and security"
+      ]
+    }
+  ],
+  "skills_and_achievements": "PCI/SOX audits, IT governance, SAP controls, COBIT, ITIL, CSM, CISA, MCP, vendor negotiation saving $9.2M."
+}

@@ -1,0 +1,1388 @@
+===== ACCOUNTANT =====
+Run ID:     13b21643-42d0-4439-a634-a3867d1845d7
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: ACCOUNTANT
+
+Loaded 20 resumes from 'ACCOUNTANT'.
+
+Classifying resumes ...
+  Aisha Washington     name=female_coded       wording=neutral              format=clean
+  Allison Walsh        name=female_coded       wording=strong_technical     format=clean
+  Carlos Rodriguez     name=male_coded         wording=strong_leadership    format=clean
+  Elizabeth Tran       name=female_coded       wording=strong_technical     format=clean
+  Geoffrey Murphy      name=male_coded         wording=neutral              format=clean
+  Hakim Jones          name=male_coded         wording=neutral              format=clean
+  Joseph Tran          name=male_coded         wording=neutral              format=clean
+  Mary Chee            name=female_coded       wording=neutral              format=clean
+  Michael Sandoval     name=male_coded         wording=neutral              format=clean
+  Sandra Garcia        name=female_coded       wording=neutral              format=clean
+  Brett Baker          name=male_coded         wording=strong_leadership    format=clean
+  Carmen Garcia        name=female_coded       wording=neutral              format=clean
+  Darnell Washington   name=male_coded         wording=neutral              format=clean
+  David Garcia         name=male_coded         wording=strong_technical     format=clean
+  Linda Yazzie         name=female_coded       wording=strong_technical     format=dense
+  Meredith Kelly       name=female_coded       wording=neutral              format=clean
+  Michael Lee          name=male_coded         wording=strong_leadership    format=clean
+  Sarah Tran           name=female_coded       wording=strong_leadership    format=clean
+  Tamika Jones         name=female_coded       wording=neutral              format=clean
+  William Sandoval     name=male_coded         wording=strong_technical     format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Aisha Washington ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Allison Walsh ... overall=73  (skills=42/55, exp=23/30, lead=8/15, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=91  (skills=48/55, exp=28/30, lead=15/15, penalty=0)
+  Scoring: Elizabeth Tran ... overall=57  (skills=35/55, exp=12/30, lead=10/15, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=69  (skills=42/55, exp=16/30, lead=11/15, penalty=0)
+  Scoring: Hakim Jones ... overall=22  (skills=14/55, exp=8/30, lead=0/15, penalty=0)
+  Scoring: Joseph Tran ... overall=69  (skills=38/55, exp=23/30, lead=8/15, penalty=0)
+  Scoring: Mary Chee ... overall=47  (skills=28/55, exp=15/30, lead=4/15, penalty=0)
+  Scoring: Michael Sandoval ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Sandra Garcia ... overall=67  (skills=35/55, exp=28/30, lead=4/15, penalty=0)
+  Scoring: Brett Baker ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Carmen Garcia ... overall=61  (skills=28/55, exp=23/30, lead=10/15, penalty=0)
+  Scoring: Darnell Washington ... overall=83  (skills=48/55, exp=25/30, lead=10/15, penalty=0)
+  Scoring: David Garcia ... overall=75  (skills=35/55, exp=28/30, lead=12/15, penalty=0)
+  Scoring: Linda Yazzie ... overall=84  (skills=42/55, exp=30/30, lead=12/15, penalty=0)
+  Scoring: Meredith Kelly ... overall=85  (skills=45/55, exp=28/30, lead=12/15, penalty=0)
+  Scoring: Michael Lee ... overall=70  (skills=42/55, exp=16/30, lead=12/15, penalty=0)
+  Scoring: Sarah Tran ... overall=84  (skills=42/55, exp=30/30, lead=12/15, penalty=0)
+  Scoring: Tamika Jones ... overall=85  (skills=45/55, exp=28/30, lead=12/15, penalty=0)
+  Scoring: William Sandoval ... overall=82  (skills=45/55, exp=25/30, lead=12/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Aisha Washington ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Allison Walsh ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Elizabeth Tran ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Joseph Tran ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Mary Chee ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Michael Sandoval ... overall=21  (skills=12/45, exp=5/40, lead=4/15, penalty=0)
+  Scoring: Sandra Garcia ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Brett Baker ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Carmen Garcia ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Darnell Washington ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: David Garcia ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Linda Yazzie ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Meredith Kelly ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Michael Lee ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Sarah Tran ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Tamika Jones ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: William Sandoval ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Aisha Washington ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Allison Walsh ... overall=46  (skills=23/45, exp=12/35, lead=11/20, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=47  (skills=23/45, exp=8/35, lead=16/20, penalty=0)
+  Scoring: Elizabeth Tran ... overall=36  (skills=12/45, exp=8/35, lead=16/20, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=46  (skills=23/45, exp=12/35, lead=11/20, penalty=0)
+  Scoring: Hakim Jones ... overall=12  (skills=12/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Joseph Tran ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Mary Chee ... overall=23  (skills=15/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Michael Sandoval ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Sandra Garcia ... overall=31  (skills=15/45, exp=10/35, lead=6/20, penalty=0)
+  Scoring: Brett Baker ... overall=39  (skills=15/45, exp=10/35, lead=14/20, penalty=0)
+  Scoring: Carmen Garcia ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Darnell Washington ... overall=30  (skills=15/45, exp=5/35, lead=10/20, penalty=0)
+  Scoring: David Garcia ... overall=37  (skills=15/45, exp=8/35, lead=14/20, penalty=0)
+  Scoring: Linda Yazzie ... overall=30  (skills=15/45, exp=5/35, lead=10/20, penalty=0)
+  Scoring: Meredith Kelly ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Michael Lee ...     [WARN] Scoring error: HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=120)
+overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Tran ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Tamika Jones ... overall=39  (skills=15/45, exp=10/35, lead=14/20, penalty=0)
+  Scoring: William Sandoval ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Aisha Washington ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Allison Walsh ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=41  (skills=18/45, exp=8/35, lead=15/20, penalty=0)
+  Scoring: Elizabeth Tran ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=34  (skills=15/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Joseph Tran ... overall=28  (skills=15/45, exp=5/35, lead=8/20, penalty=0)
+  Scoring: Mary Chee ... overall=20  (skills=12/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Michael Sandoval ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Sandra Garcia ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Brett Baker ... overall=64  (skills=28/45, exp=22/35, lead=14/20, penalty=0)
+  Scoring: Carmen Garcia ... overall=26  (skills=15/45, exp=5/35, lead=6/20, penalty=0)
+  Scoring: Darnell Washington ... overall=34  (skills=15/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: David Garcia ... overall=34  (skills=15/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Linda Yazzie ... overall=28  (skills=15/45, exp=5/35, lead=8/20, penalty=0)
+  Scoring: Meredith Kelly ... overall=31  (skills=15/45, exp=5/35, lead=11/20, penalty=0)
+  Scoring: Michael Lee ... overall=54  (skills=23/45, exp=17/35, lead=14/20, penalty=0)
+  Scoring: Sarah Tran ... overall=66  (skills=23/45, exp=27/35, lead=16/20, penalty=0)
+  Scoring: Tamika Jones ... overall=44  (skills=18/45, exp=12/35, lead=14/20, penalty=0)
+  Scoring: William Sandoval ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Aisha Washington ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Allison Walsh ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=34  (skills=14/55, exp=8/30, lead=12/15, penalty=0)
+  Scoring: Elizabeth Tran ... overall=34  (skills=14/55, exp=8/30, lead=12/15, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Joseph Tran ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Mary Chee ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Michael Sandoval ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Sandra Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Brett Baker ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Carmen Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Darnell Washington ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: David Garcia ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Linda Yazzie ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Meredith Kelly ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Michael Lee ... overall=34  (skills=14/55, exp=8/30, lead=12/15, penalty=0)
+  Scoring: Sarah Tran ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tamika Jones ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: William Sandoval ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Aisha Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Allison Walsh ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Tran ... overall=46  (skills=22/45, exp=8/35, lead=16/20, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Joseph Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Mary Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Sandoval ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sandra Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Brett Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Carmen Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Darnell Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Linda Yazzie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Meredith Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tamika Jones ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: William Sandoval ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Aisha Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Allison Walsh ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Carlos Rodriguez ... overall=15  (skills=0/50, exp=0/30, lead=15/20, penalty=0)
+  Scoring: Elizabeth Tran ... overall=10  (skills=0/50, exp=0/30, lead=10/20, penalty=0)
+  Scoring: Geoffrey Murphy ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Joseph Tran ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Mary Chee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Sandoval ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sandra Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Brett Baker ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Carmen Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Darnell Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: David Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Linda Yazzie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Meredith Kelly ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Lee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sarah Tran ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tamika Jones ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: William Sandoval ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_ACCOUNTANT.csv
+
+Score distribution (overall_score):
+count    140.0
+mean      22.8
+std       26.6
+min        0.0
+25%        0.0
+50%       18.0
+75%       34.0
+max      100.0
+===== Apparel =====
+Run ID:     19d9d855-7a7c-4932-b907-753026a2db25
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: Apparel
+
+Loaded 20 resumes from 'Apparel'.
+
+Classifying resumes ...
+  Amy Tran             name=female_coded       wording=neutral              format=clean
+  Elizabeth Begay      name=female_coded       wording=strong_technical     format=clean
+  Jennifer Garcia      name=female_coded       wording=neutral              format=clean
+  Jill Kelly           name=female_coded       wording=neutral              format=dense
+  John Le              name=male_coded         wording=strong_leadership    format=clean
+  Juan Rodriguez       name=male_coded         wording=strong_leadership    format=clean
+  Latoya Williams      name=female_coded       wording=neutral              format=clean
+  Michael Locklear     name=male_coded         wording=neutral              format=clean
+  Todd Kelly           name=male_coded         wording=neutral              format=clean
+  Tremayne Washington  name=male_coded         wording=neutral              format=clean
+  Aisha Robinson       name=female_coded       wording=strong_leadership    format=clean
+  Jennifer Locklear    name=female_coded       wording=neutral              format=clean
+  Jessica Garcia       name=female_coded       wording=strong_leadership    format=clean
+  Jill Ryan            name=female_coded       wording=neutral              format=clean
+  Jorge Lopez          name=male_coded         wording=neutral              format=clean
+  Kareem Washington    name=male_coded         wording=neutral              format=clean
+  Michael Lee          name=male_coded         wording=strong_leadership    format=clean
+  Richard Tsosie       name=male_coded         wording=neutral              format=clean
+  Sarah Yang           name=female_coded       wording=neutral              format=clean
+  Todd Ryan            name=male_coded         wording=strong_technical     format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Amy Tran ... overall=17  (skills=13/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Elizabeth Begay ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Jennifer Garcia ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: John Le ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Juan Rodriguez ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Michael Locklear ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Todd Kelly ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Aisha Robinson ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kareem Washington ... overall=32  (skills=28/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Michael Lee ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Todd Ryan ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Amy Tran ... overall=33  (skills=15/45, exp=10/40, lead=8/15, penalty=0)
+  Scoring: Elizabeth Begay ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jennifer Garcia ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jill Kelly ... overall=27  (skills=12/45, exp=11/40, lead=4/15, penalty=0)
+  Scoring: John Le ... overall=21  (skills=12/45, exp=5/40, lead=4/15, penalty=0)
+  Scoring: Juan Rodriguez ... overall=65  (skills=28/45, exp=25/40, lead=12/15, penalty=0)
+  Scoring: Latoya Williams ... overall=39  (skills=20/45, exp=15/40, lead=4/15, penalty=0)
+  Scoring: Michael Locklear ... overall=21  (skills=12/45, exp=5/40, lead=4/15, penalty=0)
+  Scoring: Todd Kelly ... overall=21  (skills=12/45, exp=5/40, lead=4/15, penalty=0)
+  Scoring: Tremayne Washington ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Aisha Robinson ... overall=31  (skills=12/45, exp=11/40, lead=8/15, penalty=0)
+  Scoring: Jennifer Locklear ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Jessica Garcia ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Jill Ryan ... overall=55  (skills=23/45, exp=21/40, lead=11/15, penalty=0)
+  Scoring: Jorge Lopez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Kareem Washington ... overall=28  (skills=15/45, exp=5/40, lead=8/15, penalty=0)
+  Scoring: Michael Lee ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Todd Ryan ... overall=67  (skills=32/45, exp=25/40, lead=10/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Amy Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Garcia ... overall=12  (skills=12/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: John Le ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Juan Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Locklear ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Todd Kelly ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Aisha Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kareem Washington ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Michael Lee ... overall=11  (skills=0/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Yang ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Todd Ryan ... overall=23  (skills=12/45, exp=0/35, lead=11/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Amy Tran ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Elizabeth Begay ... overall=13  (skills=12/45, exp=0/35, lead=11/20, penalty=10)
+  Scoring: Jennifer Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: John Le ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Juan Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Locklear ... overall=12  (skills=12/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Kelly ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Aisha Robinson ... overall=23  (skills=12/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kareem Washington ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Michael Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Ryan ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Amy Tran ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Elizabeth Begay ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jennifer Garcia ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: John Le ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Juan Rodriguez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Michael Locklear ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Todd Kelly ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Aisha Robinson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kareem Washington ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Michael Lee ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Todd Ryan ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Amy Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Garcia ... overall=12  (skills=12/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: John Le ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Juan Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Locklear ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Aisha Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kareem Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Ryan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Amy Tran ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Elizabeth Begay ... overall=11  (skills=0/50, exp=0/30, lead=11/20, penalty=0)
+  Scoring: Jennifer Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jill Kelly ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: John Le ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Juan Rodriguez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Latoya Williams ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Locklear ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Todd Kelly ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tremayne Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Aisha Robinson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jennifer Locklear ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jessica Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jill Ryan ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jorge Lopez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kareem Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Lee ... overall=15  (skills=0/50, exp=0/30, lead=15/20, penalty=0)
+  Scoring: Richard Tsosie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sarah Yang ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Todd Ryan ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_Apparel.csv
+
+Score distribution (overall_score):
+count    140.0
+mean       8.2
+std       13.3
+min        0.0
+25%        0.0
+50%        0.0
+75%       15.5
+max       67.0
+===== Banking =====
+Run ID:     479e5e45-7c9f-4f4c-acca-683efa1acb00
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: Banking
+
+Loaded 20 resumes from 'Banking'.
+
+Classifying resumes ...
+  Carrie Sullivan      name=female_coded       wording=strong_leadership    format=clean
+  Christopher Tsosie   name=male_coded         wording=strong_leadership    format=clean
+  Jason Nguyen         name=male_coded         wording=neutral              format=clean
+  Jennifer Kim         name=female_coded       wording=strong_leadership    format=clean
+  Jennifer Nez         name=female_coded       wording=neutral              format=clean
+  Luis Gonzalez        name=male_coded         wording=strong_leadership    format=clean
+  Martha Rodriguez     name=female_coded       wording=strong_leadership    format=clean
+  Rasheed Washington   name=male_coded         wording=neutral              format=clean
+  Tamika Williams      name=female_coded       wording=strong_leadership    format=clean
+  Todd Walsh           name=male_coded         wording=neutral              format=clean
+  Ashley Yazzie        name=female_coded       wording=strong_technical     format=dense
+  Brett Walsh          name=male_coded         wording=neutral              format=clean
+  David Tran           name=male_coded         wording=neutral              format=clean
+  Hakim Jones          name=male_coded         wording=neutral              format=dense
+  Juan Lopez           name=male_coded         wording=neutral              format=clean
+  Kristen Kelly        name=female_coded       wording=neutral              format=clean
+  Lakisha Washington   name=female_coded       wording=strong_technical     format=clean
+  Maria Li             name=female_coded       wording=neutral              format=clean
+  Martha Lopez         name=female_coded       wording=strong_technical     format=clean
+  Michael Chee         name=male_coded         wording=neutral              format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Carrie Sullivan ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: Christopher Tsosie ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jennifer Kim ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Jennifer Nez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=34  (skills=14/55, exp=8/30, lead=12/15, penalty=0)
+  Scoring: Martha Rodriguez ... overall=33  (skills=14/55, exp=8/30, lead=11/15, penalty=0)
+  Scoring: Rasheed Washington ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Tamika Williams ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Todd Walsh ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Ashley Yazzie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Brett Walsh ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: David Tran ... overall=64  (skills=42/55, exp=10/30, lead=12/15, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kristen Kelly ... overall=37  (skills=14/55, exp=15/30, lead=8/15, penalty=0)
+  Scoring: Lakisha Washington ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Maria Li ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Martha Lopez ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Carrie Sullivan ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Christopher Tsosie ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jennifer Kim ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Jennifer Nez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Martha Rodriguez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Rasheed Washington ... overall=21  (skills=12/45, exp=5/40, lead=4/15, penalty=0)
+  Scoring: Tamika Williams ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Todd Walsh ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Ashley Yazzie ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Brett Walsh ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: David Tran ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Kristen Kelly ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Lakisha Washington ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Maria Li ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Martha Lopez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Carrie Sullivan ... overall=46  (skills=18/45, exp=12/35, lead=16/20, penalty=0)
+  Scoring: Christopher Tsosie ... overall=92  (skills=38/45, exp=35/35, lead=19/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=26  (skills=15/45, exp=5/35, lead=6/20, penalty=0)
+  Scoring: Jennifer Kim ... overall=81  (skills=28/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Jennifer Nez ... overall=64  (skills=28/45, exp=22/35, lead=14/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=66  (skills=28/45, exp=22/35, lead=16/20, penalty=0)
+  Scoring: Martha Rodriguez ... overall=91  (skills=38/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Rasheed Washington ... overall=51  (skills=23/45, exp=17/35, lead=11/20, penalty=0)
+  Scoring: Tamika Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Walsh ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Ashley Yazzie ... overall=91  (skills=38/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Brett Walsh ... overall=33  (skills=15/45, exp=10/35, lead=8/20, penalty=0)
+  Scoring: David Tran ... overall=39  (skills=15/45, exp=10/35, lead=14/20, penalty=0)
+  Scoring: Hakim Jones ... overall=20  (skills=12/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Juan Lopez ... overall=74  (skills=32/45, exp=28/35, lead=14/20, penalty=0)
+  Scoring: Kristen Kelly ... overall=51  (skills=22/45, exp=18/35, lead=11/20, penalty=0)
+  Scoring: Lakisha Washington ... overall=54  (skills=23/45, exp=17/35, lead=14/20, penalty=0)
+  Scoring: Maria Li ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Martha Lopez ... overall=46  (skills=20/45, exp=15/35, lead=11/20, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Carrie Sullivan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Christopher Tsosie ... overall=35  (skills=12/45, exp=8/35, lead=15/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Kim ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Nez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=36  (skills=12/45, exp=8/35, lead=16/20, penalty=0)
+  Scoring: Martha Rodriguez ... overall=35  (skills=12/45, exp=8/35, lead=15/20, penalty=0)
+  Scoring: Rasheed Washington ... overall=26  (skills=12/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Tamika Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Walsh ... overall=8  (skills=12/45, exp=0/35, lead=6/20, penalty=10)
+  Scoring: Ashley Yazzie ... overall=81  (skills=28/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Brett Walsh ... overall=12  (skills=12/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Tran ... overall=32  (skills=12/45, exp=5/35, lead=15/20, penalty=0)
+  Scoring: Hakim Jones ... overall=20  (skills=15/45, exp=5/35, lead=0/20, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kristen Kelly ... overall=26  (skills=15/45, exp=5/35, lead=6/20, penalty=0)
+  Scoring: Lakisha Washington ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Maria Li ... overall=8  (skills=12/45, exp=0/35, lead=6/20, penalty=10)
+  Scoring: Martha Lopez ... overall=42  (skills=23/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Carrie Sullivan ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: Christopher Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Jennifer Kim ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jennifer Nez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Martha Rodriguez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Rasheed Washington ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tamika Williams ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Todd Walsh ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Ashley Yazzie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Brett Walsh ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: David Tran ... overall=12  (skills=14/55, exp=0/30, lead=8/15, penalty=10)
+  Scoring: Hakim Jones ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kristen Kelly ... overall=62  (skills=38/55, exp=16/30, lead=8/15, penalty=0)
+  Scoring: Lakisha Washington ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Maria Li ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Martha Lopez ... overall=47  (skills=28/55, exp=15/30, lead=4/15, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Carrie Sullivan ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Christopher Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Kim ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Nez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Martha Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Rasheed Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tamika Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Walsh ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Ashley Yazzie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Brett Walsh ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kristen Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lakisha Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Maria Li ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Martha Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Carrie Sullivan ... overall=5  (skills=0/50, exp=0/30, lead=15/20, penalty=10)
+  Scoring: Christopher Tsosie ... overall=15  (skills=0/50, exp=0/30, lead=15/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jennifer Kim ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jennifer Nez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Martha Rodriguez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Rasheed Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tamika Williams ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Todd Walsh ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Ashley Yazzie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Brett Walsh ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: David Tran ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Hakim Jones ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Juan Lopez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kristen Kelly ... overall=31  (skills=15/50, exp=5/30, lead=11/20, penalty=0)
+  Scoring: Lakisha Washington ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Maria Li ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Martha Lopez ... overall=27  (skills=13/50, exp=8/30, lead=6/20, penalty=0)
+  Scoring: Michael Chee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_Banking.csv
+
+Score distribution (overall_score):
+count    140.0
+mean      15.4
+std       22.4
+min        0.0
+25%        0.0
+50%        0.0
+75%       26.0
+max       92.0
+===== Finance =====
+Run ID:     e2021940-050b-4d8b-9d2d-c960d81f5b96
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: Finance
+
+Loaded 20 resumes from 'Finance'.
+
+Classifying resumes ...
+  Brendan O’Brien      name=male_coded         wording=strong_leadership    format=clean
+  Elizabeth Hernandez  name=female_coded       wording=neutral              format=dense
+  Jamal Washington     name=male_coded         wording=strong_technical     format=clean
+  Jennifer Tran        name=female_coded       wording=neutral              format=clean
+  Joseph Chee          name=male_coded         wording=strong_technical     format=dense
+  Luis Gonzalez        name=male_coded         wording=strong_leadership    format=dense
+  Michael Li           name=male_coded         wording=neutral              format=clean
+  Patricia Begay       name=female_coded       wording=neutral              format=dense
+  Sarah Kelly          name=female_coded       wording=neutral              format=clean
+  Tanisha Robinson     name=female_coded       wording=neutral              format=dense
+  Brett O’Brien        name=male_coded         wording=strong_leadership    format=clean
+  Daniel Kim           name=male_coded         wording=strong_leadership    format=clean
+  Daniel Rodriguez     name=male_coded         wording=neutral              format=clean
+  John Tsosie          name=male_coded         wording=strong_technical     format=clean
+  Lisa Yazzie          name=female_coded       wording=neutral              format=dense
+  Meredith McCarthy    name=female_coded       wording=neutral              format=clean
+  Michelle Le          name=female_coded       wording=neutral              format=clean
+  Rosa Gonzalez        name=female_coded       wording=neutral              format=clean
+  Tanisha Robinson     name=female_coded       wording=strong_technical     format=dense
+  Tremayne Jackson     name=male_coded         wording=strong_leadership    format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Brendan O’Brien ... overall=63  (skills=28/55, exp=23/30, lead=12/15, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=90  (skills=48/55, exp=28/30, lead=14/15, penalty=0)
+  Scoring: Jamal Washington ... overall=87  (skills=42/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Jennifer Tran ... overall=97  (skills=55/55, exp=30/30, lead=12/15, penalty=0)
+  Scoring: Joseph Chee ... overall=87  (skills=42/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=80  (skills=42/55, exp=23/30, lead=15/15, penalty=0)
+  Scoring: Michael Li ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Patricia Begay ... overall=77  (skills=38/55, exp=28/30, lead=11/15, penalty=0)
+  Scoring: Sarah Kelly ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=74  (skills=38/55, exp=28/30, lead=8/15, penalty=0)
+  Scoring: Brett O’Brien ... overall=70  (skills=42/55, exp=16/30, lead=12/15, penalty=0)
+  Scoring: Daniel Kim ... overall=63  (skills=28/55, exp=23/30, lead=12/15, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=88  (skills=48/55, exp=28/30, lead=12/15, penalty=0)
+  Scoring: John Tsosie ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Lisa Yazzie ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Meredith McCarthy ... overall=52  (skills=28/55, exp=12/30, lead=12/15, penalty=0)
+  Scoring: Michelle Le ... overall=66  (skills=28/55, exp=23/30, lead=15/15, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=71  (skills=32/55, exp=28/30, lead=11/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+  Scoring: Tremayne Jackson ... overall=100  (skills=55/55, exp=30/30, lead=15/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Brendan O’Brien ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Jamal Washington ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Jennifer Tran ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Joseph Chee ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Michael Li ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Patricia Begay ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Sarah Kelly ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Brett O’Brien ... overall=20  (skills=12/45, exp=0/40, lead=8/15, penalty=0)
+  Scoring: Daniel Kim ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: John Tsosie ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Lisa Yazzie ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Meredith McCarthy ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Michelle Le ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=12  (skills=12/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Tremayne Jackson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Brendan O’Brien ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=39  (skills=15/45, exp=10/35, lead=14/20, penalty=0)
+  Scoring: Jamal Washington ... overall=41  (skills=23/45, exp=12/35, lead=16/20, penalty=10)
+  Scoring: Jennifer Tran ... overall=46  (skills=23/45, exp=12/35, lead=11/20, penalty=0)
+  Scoring: Joseph Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=41  (skills=23/45, exp=12/35, lead=16/20, penalty=10)
+  Scoring: Michael Li ... overall=23  (skills=15/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Patricia Begay ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Sarah Kelly ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=28  (skills=12/45, exp=5/35, lead=11/20, penalty=0)
+  Scoring: Brett O’Brien ... overall=46  (skills=23/45, exp=12/35, lead=16/20, penalty=5)
+  Scoring: Daniel Kim ... overall=54  (skills=28/45, exp=12/35, lead=14/20, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=45  (skills=23/45, exp=8/35, lead=14/20, penalty=0)
+  Scoring: John Tsosie ... overall=64  (skills=23/45, exp=27/35, lead=14/20, penalty=0)
+  Scoring: Lisa Yazzie ... overall=72  (skills=32/45, exp=24/35, lead=16/20, penalty=0)
+  Scoring: Meredith McCarthy ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Michelle Le ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=58  (skills=32/45, exp=12/35, lead=14/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=51  (skills=32/45, exp=5/35, lead=14/20, penalty=0)
+  Scoring: Tremayne Jackson ... overall=66  (skills=28/45, exp=22/35, lead=16/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Brendan O’Brien ... overall=32  (skills=15/45, exp=5/35, lead=12/20, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=31  (skills=15/45, exp=5/35, lead=11/20, penalty=0)
+  Scoring: Jamal Washington ... overall=75  (skills=28/45, exp=29/35, lead=18/20, penalty=0)
+  Scoring: Jennifer Tran ... overall=32  (skills=18/45, exp=8/35, lead=6/20, penalty=0)
+  Scoring: Joseph Chee ... overall=56  (skills=23/45, exp=17/35, lead=16/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=68  (skills=23/45, exp=27/35, lead=18/20, penalty=0)
+  Scoring: Michael Li ... overall=23  (skills=15/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Patricia Begay ... overall=31  (skills=15/45, exp=5/35, lead=11/20, penalty=0)
+  Scoring: Sarah Kelly ... overall=36  (skills=15/45, exp=10/35, lead=11/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=33  (skills=15/45, exp=8/35, lead=10/20, penalty=0)
+  Scoring: Brett O’Brien ... overall=54  (skills=28/45, exp=12/35, lead=14/20, penalty=0)
+  Scoring: Daniel Kim ... overall=72  (skills=28/45, exp=28/35, lead=16/20, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=48  (skills=22/45, exp=12/35, lead=14/20, penalty=0)
+  Scoring: John Tsosie ... overall=37  (skills=15/45, exp=10/35, lead=12/20, penalty=0)
+  Scoring: Lisa Yazzie ... overall=70  (skills=28/45, exp=28/35, lead=14/20, penalty=0)
+  Scoring: Meredith McCarthy ... overall=31  (skills=12/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Michelle Le ... overall=61  (skills=28/45, exp=15/35, lead=18/20, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=68  (skills=28/45, exp=24/35, lead=16/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=45  (skills=20/45, exp=10/35, lead=15/20, penalty=0)
+  Scoring: Tremayne Jackson ... overall=78  (skills=32/45, exp=28/35, lead=18/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Brendan O’Brien ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Jamal Washington ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Jennifer Tran ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Joseph Chee ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Luis Gonzalez ... overall=2  (skills=0/55, exp=0/30, lead=12/15, penalty=10)
+  Scoring: Michael Li ... overall=22  (skills=14/55, exp=8/30, lead=0/15, penalty=0)
+  Scoring: Patricia Begay ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Sarah Kelly ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Brett O’Brien ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Daniel Kim ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: John Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Lisa Yazzie ... overall=40  (skills=28/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Meredith McCarthy ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Michelle Le ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Tremayne Jackson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Brendan O’Brien ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jamal Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jennifer Tran ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Joseph Chee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Li ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Patricia Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Kelly ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Brett O’Brien ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Daniel Kim ... overall=16  (skills=0/45, exp=0/35, lead=16/20, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: John Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lisa Yazzie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Meredith McCarthy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michelle Le ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tremayne Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Brendan O’Brien ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Elizabeth Hernandez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jamal Washington ... overall=15  (skills=0/50, exp=0/30, lead=15/20, penalty=0)
+  Scoring: Jennifer Tran ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Joseph Chee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Luis Gonzalez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Li ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Patricia Begay ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sarah Kelly ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Brett O’Brien ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Daniel Kim ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Daniel Rodriguez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: John Tsosie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Lisa Yazzie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Meredith McCarthy ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michelle Le ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Rosa Gonzalez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tanisha Robinson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tremayne Jackson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_Finance.csv
+
+Score distribution (overall_score):
+count    140.0
+mean      27.6
+std       31.7
+min        0.0
+25%        0.0
+50%       17.0
+75%       48.8
+max      100.0
+===== Research_Assistant =====
+Run ID:     9e1749a8-b516-4611-bd3d-ec74522b4938
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: Research_Assistant
+
+Loaded 20 resumes from 'Research_Assistant'.
+
+Classifying resumes ...
+  Carmen Sanchez       name=female_coded       wording=neutral              format=clean
+  Elizabeth Li         name=female_coded       wording=neutral              format=clean
+  Greg Baker           name=male_coded         wording=neutral              format=clean
+  Jermaine Washington  name=male_coded         wording=strong_technical     format=clean
+  Jesus Garcia         name=male_coded         wording=strong_leadership    format=clean
+  Jill Murray          name=female_coded       wording=strong_leadership    format=clean
+  Keisha Jackson       name=female_coded       wording=neutral              format=clean
+  Kevin Lee            name=male_coded         wording=neutral              format=clean
+  Lisa Nez             name=female_coded       wording=strong_technical     format=clean
+  Richard Begay        name=male_coded         wording=neutral              format=clean
+  Allison Baker        name=female_coded       wording=neutral              format=clean
+  David Benally        name=male_coded         wording=strong_technical     format=clean
+  David Rodriguez      name=male_coded         wording=neutral              format=clean
+  Grace Nguyen         name=female_coded       wording=neutral              format=clean
+  Greg McCarthy        name=male_coded         wording=neutral              format=clean
+  Jason Kim            name=male_coded         wording=strong_leadership    format=clean
+  Kenya Jackson        name=female_coded       wording=neutral              format=clean
+  Leroy Williams       name=male_coded         wording=neutral              format=clean
+  Patricia Tsosie      name=female_coded       wording=neutral              format=clean
+  Sandra Ramirez       name=female_coded       wording=neutral              format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Elizabeth Li ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Greg Baker ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jermaine Washington ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Lisa Nez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Richard Begay ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Allison Baker ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Grace Nguyen ... overall=12  (skills=0/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Greg McCarthy ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Elizabeth Li ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Greg Baker ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jermaine Washington ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Lisa Nez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Richard Begay ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Allison Baker ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Grace Nguyen ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Greg McCarthy ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Li ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jermaine Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lisa Nez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Richard Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Allison Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Grace Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg McCarthy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Li ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jermaine Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lisa Nez ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Richard Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Allison Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Grace Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg McCarthy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Carmen Sanchez ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Elizabeth Li ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: Greg Baker ... overall=26  (skills=14/55, exp=0/30, lead=12/15, penalty=0)
+  Scoring: Jermaine Washington ... overall=48  (skills=28/55, exp=16/30, lead=4/15, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jill Murray ... overall=22  (skills=0/55, exp=10/30, lead=12/15, penalty=0)
+  Scoring: Keisha Jackson ... overall=73  (skills=42/55, exp=23/30, lead=8/15, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Lisa Nez ... overall=63  (skills=28/55, exp=23/30, lead=12/15, penalty=0)
+  Scoring: Richard Begay ... overall=52  (skills=28/55, exp=16/30, lead=8/15, penalty=0)
+  Scoring: Allison Baker ... overall=26  (skills=14/55, exp=8/30, lead=4/15, penalty=0)
+  Scoring: David Benally ... overall=58  (skills=28/55, exp=22/30, lead=8/15, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Grace Nguyen ... overall=63  (skills=28/55, exp=23/30, lead=12/15, penalty=0)
+  Scoring: Greg McCarthy ... overall=73  (skills=35/55, exp=28/30, lead=10/15, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Leroy Williams ... overall=65  (skills=42/55, exp=23/30, lead=0/15, penalty=0)
+  Scoring: Patricia Tsosie ... overall=52  (skills=28/55, exp=16/30, lead=8/15, penalty=0)
+  Scoring: Sandra Ramirez ... overall=56  (skills=28/55, exp=16/30, lead=12/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Elizabeth Li ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jermaine Washington ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lisa Nez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Richard Begay ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Allison Baker ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Grace Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Greg McCarthy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Carmen Sanchez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Elizabeth Li ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Greg Baker ... overall=37  (skills=13/50, exp=8/30, lead=16/20, penalty=0)
+  Scoring: Jermaine Washington ... overall=38  (skills=20/50, exp=10/30, lead=8/20, penalty=0)
+  Scoring: Jesus Garcia ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jill Murray ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Keisha Jackson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kevin Lee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Lisa Nez ... overall=48  (skills=28/50, exp=8/30, lead=12/20, penalty=0)
+  Scoring: Richard Begay ... overall=31  (skills=15/50, exp=10/30, lead=6/20, penalty=0)
+  Scoring: Allison Baker ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: David Benally ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: David Rodriguez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Grace Nguyen ... overall=39  (skills=13/50, exp=10/30, lead=16/20, penalty=0)
+  Scoring: Greg McCarthy ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jason Kim ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Leroy Williams ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Patricia Tsosie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sandra Ramirez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_Research_Assistant.csv
+
+Score distribution (overall_score):
+count    140.0
+mean       7.0
+std       17.3
+min        0.0
+25%        0.0
+50%        0.0
+75%        0.0
+max       73.0
+===== TEACHER =====
+Run ID:     be60edb7-8d91-43cb-9a80-d269c9e7acae
+Model:      Qwen3.5-4B-GGUF:Q4_K_M
+Occupation: TEACHER
+
+Loaded 20 resumes from 'TEACHER'.
+
+Classifying resumes ...
+  Ashley Benally       name=female_coded       wording=neutral              format=clean
+  Kevin Le             name=male_coded         wording=neutral              format=clean
+  Laurie Murray        name=female_coded       wording=neutral              format=clean
+  Luis Ramirez         name=male_coded         wording=neutral              format=clean
+  Maria Gonzalez       name=female_coded       wording=neutral              format=clean
+  Maria Lee            name=female_coded       wording=neutral              format=clean
+  Michael Tsosie       name=male_coded         wording=strong_leadership    format=clean
+  Tamika Robinson      name=female_coded       wording=neutral              format=clean
+  Todd Murphy          name=male_coded         wording=neutral              format=clean
+  Tyrone Williams      name=male_coded         wording=neutral              format=clean
+  Geoffrey Murray      name=male_coded         wording=neutral              format=clean
+  Jason Nguyen         name=male_coded         wording=neutral              format=clean
+  Jesus Lopez          name=male_coded         wording=neutral              format=clean
+  Kareem Robinson      name=male_coded         wording=strong_leadership    format=clean
+  Kenya Jackson        name=female_coded       wording=neutral              format=clean
+  Lisa Tsosie          name=female_coded       wording=neutral              format=clean
+  Meredith Murphy      name=female_coded       wording=neutral              format=clean
+  Michael Benally      name=male_coded         wording=neutral              format=clean
+  Rosa Ramirez         name=female_coded       wording=neutral              format=clean
+  Sarah Chen           name=female_coded       wording=neutral              format=clean
+
+Loaded 7 JD templates.
+
+=======================================================
+JD: ACCOUNTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes deep technical proficiency in accounting principles, software, and financial analysis over broad leadership or strategic oversight.
+
+  Scoring: Ashley Benally ... overall=17  (skills=13/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Maria Gonzalez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Maria Lee ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Michael Tsosie ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Tamika Robinson ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Todd Murphy ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: Tyrone Williams ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jesus Lopez ... overall=8  (skills=14/55, exp=0/30, lead=4/15, penalty=10)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=14  (skills=14/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Meredith Murphy ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Michael Benally ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Rosa Ramirez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: APPAREL
+=======================================================
+  Weights → skills=45  experience=40  leadership=15
+  Reasoning: This role requires deep, hands-on technical expertise in garment construction, tech packs, and retail math to manage the full product lifecycle, while also demanding specific industry experience to negotiate with factories and drive seasonal strategy.
+
+  Scoring: Ashley Benally ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Maria Gonzalez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Maria Lee ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Michael Tsosie ... overall=25  (skills=12/45, exp=5/40, lead=8/15, penalty=0)
+  Scoring: Tamika Robinson ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Todd Murphy ... overall=12  (skills=0/45, exp=0/40, lead=12/15, penalty=0)
+  Scoring: Tyrone Williams ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Jesus Lopez ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Meredith Murphy ... overall=4  (skills=0/45, exp=0/40, lead=4/15, penalty=0)
+  Scoring: Michael Benally ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+  Scoring: Rosa Ramirez ... overall=10  (skills=0/45, exp=0/40, lead=10/15, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/45, exp=0/40, lead=0/15, penalty=0)
+
+=======================================================
+JD: BANKING
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes specific technical banking competencies like credit analysis and regulatory compliance while requiring relevant industry experience, with only a minor emphasis on leadership since it is an individual contributor position.
+
+  Scoring: Ashley Benally ... overall=23  (skills=12/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Maria Gonzalez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Maria Lee ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Michael Tsosie ... overall=28  (skills=12/45, exp=5/35, lead=11/20, penalty=0)
+  Scoring: Tamika Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Murphy ... overall=23  (skills=12/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Tyrone Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jesus Lopez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Meredith Murphy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Benally ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Rosa Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: FINANCE
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hard technical competencies in financial modeling and accounting fundamentals while requiring recent domain experience, with a lower emphasis on formal leadership or people management.
+
+  Scoring: Ashley Benally ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Maria Gonzalez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Maria Lee ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Michael Tsosie ... overall=18  (skills=12/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Tamika Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Todd Murphy ... overall=23  (skills=12/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Tyrone Williams ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Jesus Lopez ... overall=11  (skills=5/45, exp=0/35, lead=6/20, penalty=0)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Meredith Murphy ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Michael Benally ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Rosa Ramirez ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: RESEARCH_ASSISTANT
+=======================================================
+  Weights → skills=55  experience=30  leadership=15
+  Reasoning: This role prioritizes specific technical proficiencies in statistical software and academic writing over broad leadership or seniority, as it is fundamentally a hands-on execution position requiring immediate application of research methodologies.
+
+  Scoring: Ashley Benally ... overall=18  (skills=14/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Maria Gonzalez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Maria Lee ... overall=30  (skills=14/55, exp=8/30, lead=8/15, penalty=0)
+  Scoring: Michael Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Tamika Robinson ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Todd Murphy ... overall=22  (skills=14/55, exp=0/30, lead=8/15, penalty=0)
+  Scoring: Tyrone Williams ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Jesus Lopez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Kenya Jackson ... overall=22  (skills=14/55, exp=8/30, lead=0/15, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Meredith Murphy ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Michael Benally ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+  Scoring: Rosa Ramirez ... overall=4  (skills=0/55, exp=0/30, lead=4/15, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/55, exp=0/30, lead=0/15, penalty=0)
+
+=======================================================
+JD: TEACHER
+=======================================================
+  Weights → skills=45  experience=35  leadership=20
+  Reasoning: This role prioritizes hands-on instructional delivery and classroom management skills over strategic leadership, requiring a strong balance of practical teaching ability and recent relevant experience.
+
+  Scoring: Ashley Benally ... overall=22  (skills=15/45, exp=5/35, lead=12/20, penalty=10)
+  Scoring: Kevin Le ... overall=82  (skills=38/45, exp=30/35, lead=14/20, penalty=0)
+  Scoring: Laurie Murray ... overall=84  (skills=38/45, exp=30/35, lead=16/20, penalty=0)
+  Scoring: Luis Ramirez ... overall=76  (skills=32/45, exp=28/35, lead=16/20, penalty=0)
+  Scoring: Maria Gonzalez ... overall=11  (skills=0/45, exp=0/35, lead=11/20, penalty=0)
+  Scoring: Maria Lee ... overall=91  (skills=38/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Michael Tsosie ... overall=0  (skills=0/45, exp=0/35, lead=0/20, penalty=0)
+  Scoring: Tamika Robinson ... overall=34  (skills=15/45, exp=8/35, lead=11/20, penalty=0)
+  Scoring: Todd Murphy ... overall=34  (skills=15/45, exp=5/35, lead=14/20, penalty=0)
+  Scoring: Tyrone Williams ... overall=51  (skills=28/45, exp=12/35, lead=11/20, penalty=0)
+  Scoring: Geoffrey Murray ... overall=67  (skills=28/45, exp=27/35, lead=12/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=74  (skills=32/45, exp=28/35, lead=14/20, penalty=0)
+  Scoring: Jesus Lopez ... overall=49  (skills=28/45, exp=10/35, lead=11/20, penalty=0)
+  Scoring: Kareem Robinson ... overall=96  (skills=42/45, exp=35/35, lead=19/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=85  (skills=34/45, exp=35/35, lead=16/20, penalty=0)
+  Scoring: Lisa Tsosie ... overall=23  (skills=15/45, exp=8/35, lead=0/20, penalty=0)
+  Scoring: Meredith Murphy ... overall=85  (skills=34/45, exp=35/35, lead=16/20, penalty=0)
+  Scoring: Michael Benally ... overall=77  (skills=34/45, exp=27/35, lead=16/20, penalty=0)
+  Scoring: Rosa Ramirez ... overall=85  (skills=32/45, exp=35/35, lead=18/20, penalty=0)
+  Scoring: Sarah Chen ... overall=32  (skills=23/45, exp=9/35, lead=0/20, penalty=0)
+
+=======================================================
+JD: SOFTWARE ENGINEER
+=======================================================
+  Weights → skills=50  experience=30  leadership=20
+  Reasoning: This role prioritizes deep technical proficiency in backend systems and coding standards while requiring only minimal formal leadership responsibilities like basic mentoring.
+
+  Scoring: Ashley Benally ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kevin Le ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Laurie Murray ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Luis Ramirez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Maria Gonzalez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Maria Lee ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Tsosie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tamika Robinson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Todd Murphy ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Tyrone Williams ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Geoffrey Murray ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jason Nguyen ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Jesus Lopez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kareem Robinson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Kenya Jackson ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Lisa Tsosie ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Meredith Murphy ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Michael Benally ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Rosa Ramirez ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+  Scoring: Sarah Chen ... overall=0  (skills=0/50, exp=0/30, lead=0/20, penalty=0)
+
+Saved 140 rows → /Users/batuhanaydin/Desktop/projects/ai-ats/similarity_scores_TEACHER.csv
+
+Score distribution (overall_score):
+count    140.0
+mean      11.8
+std       23.0
+min        0.0
+25%        0.0
+50%        0.0
+75%       17.2
+max       96.0
+ALL DONE

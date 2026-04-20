@@ -1,0 +1,34 @@
+EDUCATION
+Univ. of Kentucky
+Ph.D. in Computer Science
+
+BRAC Univ.
+M.Eng. in CSE
+
+PROFESSIONAL EXPERIENCE
+Graduate RA
+2024–
+- Built OTT, DRM, and fintech systems
+
+Backend Chartered Engr.
+2023–24
+- Developed backend systems
+
+Lead Engr.
+2021–23
+- Led development of MyBL App
+
+Lead Dev.
+2020–21
+- Developed OTT, DRM, and fintech systems
+
+SWE
+2015–18
+- Built OTT, DRM, and fintech systems
+
+Job_type
+2024–
+- Graduate RA
+
+SKILLS
+Skilled in Go, Python, Java, Node.js, Django, React, GCP, Kubernetes, and microservices. Certified Kubernetes App Developer (CNCF, 2024) and Google Widevine Partner (2024). Expertise in OTT, DRM, and scalable backend systems handling 1M+ concurrent users

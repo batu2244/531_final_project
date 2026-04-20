@@ -1,0 +1,38 @@
+{
+  "name": "Richard Tsosie",
+  "education": [
+    {
+      "school": "Chandler-Gilbert CC",
+      "degree": "A.A."
+    },
+    {
+      "school": "GED",
+      "degree": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cashier",
+      "dates": "Dec 2015–Feb 2016",
+      "bullets": [
+        "POS, promos, cleanliness, childcare arts/activities"
+      ]
+    },
+    {
+      "title": "Care-giver",
+      "dates": "Jan 2013–Aug 2015",
+      "bullets": [
+        "childcare arts/activities"
+      ]
+    },
+    {
+      "title": "Duties include POS, promos, cleanliness, childcare arts/activities",
+      "dates": "Sep 2015",
+      "bullets": [
+        "POS, promos, cleanliness, childcare arts/activities"
+      ]
+    }
+  ],
+  "skills_and_achievements": "patient, active listener, problem solving, time management, leadership, creativity, conversant in Korean, trained in animal behavior/kennel care",
+  "job_type": "Entry-level"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Patricia Tsosie",
+  "education": [
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.URP",
+      "details": "2019–24, GPA 5.00 in HSC, Science"
+    },
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "GPA 5.00 in HSC, Science"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Asst.",
+      "dates": "2024–25",
+      "bullets": [
+        "projects on seismic & multi-hazard resilience"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2023",
+      "bullets": [
+        "focused on spatial risk analysis using GIS & MCDM"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in GIS, Remote Sensing, SPSS, ERDAS Imagine, AutoCAD, and Spatial Modeling. Published in Computational Urban Science (Springer, 2024) and ICWFM-2023. Gold Award in Intl. Poster Competition on SDGs (2021)."
+}

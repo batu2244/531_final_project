@@ -1,0 +1,60 @@
+{
+  "name": "Tamika Jones",
+  "education": [
+    {
+      "school": "Andrés Bello Catholic University",
+      "degree": "BBA",
+      "details": "coursework in Informatics Engineering; seminars: SAP, California Payroll Law, Tax Planning (KPMG)"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2017–Present",
+      "bullets": [
+        "Field audits (QuickBooks)",
+        "GAAP alignment",
+        "cash management",
+        "bank recs for 24+ companies",
+        "capex tracking/reporting"
+      ]
+    },
+    {
+      "title": "Controller Assistant",
+      "dates": "2016–2017",
+      "bullets": [
+        "audit prep",
+        "AR reporting/recons",
+        "bank discrepancy resolution",
+        "compliance"
+      ]
+    },
+    {
+      "title": "Bookkeeper",
+      "dates": "2016–2017",
+      "bullets": [
+        "payroll",
+        "deposits",
+        "pay adjustments",
+        "AR docs",
+        "dispute resolution"
+      ]
+    },
+    {
+      "title": "Controller",
+      "dates": "2010–2016",
+      "bullets": [
+        "budget/reporting improvements",
+        "tax review",
+        "automation",
+        "staff recruiting/training"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GAAP/IFRS, audit standards, financial reporting & close, budgeting/capitalization, bank reconciliations, AR/AP, payroll (ADP), QuickBooks (advanced), Excel (pivots, macros), SAP (basic), Lacerte (basic). Built new Excel recording system; restructured Profit software to improve budget reports; streamlined procedures/automation; executed AR reporting enhancements; led multi-company monthly/quarterly/annual reconciliations."
+}

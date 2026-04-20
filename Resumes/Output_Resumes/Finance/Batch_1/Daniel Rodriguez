@@ -1,0 +1,46 @@
+{
+  "name": "Daniel Rodriguez",
+  "education": [
+    {
+      "school": "Pontifical Catholic University of Puerto Rico",
+      "degree": "BBA",
+      "details": "1992"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Finance Manager",
+      "dates": "2015–2017",
+      "bullets": [
+        "AP, payroll, bank recs, GL, GAAP FS, budgets, cash, controls, fixed assets, exec reporting"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2012–2015",
+      "bullets": [
+        "tax & GL"
+      ]
+    },
+    {
+      "title": "Founder/Accountant",
+      "dates": "2000–2015",
+      "bullets": [
+        "full-cycle bookkeeping, systems setup/training, compliance, budgeting/forecasting, tax authority representation"
+      ]
+    },
+    {
+      "title": "Auditor/Manager",
+      "dates": "1993–2000",
+      "bullets": [
+        "across retail/real estate/construction"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Budgeting, GL/account reconciliations, GAAP reporting, ADP payroll, cash mgmt, fixed assets, PR & U.S. tax, QuickBooks/Peachtree/Quicken, Excel (pivots/macros); bilingual (ES/EN); uncovered $75K fraud (won $50K recovery), saved $42K in audit, built 47-client practice ($150K/yr)"
+}

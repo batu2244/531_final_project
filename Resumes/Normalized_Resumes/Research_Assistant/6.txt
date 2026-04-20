@@ -1,0 +1,30 @@
+EDUCATION
+University of Manitoba
+M.Sc. in Computer Science
+
+Chittagong University of Engineering & Technology
+B.Sc. in CSE
+
+PROFESSIONAL EXPERIENCE
+Graduate RA
+2025–
+- Skilled in ReactJS, PHP, MySQL, TensorFlow, Keras, Scikit-learn.
+
+SQM Lab Lecturer
+2025–
+- IEEE author — paper on Deep Learning–based cricket video action categorization (90% accuracy).
+
+CUET Lecturer
+2025–
+- Champion—Girls in ICT 2023, 2nd—BdOSN CodeRace 2022
+
+Teaching Assistant
+2024–
+- Teaching Assistant (2024)
+
+Intern at RedDot Digital & Markopolo.ai
+2025–
+- Projects in ML, data scraping & web dev
+
+SKILLS
+Skilled in ReactJS, PHP, MySQL, TensorFlow, Keras, Scikit-learn. IEEE author — paper on Deep Learning–based cricket video action categorization (90% accuracy).

@@ -1,0 +1,45 @@
+{
+  "education": [
+    {
+      "school": "Univ. of Nebraska at Omaha",
+      "degree": "M.S. in Computer Science",
+      "details": "2025–27"
+    },
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.Sc. in CSE",
+      "details": "2019–24"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in ML, DL, Cloud Computing, MERN Stack, React, Git, and Data Analysis."
+      ]
+    },
+    {
+      "title": "SWE I",
+      "dates": "2025",
+      "bullets": [
+        "Samsung R&D Bangladesh"
+      ]
+    },
+    {
+      "title": "SWE Trainee",
+      "dates": "2024",
+      "bullets": [
+        "Neural Semiconductor"
+      ]
+    },
+    {
+      "title": "CUET CSE Student",
+      "dates": "2019–24",
+      "bullets": [
+        "Projects in ML, cloud & full-stack dev"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in ML, DL, Cloud Computing, MERN Stack, React, Git, and Data Analysis. 3-time ICPC Regionalist, ICPC AlgoQueen Silver Medalist (Global 9th)."
+}

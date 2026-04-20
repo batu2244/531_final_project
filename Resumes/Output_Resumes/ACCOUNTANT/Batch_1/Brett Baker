@@ -1,0 +1,51 @@
+{
+  "name": "Brett Baker",
+  "education": [
+    {
+      "school": "National University",
+      "degree": "MBA",
+      "details": "2004"
+    },
+    {
+      "school": "University of Nevada, Las Vegas",
+      "degree": "B.S.",
+      "details": "1999"
+    },
+    {
+      "school": "Parkland College",
+      "degree": "A.S.",
+      "details": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2006–2014",
+      "bullets": [
+        "ran finance function"
+      ]
+    },
+    {
+      "title": "Financial Analyst",
+      "dates": "2005–2006",
+      "bullets": [
+        "budgets/forecasts/cash flow"
+      ]
+    },
+    {
+      "title": "Accounting Specialist",
+      "dates": "2004–2005",
+      "bullets": [
+        "AP execution"
+      ]
+    },
+    {
+      "title": "General Manager",
+      "dates": "2000–2002",
+      "bullets": [
+        "P&L ownership"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Financial statements & GL analysis; budgeting/forecasting; cash management/treasury; internal controls & escrow administration; variance analysis & financial modeling; ADP payroll; SAP FICO, Oracle, QuickBooks Enterprise, Peachtree; MS Office; SQL/DB/VB basics; team leadership/training."
+}

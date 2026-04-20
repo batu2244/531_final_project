@@ -1,0 +1,68 @@
+{
+  "name": "Allison Baker",
+  "education": [
+    {
+      "school": "SVKM’s NMIMS",
+      "degree": "B.Sc. in Applied Psychology",
+      "details": "expected 2028"
+    },
+    {
+      "school": "Yale",
+      "degree": "Certified in Introduction to Psychology",
+      "details": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Psychology Intern",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in counseling, clinical & applied psychology"
+      ]
+    },
+    {
+      "title": "Researcher",
+      "dates": "2025–",
+      "bullets": [
+        "Researcher at Soul Yatri (AI & psychology)"
+      ]
+    },
+    {
+      "title": "Head of PR",
+      "dates": "2023–",
+      "bullets": [
+        "Head of PR, NMIMS Psychology Committee"
+      ]
+    },
+    {
+      "title": "Volunteer",
+      "dates": "2025–",
+      "bullets": [
+        "Volunteer at Psych Serve & ConnectFor"
+      ]
+    },
+    {
+      "title": "Teaching Asst.",
+      "dates": "2023–",
+      "bullets": [
+        "Teaching Asst., Hope Academy"
+      ]
+    },
+    {
+      "title": "Art Therapy Intern",
+      "dates": "2025–",
+      "bullets": [
+        "Art Therapy Intern"
+      ]
+    },
+    {
+      "title": "Volunteer",
+      "dates": "2024–",
+      "bullets": [
+        "Volunteer, Psych Serve & ConnectFor"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in counseling, clinical & applied psychology, art therapy, research, PR management, academic writing",
+  "job_type": "Entry-level"
+}

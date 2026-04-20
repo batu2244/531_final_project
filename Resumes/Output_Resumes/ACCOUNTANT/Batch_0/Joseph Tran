@@ -1,0 +1,38 @@
+{
+  "name": "Joseph Tran",
+  "education": [
+    {
+      "school": "University of Kerala",
+      "degree": "B.S. Accounting",
+      "details": "Associate Degree, Accounting — National Education Center"
+    },
+    {
+      "school": "National Education Center",
+      "degree": "Accounting"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "15+ years",
+      "bullets": [
+        "daily bank deposits and cash logs",
+        "processed ACH/wires and posted JEs (incl. foreign receipts)",
+        "produced daily/monthly cash receipt and disbursement journals with audit support",
+        "cleared A/R discrepancies with banks/treasury",
+        "performed monthly bank recs",
+        "processed AP checks and outgoing wires",
+        "maintained two-signature controls and supporting schedules",
+        "partnered with brokers, banks, treasury, and accounting to resolve issues and meet close deadlines"
+      ]
+    },
+    {
+      "title": "Mid-level",
+      "dates": "Not specified",
+      "bullets": [
+        "Not specified"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Accounts receivable/payable, cash applications, ACH/wires, foreign receipts, JE preparation, cash disbursement journals, month-end/year-end close, bank reconciliations, spreadsheets, documentation control, exception resolution, cross-team communication, confidentiality"
+}

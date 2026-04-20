@@ -1,0 +1,50 @@
+{
+  "name": "Todd Walsh",
+  "education": [
+    {
+      "school": "Iowa Park High School",
+      "degree": "High School Diploma"
+    },
+    {
+      "school": "First Aid, CPR/AED",
+      "degree": "First Aid, CPR/AED"
+    },
+    {
+      "school": "First Aid, CPR/AED",
+      "degree": "Emergency Oxygen"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Program Assistant",
+      "dates": "2013–Present",
+      "bullets": [
+        "billing/finance",
+        "member data",
+        "reports",
+        "training",
+        "QA"
+      ]
+    },
+    {
+      "title": "Front Desk/Customer Service",
+      "dates": "2006–2010",
+      "bullets": [
+        "member dues",
+        "deposits",
+        "reporting"
+      ]
+    },
+    {
+      "title": "Mortgage Document Clerk",
+      "dates": "2002–2003",
+      "bullets": [
+        "Ginnie/Fannie/Freddie/FHLB docs",
+        "Trust System",
+        "Empower/FiTech",
+        "Excel lists"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Daxko Operations; AS400; MS Office (Excel/PowerPoint/Outlook/Word/Publisher); billing & refunds; roster/report creation; payroll assistance; customer service & phone etiquette; multi-line phones, fax, copier; trained/supervised staff; Employee of the Month (1997)"
+}

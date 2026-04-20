@@ -1,0 +1,25 @@
+EDUCATION
+University of Kentucky
+PhD in Computer Science
+
+University of Dhaka
+M.S. & B.S. in CSE
+
+CVPR, EMBC, ISBI, MICCAI (Top 13%)
+Research in multimodal AI, text summarization, and medical imaging
+
+PROFESSIONAL EXPERIENCE
+Graduate RA
+2023–
+- Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging
+
+Software Eng.
+2021–33
+- GTA for CS-216. Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging
+
+Entry-level
+2023–
+- Research in multimodal crisis analysis, dermatology AI, translation, and bias mitigation in medical imaging
+
+SKILLS
+Skilled in Python, PyTorch, TensorFlow, C++, JavaScript, MySQL, Flask. Published at CVPR, EMBC, ISBI, MICCAI (Top 13%). IEEE & MICCAI member. Awards: UKY Fellowship, ICT Fellowship (BD), Bracathon 3.0 Champion, ISBI Travel Grant.

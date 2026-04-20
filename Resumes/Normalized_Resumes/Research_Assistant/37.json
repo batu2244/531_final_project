@@ -1,0 +1,26 @@
+{
+  "education": [
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.Arch in Architecture",
+      "details": "Thesis on ‘Children Development Center’ focusing on design for rehabilitation and well-being"
+    },
+    {
+      "school": "CUET",
+      "degree": "Research Asst.",
+      "details": "Projects on thermal comfort, environmental experience design, and sustainable community architecture"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Asst.",
+      "dates": "2024-01-01",
+      "bullets": [
+        "Thermal comfort",
+        "Environmental experience design",
+        "Sustainable community architecture"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in Environmental & Architectural Design, SPSS, AutoCAD, 3D Visualization, and Data Analysis. Research on thermal perception, climate adaptability & occupant behavior."
+}

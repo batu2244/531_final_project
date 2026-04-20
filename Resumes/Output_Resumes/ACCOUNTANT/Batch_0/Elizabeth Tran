@@ -1,0 +1,51 @@
+{
+  "name": "Elizabeth Tran",
+  "education": [
+    {
+      "school": "California State University, Hayward",
+      "degree": "M.S. Education",
+      "details": "Online Teaching & Learning, GPA 4.0"
+    },
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "B.S. Accounting",
+      "details": "1993"
+    },
+    {
+      "school": "Jamaica",
+      "degree": "B.S. Business Administration",
+      "details": "1983"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Manager",
+      "dates": "1995–Present",
+      "bullets": [
+        "lead global training programs (operations, finance, recruiting)"
+      ]
+    },
+    {
+      "title": "Finance Liaison",
+      "dates": "1995–1997",
+      "bullets": [
+        "managed LMS/content"
+      ]
+    },
+    {
+      "title": "Instructional Designer/Training Manager/DB Manager/Senior Accountant",
+      "dates": "2003–2004",
+      "bullets": [
+        "designed/deploy training and maintain databases"
+      ]
+    },
+    {
+      "title": "Online Course Instructor",
+      "dates": "1993–1995",
+      "bullets": [
+        "developed and taught online courses"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Project/program management, instructional design (ILT & online), finance training, change management, PeopleSoft (Finance/HRMS), Microsoft Office, VideoScribe, financial reporting, P&L/variance analysis, billing process optimization; implemented International Fee Revenue DB & PeopleSoft billing—cut billing cycle from 2 weeks to 2 days; team leadership (hiring, reviews, career development); publications on online learning and conflict management; affiliations: PMI and ATD"
+}

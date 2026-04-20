@@ -1,0 +1,22 @@
+EDUCATION
+Chittagong Univ. of Engineering & Technology
+B.Sc. in Computer Science & Engineering
+
+East Delta Univ.
+TA
+
+PROFESSIONAL EXPERIENCE
+Lecturer
+2025–
+- Taught AI, ML, LLM fine-tuning, Transformer architectures, and shared task participation
+
+TA
+2024–25
+- Taught AI, ML, LLM fine-tuning, Transformer architectures, and shared task participation
+
+Mentor
+2023–
+- Developed BnVITS & SentimentFusion models
+
+SKILLS
+Skilled in Python, C++, TensorFlow, PyTorch, React, Node, MongoDB. Published in EMNLP 2023 (Best Paper), NAACL 2025, ECCE 2025, CLEF 2024. Champion—CLBLP'23; 2nd Runner-up—ETE ML Contest; 6th Multimodal SA.

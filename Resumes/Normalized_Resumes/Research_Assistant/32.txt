@@ -1,0 +1,31 @@
+EDUCATION
+BRAC University
+B.Sc. in Computer Science & Engineering
+
+Notre Dame College
+HSC
+
+PROFESSIONAL EXPERIENCE
+Graduate RA
+2024–
+- Skilled in ML, DL, Computer Vision, MLOps, Docker, and QA automation.
+
+Research Associate
+2023–24
+- Published in Nature Scientific Reports (VICReg, 2024)
+- ICECCME 2023 (Corn Leaf Disease CNN)
+
+SWE Trainee
+2023
+- AWSome Day attendee.
+
+QA Tester
+2021–24
+- Honourable Mention, Notre Dame Science Club (2018)
+
+Tutor
+2022
+- Web Dev Intern, Parallaxlogic (2021)
+
+SKILLS
+Skilled in ML, DL, Computer Vision, MLOps, Docker, and QA automation. Published in Nature Scientific Reports (VICReg, 2024) and ICECCME 2023 (Corn Leaf Disease CNN).

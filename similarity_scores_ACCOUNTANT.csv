@@ -1,0 +1,141 @@
+resume_id,variant_id,run_id,model_name,name_condition,wording_condition,format_condition,qualification_tier,hire_decision,overall_score,leadership_score,experience_score,skills_score,batch_id,jd_role,skills_weight,experience_weight,leadership_weight,candidate_name
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,1,100,15,30,55,Batch_0,accountant,55,30,15,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,1,73,8,23,42,Batch_0,accountant,55,30,15,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,1,91,15,28,48,Batch_0,accountant,55,30,15,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,57,10,12,35,Batch_0,accountant,55,30,15,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,1,69,11,16,42,Batch_0,accountant,55,30,15,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,22,0,8,14,Batch_0,accountant,55,30,15,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,1,69,8,23,38,Batch_0,accountant,55,30,15,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,47,4,15,28,Batch_0,accountant,55,30,15,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,26,4,8,14,Batch_0,accountant,55,30,15,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,1,67,4,28,35,Batch_0,accountant,55,30,15,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,1,100,15,30,55,Batch_1,accountant,55,30,15,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,1,61,10,23,28,Batch_1,accountant,55,30,15,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,1,83,10,25,48,Batch_1,accountant,55,30,15,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,1,75,12,28,35,Batch_1,accountant,55,30,15,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,1,84,12,30,42,Batch_1,accountant,55,30,15,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,1,85,12,28,45,Batch_1,accountant,55,30,15,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,1,70,12,16,42,Batch_1,accountant,55,30,15,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,1,84,12,30,42,Batch_1,accountant,55,30,15,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,1,85,12,28,45,Batch_1,accountant,55,30,15,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,1,82,12,25,45,Batch_1,accountant,55,30,15,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,apparel,45,40,15,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_0,apparel,45,40,15,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,12,12,0,0,Batch_0,apparel,45,40,15,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,12,12,0,0,Batch_0,apparel,45,40,15,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,apparel,45,40,15,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,apparel,45,40,15,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,0,0,0,0,Batch_0,apparel,45,40,15,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,0,0,0,0,Batch_0,apparel,45,40,15,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,21,4,5,12,Batch_0,apparel,45,40,15,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,4,4,0,0,Batch_0,apparel,45,40,15,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,apparel,45,40,15,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,apparel,45,40,15,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,apparel,45,40,15,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,4,4,0,0,Batch_1,apparel,45,40,15,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,4,4,0,0,Batch_1,apparel,45,40,15,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,4,4,0,0,Batch_1,apparel,45,40,15,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,4,4,0,0,Batch_1,apparel,45,40,15,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,apparel,45,40,15,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,4,4,0,0,Batch_1,apparel,45,40,15,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,12,12,0,0,Batch_1,apparel,45,40,15,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,37,12,10,15,Batch_0,banking,45,35,20,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,46,11,12,23,Batch_0,banking,45,35,20,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,47,16,8,23,Batch_0,banking,45,35,20,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,36,16,8,12,Batch_0,banking,45,35,20,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,46,11,12,23,Batch_0,banking,45,35,20,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,12,0,0,12,Batch_0,banking,45,35,20,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,37,12,10,15,Batch_0,banking,45,35,20,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,23,0,8,15,Batch_0,banking,45,35,20,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,26,6,8,12,Batch_0,banking,45,35,20,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,31,6,10,15,Batch_0,banking,45,35,20,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,39,14,10,15,Batch_1,banking,45,35,20,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,18,6,0,12,Batch_1,banking,45,35,20,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,30,10,5,15,Batch_1,banking,45,35,20,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,37,14,8,15,Batch_1,banking,45,35,20,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,30,10,5,15,Batch_1,banking,45,35,20,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,32,12,5,15,Batch_1,banking,45,35,20,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,banking,45,35,20,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,0,37,12,10,15,Batch_1,banking,45,35,20,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,39,14,10,15,Batch_1,banking,45,35,20,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,31,11,8,12,Batch_1,banking,45,35,20,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,31,11,8,12,Batch_0,finance,45,35,20,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,26,6,8,12,Batch_0,finance,45,35,20,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,41,15,8,18,Batch_0,finance,45,35,20,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,31,11,8,12,Batch_0,finance,45,35,20,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,34,11,8,15,Batch_0,finance,45,35,20,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,finance,45,35,20,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,28,8,5,15,Batch_0,finance,45,35,20,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,20,0,8,12,Batch_0,finance,45,35,20,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,26,6,8,12,Batch_0,finance,45,35,20,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,26,6,8,12,Batch_0,finance,45,35,20,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,1,64,14,22,28,Batch_1,finance,45,35,20,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,26,6,5,15,Batch_1,finance,45,35,20,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,34,11,8,15,Batch_1,finance,45,35,20,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,34,11,8,15,Batch_1,finance,45,35,20,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,28,8,5,15,Batch_1,finance,45,35,20,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,31,11,5,15,Batch_1,finance,45,35,20,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,54,14,17,23,Batch_1,finance,45,35,20,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,1,66,16,27,23,Batch_1,finance,45,35,20,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,44,14,12,18,Batch_1,finance,45,35,20,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,32,12,5,15,Batch_1,finance,45,35,20,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,18,4,0,14,Batch_0,research_assistant,55,30,15,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_0,research_assistant,55,30,15,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,34,12,8,14,Batch_0,research_assistant,55,30,15,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,34,12,8,14,Batch_0,research_assistant,55,30,15,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,18,4,0,14,Batch_0,research_assistant,55,30,15,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,research_assistant,55,30,15,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,0,0,0,0,Batch_0,research_assistant,55,30,15,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,14,0,0,14,Batch_0,research_assistant,55,30,15,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,research_assistant,55,30,15,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,research_assistant,55,30,15,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,26,4,8,14,Batch_1,research_assistant,55,30,15,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,research_assistant,55,30,15,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,18,4,0,14,Batch_1,research_assistant,55,30,15,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,18,4,0,14,Batch_1,research_assistant,55,30,15,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,30,8,8,14,Batch_1,research_assistant,55,30,15,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,18,4,0,14,Batch_1,research_assistant,55,30,15,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,34,12,8,14,Batch_1,research_assistant,55,30,15,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,0,18,4,0,14,Batch_1,research_assistant,55,30,15,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,22,8,0,14,Batch_1,research_assistant,55,30,15,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_1,research_assistant,55,30,15,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,46,16,8,22,Batch_0,teacher,45,35,20,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,0,0,0,0,Batch_0,teacher,45,35,20,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,0,0,0,0,Batch_0,teacher,45,35,20,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,teacher,45,35,20,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,0,0,0,0,Batch_1,teacher,45,35,20,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_1,teacher,45,35,20,William Sandoval
+e89757ce5fd3,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Aisha Washington
+812e0deb4d5f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Allison Walsh
+65658eeb249d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,15,15,0,0,Batch_0,software engineer,50,30,20,Carlos Rodriguez
+6cc2758f5c0c,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,clean,senior,0,10,10,0,0,Batch_0,software engineer,50,30,20,Elizabeth Tran
+10918a7be43a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Geoffrey Murphy
+657ade4e67ec,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Hakim Jones
+56eba7164fdd,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,mid,0,0,0,0,0,Batch_0,software engineer,50,30,20,Joseph Tran
+c02add768ffc,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,junior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Mary Chee
+685a68a8d911,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Michael Sandoval
+708449d5068f,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_0,software engineer,50,30,20,Sandra Garcia
+e4f709273b8a,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Brett Baker
+d2a193203a1d,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Carmen Garcia
+aff01bbf007e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Darnell Washington
+de5ce657c53b,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,David Garcia
+6ddde669e195,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_technical,dense,mid,0,0,0,0,0,Batch_1,software engineer,50,30,20,Linda Yazzie
+55ccffe21d9e,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Meredith Kelly
+b7ebcf003872,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Michael Lee
+7e34d9b7e023,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,strong_leadership,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Sarah Tran
+0e20aa1ef791,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,female_coded,neutral,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,Tamika Jones
+21549d9b7047,ACCOUNTANT,13b21643-42d0-4439-a634-a3867d1845d7,Qwen3.5-4B-GGUF:Q4_K_M,male_coded,strong_technical,clean,senior,0,0,0,0,0,Batch_1,software engineer,50,30,20,William Sandoval

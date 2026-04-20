@@ -1,0 +1,18 @@
+EDUCATION
+Shahjalal University of Science & Technology
+B.Sc. in Software Engineering
+
+Notre Dame College
+HSC
+
+PROFESSIONAL EXPERIENCE
+Software Engineer
+2023–
+- Improved CI/CD
+
+Software Eng. Intern
+2021–22
+- Built Vue UI & optimized notification systems
+
+SKILLS
+Skilled in Java, Python, Django, Spring, SQL, Vue, Angular, Docker, CI/CD, RabbitMQ. Published ‘Verse-Based Emotion Analysis of Bengali Music’ (IJCDS 2024). Leetcode Data Structure-1, LinkedIn OOP badges; honors in Neural Networks & Deep Learning

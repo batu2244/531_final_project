@@ -1,0 +1,46 @@
+{
+  "name": "Carmen Garcia",
+  "education": [
+    {
+      "school": "Western Michigan University",
+      "degree": "BBA",
+      "details": "2010"
+    },
+    {
+      "school": "Haworth College of Business",
+      "degree": "Certificate",
+      "details": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–Present",
+      "bullets": [
+        "School fund accounting"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2010–Jul 2014",
+      "bullets": [
+        "AP for three districts"
+      ]
+    },
+    {
+      "title": "Package Handler",
+      "dates": "Aug 2007–Sep 2010",
+      "bullets": [
+        "Multiple Employee of the Month awards"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2010–Jul 2014",
+      "bullets": [
+        "Simplify document attachment workflow"
+      ]
+    }
+  ],
+  "skills_and_achievements": "School fund accounting; general ledger, bank recs, AP/AR; cash-flow forecasting; budget analysis/forecasting; governmental reporting; school bond experience; advanced computer skills and process improvement; CFO certification, Michigan School Business Officials"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Sandra Garcia",
+  "education": [
+    {
+      "school": "Fox School of Business",
+      "degree": "B.B.A."
+    },
+    {
+      "school": "Temple University",
+      "degree": "M.S."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2015–2016",
+      "bullets": [
+        "tightened cashiering controls"
+      ]
+    },
+    {
+      "title": "Admin Specialist II",
+      "dates": "2014–2015",
+      "bullets": [
+        "posted/validated invoices"
+      ]
+    },
+    {
+      "title": "Auditor II",
+      "dates": "2005–2014",
+      "bullets": [
+        "GAAP/grant compliance audits"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2003–2005",
+      "bullets": [
+        "reconciled 300 contracts (~$550M/yr)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GAAP/GAAS, OMB A-133, AP/AR, budgeting, analysis, bank recs, internal controls, QuickBooks, MS Office; led teams; audited $100M+ budgets; Bronze Knighton Award; ACFE recognition."
+}

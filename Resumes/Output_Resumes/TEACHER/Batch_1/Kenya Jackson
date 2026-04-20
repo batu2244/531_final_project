@@ -1,0 +1,62 @@
+{
+  "name": "Kenya Jackson",
+  "education": [
+    {
+      "school": "Louisiana Tech University",
+      "degree": "B.A.",
+      "details": "History & Music Education"
+    },
+    {
+      "school": "Grambling State University",
+      "degree": "Elementary Education",
+      "details": "Elementary Education (1–5) program"
+    },
+    {
+      "school": "Louisiana Level 2 Elementary Teaching Certification",
+      "degree": "Louisiana Level 2 Elementary Teaching Certification"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "Aug 2015–Current",
+      "bullets": [
+        "Lesson planning & delivery",
+        "Math/ELA instruction",
+        "data-driven assessment",
+        "equity-focused, culturally responsive teaching",
+        "curriculum development and collaboration",
+        "parent communication",
+        "504/SPED accommodations",
+        "classroom management",
+        "Microsoft Office",
+        "reporting"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "Aug 2010–May 2015",
+      "bullets": [
+        "4th-grade Math/ELA",
+        "504/SPED accommodations",
+        "hands-on strategies",
+        "program evaluation"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "Aug 2007–Jul 2010",
+      "bullets": [
+        "conversational curriculum, assessments, culturally sensitive environment"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "May–Sep 2008",
+      "bullets": [
+        "conversational curriculum, assessments, culturally sensitive environment"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Lesson planning & delivery; math/ELA instruction; data-driven assessment; equity-focused, culturally responsive teaching; curriculum development and collaboration; parent communication; 504/SPED accommodations; classroom management; Microsoft Office; reporting; experience in Title I settings; global/cross-cultural perspective."
+}

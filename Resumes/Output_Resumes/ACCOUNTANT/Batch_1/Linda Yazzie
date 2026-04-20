@@ -1,0 +1,45 @@
+{
+  "name": "Linda Yazzie",
+  "education": [
+    {
+      "school": "Haramaya University",
+      "degree": "B.A., Accounting",
+      "details": "Accounting"
+    },
+    {
+      "school": "AP/AR",
+      "degree": "2015–Present",
+      "details": "Accountant"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Accountant",
+      "dates": "2008–2009",
+      "bullets": [
+        "donor/government reporting",
+        "COA compliance",
+        "disbursements",
+        "procurement",
+        "assets",
+        "bank recs",
+        "payroll/taxes"
+      ]
+    },
+    {
+      "title": "Finance & Admin Manager",
+      "dates": "2010–2014",
+      "bullets": [
+        "led finance/admin",
+        "full grants lifecycle",
+        "field monitoring",
+        "compliance",
+        "AR/AP",
+        "fixed assets",
+        "audits",
+        "payroll/taxes"
+      ]
+    }
+  ],
+  "skills_and_achievements": "GAAP/GASB/IFRS; GL, journal entries, close; bank/credit-card/balance-sheet recs; budgeting, cash flow, analysis, statements, audit support; grants & sub-grantee management, donor reporting, contracts, project closeout; process improvement; advanced Excel, Access, PowerPoint; systems: Sage, QuickBooks, Sun, Peachtree, Mo.s.t; Outlook/Lotus"
+}

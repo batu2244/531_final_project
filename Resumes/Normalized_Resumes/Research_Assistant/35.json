@@ -1,0 +1,52 @@
+{
+  "education": [
+    {
+      "school": "Rice University",
+      "degree": "Ph.D. in Civil & Environmental Engineering",
+      "details": "2025-"
+    },
+    {
+      "school": "Bangladesh Univ. of Engineering & Technology",
+      "degree": "B.Sc. in Water Resources Engineering",
+      "details": "2015–20"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA",
+      "dates": "2025–",
+      "bullets": [
+        "Skilled in HEC-RAS, ADCIRC, AutoCAD, GIS, hydrodynamic modeling, and flood resilience."
+      ]
+    },
+    {
+      "title": "RA",
+      "dates": "2023–25",
+      "bullets": [
+        "Attended ADCIRC Week 2025."
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2024–25",
+      "bullets": [
+        "Worked on coastal resilience and environmental modeling."
+      ]
+    },
+    {
+      "title": "Lecturer",
+      "dates": "2021–23",
+      "bullets": [
+        "Worked on coastal resilience and environmental modeling."
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2024–25",
+      "bullets": [
+        "Worked on coastal resilience and environmental modeling."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in HEC-RAS, ADCIRC, AutoCAD, GIS, hydrodynamic modeling, and flood resilience. Attended ADCIRC Week 2025. Certified in Microsoft Excel & GIS Mapping (Coursera)."
+}

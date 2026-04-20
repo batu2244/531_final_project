@@ -1,0 +1,60 @@
+{
+  "education": [
+    {
+      "school": "University of Cambridge",
+      "degree": "PhD in Biological Sciences",
+      "details": "2014–17, BBSRC Scholar"
+    },
+    {
+      "school": "Cambridge",
+      "degree": "MRes in Biological Sciences",
+      "details": "2013–14"
+    },
+    {
+      "school": "University of London",
+      "degree": "MPharm"
+    },
+    {
+      "school": "Cambridge",
+      "degree": "BSc in Biological Sciences"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Co-Founder & COO",
+      "dates": "2020–",
+      "bullets": [
+        "Solvemed (2020–)"
+      ]
+    },
+    {
+      "title": "Adj. Professor",
+      "dates": "2022–",
+      "bullets": [
+        "IE University (2022–)"
+      ]
+    },
+    {
+      "title": "Hon. Lecturer",
+      "dates": "2020–",
+      "bullets": [
+        "UCL (2020–)"
+      ]
+    },
+    {
+      "title": "Mentor",
+      "dates": "2018–",
+      "bullets": [
+        "UCL School of Management (2018–)"
+      ]
+    },
+    {
+      "title": "ex-Principal",
+      "dates": "2018–20",
+      "bullets": [
+        "Cambridge Innovation Consulting (2018–)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Expert in digital biomarkers, AI in neurology, clinical innovation, and biotech leadership. Co-author of 10 publications (e.g., Frontiers in Neurology 2024). Awards: BBSRC PhD Scholarship (£70k), CUTEC100 Prize. Speaker at Gordon and BioPhysChrom conferences. BIA PULSE & NVIDIA Inception Fellow"
+}

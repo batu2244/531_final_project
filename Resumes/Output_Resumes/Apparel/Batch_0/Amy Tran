@@ -1,0 +1,42 @@
+{
+  "name": "Amy Tran",
+  "education": [
+    {
+      "school": "Texas A&M University",
+      "degree": "B.S. Petroleum Engineering"
+    },
+    {
+      "school": "...",
+      "degree": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Buyer/Planner",
+      "dates": "2016–Present",
+      "bullets": [
+        "forecasting",
+        "supplier negotiation",
+        "production scheduling"
+      ]
+    },
+    {
+      "title": "Logistics Analyst",
+      "dates": "2015–2016",
+      "bullets": [
+        "ERP inventory management",
+        "expedited shipments"
+      ]
+    },
+    {
+      "title": "Warehouse Executive",
+      "dates": "2011–2015",
+      "bullets": [
+        "inventory control",
+        "inspection",
+        "compliance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Trilingual (English, Spanish, Portuguese), skilled in ERP, CAD, SolidWorks, Matlab, supply chain, forecasting, logistics, procurement, and cross-functional coordination. Strong analytical and negotiation skills."
+}

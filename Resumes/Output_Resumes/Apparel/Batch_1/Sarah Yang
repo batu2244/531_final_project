@@ -1,0 +1,33 @@
+{
+  "name": "Sarah Yang",
+  "education": [
+    {
+      "school": "DePaul",
+      "degree": "BBA Marketing",
+      "details": "GPA 3.0; minor Statistics; Accounting, Economics, Bus Writing, Ethics"
+    },
+    {
+      "school": "AA district sales 1st",
+      "degree": "AA district sales 1st",
+      "details": "avg 40–55% EOD sales"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Stylist",
+      "dates": "Apr 2015–present",
+      "bullets": [
+        "client wardrobes"
+      ]
+    },
+    {
+      "title": "Sales Associate",
+      "dates": "Feb–Nov 2014",
+      "bullets": [
+        "service",
+        "merchandising"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Top-20 stylist; AA district sales 1st; avg 40–55% EOD sales; bilingual EN/ES; HTML5/CSS; MS Office; adaptable, team, comms, problem-solving"
+}

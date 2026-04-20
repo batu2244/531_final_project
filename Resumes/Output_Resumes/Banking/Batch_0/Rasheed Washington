@@ -1,0 +1,46 @@
+{
+  "name": "Rasheed Washington",
+  "education": [
+    {
+      "school": "Universidad Carlos III de Madrid",
+      "degree": "Master of Science in International Trade",
+      "details": "coursework in international trade policies and laws"
+    },
+    {
+      "school": "Universidad Pública de Navarra",
+      "degree": "Bachelor of Science in Business Administration and Direction",
+      "details": "business administration and direction"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Professional",
+      "dates": "11/2016–Present",
+      "bullets": [
+        "opened and managed customer accounts (checking, savings, credit lines)"
+      ]
+    },
+    {
+      "title": "Banking Employee",
+      "dates": "05/2014–08/2015",
+      "bullets": [
+        "handled daily banking operations, account management, and customer support"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "06/2013–09/2013",
+      "bullets": [
+        "managed online systems and developed educational and financial documentation"
+      ]
+    },
+    {
+      "title": "Banking Intern",
+      "dates": "06/2012–09/2012",
+      "bullets": [
+        "supported account opening, cash processing, and compliance tracking"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in cash handling, loan operations, financial reporting, analysis, and risk identification. Proficient in MS Excel and MS Office; adept at business negotiation, communication, and team leadership. Multilingual (Spanish). Experienced with Salesforce, TapScan, Photoshop, Illustrator, HTML, and public relations tools such as Factiva and Bacon’s Mediasource. Recognized for client interfacing and developing marketing strategies to drive business growth"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Darnell Washington",
+  "education": [
+    {
+      "school": "Troy University",
+      "degree": "M.S. Business Administration",
+      "details": "2014"
+    },
+    {
+      "school": "Columbus State University",
+      "degree": "BBA",
+      "details": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2016–Present",
+      "bullets": [
+        "prepare/record debit/credit entries"
+      ]
+    },
+    {
+      "title": "Accounting Clerk",
+      "dates": "2010–2016",
+      "bullets": [
+        "created vendor contracts"
+      ]
+    },
+    {
+      "title": "Church Administrator",
+      "dates": "04/2006–Present",
+      "bullets": [
+        "plan/administer ~$140K annual budget"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Budget forecasting; GL accounting; account reconciliations; variance analysis; AP & vendor payments; billing issue resolution; strong organization & customer relations; advanced PC/Mac & MS Office (Excel, Access, PowerPoint, Outlook); QuickBooks, Adobe Acrobat; built Excel financial database; streamlined procedures to cut time/costs; manages $140K annual budget; cash handling and bank recs."
+}

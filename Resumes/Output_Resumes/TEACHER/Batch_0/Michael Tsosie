@@ -1,0 +1,43 @@
+{
+  "name": "Michael Tsosie",
+  "education": [
+    {
+      "school": "ECU",
+      "degree": "Nursing",
+      "details": "coursework in English, Math, Accounting"
+    },
+    {
+      "school": "James B. Hunt HS",
+      "degree": "High School Diploma",
+      "details": "GPA 3.6"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Assistant Manager",
+      "dates": "2010–Present",
+      "bullets": [
+        "lead store ops",
+        "train/coach staff",
+        "drive sales",
+        "resolve customer issues",
+        "manage cash, stock, and compliance"
+      ]
+    },
+    {
+      "title": "Cashier",
+      "dates": "2014–Present",
+      "bullets": [
+        "high-volume POS, order taking, food prep, sanitation, and guest recovery"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2008–2009",
+      "bullets": [
+        "classroom management and instruction"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Retail operations, inventory control, store opening/closing, POS/cash handling, pricing, merchandising, loss prevention, customer service, conflict resolution, team leadership, coaching, Excel/Word. Promoted to Assistant Manager in 7 months; 2015 Great Customer Service Award; implemented LP methods reducing shrink."
+}

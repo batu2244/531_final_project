@@ -1,0 +1,53 @@
+{
+  "name": "Allison Walsh",
+  "education": [
+    {
+      "school": "Martinez Adult Education—Business Training Center",
+      "degree": "Computer Applications Specialist Certificate",
+      "details": "2008"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Jan 2011–Nov 2015",
+      "bullets": [
+        "Owned AR/AP end-to-end"
+      ]
+    },
+    {
+      "title": "Accounts Receivable Clerk",
+      "dates": "Jan 2008–Jan 2010",
+      "bullets": [
+        "Cash apps, collections, statements, trial balance"
+      ]
+    },
+    {
+      "title": "Mortgage Underwriter",
+      "dates": "2006–2008",
+      "bullets": [
+        "Processed applications/endorsements"
+      ]
+    },
+    {
+      "title": "Commercial/Personal Auto Underwriter",
+      "dates": "2001–2006",
+      "bullets": [
+        "Analyzed credit/bank/title/appraisals"
+      ]
+    },
+    {
+      "title": "Claims Examiner",
+      "dates": "1983–2001",
+      "bullets": [
+        "Disability claims adjudication"
+      ]
+    }
+  ],
+  "skills_and_achievements": "AR/AP, cash applications (ACH/lockbox/CC/check), bank reconciliations, commissions reporting, credit checks, positive pay, inventory/sales reporting, customer service; QuickBooks Enterprise, MS Excel (advanced), Word, PowerPoint, Access, Outlook."
+}

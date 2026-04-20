@@ -1,0 +1,52 @@
+{
+  "name": "Meredith Murphy",
+  "education": [
+    {
+      "school": "University of Montevallo",
+      "degree": "B.S. Chemistry",
+      "details": "1985"
+    },
+    {
+      "school": "Texas Teaching Certificate",
+      "degree": "None"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "1994–2014",
+      "bullets": [
+        "delivered standards-aligned instruction"
+      ]
+    },
+    {
+      "title": "Science Teacher",
+      "dates": "1987–1993",
+      "bullets": [
+        "used varied techniques to maximize learning"
+      ]
+    },
+    {
+      "title": "Chemistry Teacher",
+      "dates": "1985–1986",
+      "bullets": [
+        "delivered standards-aligned instruction"
+      ]
+    },
+    {
+      "title": "Mathematics Teacher",
+      "dates": "Sep–Dec 2014",
+      "bullets": [
+        "delivered standards-aligned instruction"
+      ]
+    },
+    {
+      "title": "Site-Based Committee member",
+      "dates": "1994–2014",
+      "bullets": [
+        "collaborative"
+      ]
+    }
+  ],
+  "skills_and_achievements": "27.5 years teaching HS science/math; deep TEKS alignment; IEP knowledge; behavior/classroom management; curriculum/assessment design; test development and grading; meticulous records/compliance; materials/textbook selection; collaborative"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Lakisha Washington",
+  "education": [
+    {
+      "school": "Arizona State University",
+      "degree": "B.S.",
+      "details": "Dean's List, Tempe Diablo’s Scholarship recipient"
+    },
+    {
+      "school": "University of Arizona",
+      "degree": "M.S.",
+      "details": "Magna Cum Laude"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Investment Banking Sales Analyst",
+      "dates": "2013–Present",
+      "bullets": [
+        "closed $70M+ in deals"
+      ]
+    },
+    {
+      "title": "Investment Banking Sales Analyst",
+      "dates": "2012–13",
+      "bullets": [
+        "achieved 167% quota"
+      ]
+    },
+    {
+      "title": "Investment Sales Analyst",
+      "dates": "2011–12",
+      "bullets": [
+        "managed $10M REIT Hedge Fund"
+      ]
+    },
+    {
+      "title": "Registered Investment Representative",
+      "dates": "2009–11",
+      "bullets": [
+        "assisted hedge fund sales/research"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Investment banking solutions, financial modeling, due diligence, equity financing, credit analysis, M&A, client negotiation, project management, and sales strategy. Proven quota achievements (up to 240%), over $70M in closed deals, renewable energy sector expertise, and leadership in deal structuring."
+}

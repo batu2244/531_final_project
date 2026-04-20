@@ -1,0 +1,48 @@
+{
+  "name": "Michael Locklear",
+  "education": [
+    {
+      "school": "Lincoln Technical School",
+      "degree": "Certified Massage Therapist"
+    },
+    {
+      "school": "Hudson County Community College",
+      "degree": "Liberal Arts"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Branch Administrator",
+      "dates": "2009-Present",
+      "bullets": [
+        "prepares reports, processes service orders",
+        "manages invoicing for 3 branches",
+        "coordinated shipments",
+        "reviewed contracts",
+        "created style codes for Ralph Lauren"
+      ]
+    },
+    {
+      "title": "Billing Specialist",
+      "dates": "2007-2009",
+      "bullets": [
+        "processed service orders"
+      ]
+    },
+    {
+      "title": "Logistics Coordinator",
+      "dates": "2007-2009",
+      "bullets": [
+        "managed inventory"
+      ]
+    },
+    {
+      "title": "Customer Service Representative",
+      "dates": "2007-2009",
+      "bullets": [
+        "customer service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "project management, invoicing, logistics, EDI, Excel budgeting, AP/AR, shipping, inventory, vendor compliance, bilingual Spanish, customer service, scheduling, retail operations, quality control, event planning, recognized for detail and teamwork."
+}

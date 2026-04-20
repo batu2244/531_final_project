@@ -1,0 +1,18 @@
+EDUCATION
+Univ. of Missouri–Columbia
+Ph.D. in Electrical & Computer Engineering
+
+Chittagong Univ. of Engineering & Technology
+B.Sc. in Electrical & Electronic Engineering
+
+PROFESSIONAL EXPERIENCE
+Graduate Research Asst.
+2024–
+- Worked on GQD-based sensors, printed electronics, and wireless device prototyping using Cadence & Python automation
+
+Lecturer
+2022–24
+- Worked on GQD-based sensors, printed electronics, and wireless device prototyping using Cadence & Python automation
+
+SKILLS
+Skilled in flexible electronics, quantum materials, VLSI design (Cadence), COMSOL, MATLAB, ESP32, Python, and photonic fabrication. Expertise in graphene quantum dot devices, BLE sensor modules, and semiconductor processing tools.

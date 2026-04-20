@@ -1,0 +1,62 @@
+{
+  "name": "Aisha Washington",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "M.Acc."
+    },
+    {
+      "school": "Florida International University",
+      "degree": "B.B.A."
+    },
+    {
+      "school": "Miami Dade College",
+      "degree": "A.A."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–Present",
+      "bullets": [
+        "GL fund recs"
+      ]
+    },
+    {
+      "title": "Senior Accountant",
+      "dates": "1997–2004, FPL",
+      "bullets": [
+        "Damage-recovery and tax suspense recs"
+      ]
+    },
+    {
+      "title": "Bookkeeper/Accountant",
+      "dates": "1994–Present",
+      "bullets": [
+        "Full-cycle QB: AR/invoicing, deposits & bank downloads, cash/bank recs, monthly/annual FS, tax return inputs"
+      ]
+    },
+    {
+      "title": "Systems Development Analyst",
+      "dates": "2012–2014",
+      "bullets": [
+        "Systems Development Analyst"
+      ]
+    },
+    {
+      "title": "Banking Reconciliations Manager",
+      "dates": "2013–2014",
+      "bullets": [
+        "Banking Reconciliations Manager"
+      ]
+    },
+    {
+      "title": "Office Administrator",
+      "dates": "1994–1997",
+      "bullets": [
+        "Office Administrator"
+      ]
+    }
+  ],
+  "skills_and_achievements": "CPA (FL); QuickBooks; Microsoft Office (Excel, Word, PowerPoint, Outlook, Publisher); tax software. Designed GL interfaces and controls; standardized COA/reporting for church association; led bank-rec project across 72 branches—cleared $1–3M suspense to <$2K write-off; strong documentation/training."
+}

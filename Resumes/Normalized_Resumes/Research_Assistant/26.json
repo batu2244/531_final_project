@@ -1,0 +1,46 @@
+{
+  "education": [
+    {
+      "school": "North Dakota State Univ.",
+      "degree": "M.L.A. in Landscape Architecture",
+      "details": "2024–26"
+    },
+    {
+      "school": "Chittagong Univ. of Engineering & Technology",
+      "degree": "B.Arch in Architecture",
+      "details": "2016–22"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate RA & TA",
+      "dates": "2024–",
+      "bullets": [
+        "Worked on resilient design"
+      ]
+    },
+    {
+      "title": "Architect",
+      "dates": "2022–24",
+      "bullets": [
+        "Designed resilient systems"
+      ]
+    },
+    {
+      "title": "Intern",
+      "dates": "2020",
+      "bullets": [
+        "Worked on ecological landscape systems"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2020",
+      "bullets": [
+        "Worked on GIS-based modeling"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Skilled in GIS, CAD, InfoWorks, 3D visualization, stormwater mgmt., and landscape ecology. Research on climate resilience, green infrastructure & livability. Publications: J. Contemporary Urban Affairs (2024) and ICCAUA Proc. (2024) on urban regeneration & pedestrian safety",
+  "job_type": "Entry-level"
+}

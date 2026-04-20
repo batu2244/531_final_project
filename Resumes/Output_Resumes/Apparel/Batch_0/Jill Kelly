@@ -1,0 +1,55 @@
+{
+  "name": "Jill Kelly",
+  "education": [
+    {
+      "school": "AA in Guidance",
+      "degree": "AA",
+      "details": "Broward College"
+    },
+    {
+      "school": "Northeast HS",
+      "degree": "HS Diploma",
+      "details": "Northeast HS"
+    },
+    {
+      "school": "NHS, varsity captain, class officer",
+      "degree": "class officer"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cashier",
+      "dates": "2011–current",
+      "bullets": [
+        "Cash handling",
+        "POS",
+        "fashion advising",
+        "merchandising",
+        "conflict resolution",
+        "bilingual",
+        "multitasking"
+      ]
+    },
+    {
+      "title": "Apparel, grocery, and front desk",
+      "dates": "2011–current",
+      "bullets": [
+        "Sales",
+        "displays",
+        "stock",
+        "training",
+        "promotions"
+      ]
+    },
+    {
+      "title": "Sales, displays, stock, training, promotions",
+      "dates": "2011–current",
+      "bullets": [
+        "training",
+        "promotions"
+      ]
+    }
+  ],
+  "skills_and_achievements": "bilingual, multitasking, cash handling, POS, fashion advising, merchandising, conflict resolution",
+  "job_type": "Entry-level"
+}

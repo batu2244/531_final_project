@@ -1,0 +1,62 @@
+{
+  "name": "Jorge Lopez",
+  "education": [
+    {
+      "school": "Queensborough Community College",
+      "degree": "A.S. Nursing"
+    },
+    {
+      "school": "High School Diploma with merits & regents endorsements",
+      "degree": "High School Diploma"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Passenger Service Agent (Lead)",
+      "dates": "2010–Current",
+      "bullets": [
+        "Monitor passenger flow",
+        "Rebook flights",
+        "Control crowds",
+        "Provide VIP/special-assistance"
+      ]
+    },
+    {
+      "title": "Assistant Buyer",
+      "dates": "2007–2009",
+      "bullets": [
+        "Order management"
+      ]
+    },
+    {
+      "title": "Sales Associate Supervisor",
+      "dates": "2005–2007",
+      "bullets": [
+        "Cash office"
+      ]
+    },
+    {
+      "title": "Store Ops",
+      "dates": "2005–2007",
+      "bullets": [
+        "Training"
+      ]
+    },
+    {
+      "title": "Spanish & English native, strong French",
+      "dates": "2007",
+      "bullets": [
+        "Tech-savvy"
+      ]
+    },
+    {
+      "title": "Customer retention during disruptions",
+      "dates": "2010–Current",
+      "bullets": [
+        "Training new agents"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Airline systems (Amadeus, Altea, Gaetan, Oscar, Deltamatic); airport security rules; ticketing; sales; conflict resolution; team leadership; Spanish & English native, strong French; tech-savvy; customer retention during disruptions; training new agents",
+  "job_type": "Mid-level"
+}

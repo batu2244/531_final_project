@@ -1,0 +1,51 @@
+{
+  "name": "Aisha Robinson",
+  "education": [
+    {
+      "school": "Mount Olive College",
+      "degree": "Business Administration"
+    },
+    {
+      "school": "Any School",
+      "degree": "Any School"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Jobs Coordinator/Estimator",
+      "dates": "2012–2014",
+      "bullets": [
+        "Managed multi-store operations"
+      ]
+    },
+    {
+      "title": "Area Manager",
+      "dates": "2011–2012",
+      "bullets": [
+        "Hired, trained, and budgeted 4 stores"
+      ]
+    },
+    {
+      "title": "Area Manager/Training Supervisor",
+      "dates": "1992–2010",
+      "bullets": [
+        "Recruiting, development, and HR"
+      ]
+    },
+    {
+      "title": "Office Administrator",
+      "dates": "2015",
+      "bullets": [
+        "Project and document management"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "Any School",
+      "bullets": [
+        "Managed multi-store operations"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Recruiting, training, HR, customer service, merchandising, budgeting, payroll, marketing, and leadership.  \n\n"
+}

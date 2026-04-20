@@ -1,0 +1,70 @@
+{
+  "name": "Ashley Benally",
+  "education": [
+    {
+      "school": "The College of St. Scholastica",
+      "degree": "M.S. in progress",
+      "details": "Graduate Teaching Licensure"
+    },
+    {
+      "school": "Metropolitan State University",
+      "degree": "B.A.",
+      "details": "Marketing Communications"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "Oct 2010–Present",
+      "bullets": [
+        "Classroom management",
+        "Curriculum prep",
+        "Data/records (Infinite Campus)",
+        "Family & stakeholder communications",
+        "Site/program leadership",
+        "Safety & crisis response (First Aid/CPR/AED)",
+        "Logistics & EDI",
+        "MS Office"
+      ]
+    },
+    {
+      "title": "Site Leader",
+      "dates": "Jun 2012–Aug 2013",
+      "bullets": [
+        "Ran daily ops, staff guidance, budget, safety, and parent comms"
+      ]
+    },
+    {
+      "title": "Youth Program Assistant",
+      "dates": "Mar 2009–Jun 2012",
+      "bullets": [
+        "Needs assessment",
+        "Program marketing",
+        "Event support",
+        "Safety oversight"
+      ]
+    },
+    {
+      "title": "Importing/Warehousing & Distribution Manager",
+      "dates": "Mar 2001–Jun 2006",
+      "bullets": [
+        "Managed global logistics, 3PLs, rates, customs, EDI, and client comms"
+      ]
+    },
+    {
+      "title": "CSR & Marketing Assistant",
+      "dates": "Oct 2000–Mar 2001",
+      "bullets": [
+        "Trade shows, customer relations, returns/invoicing"
+      ]
+    },
+    {
+      "title": "Hydrogel Sales Support/Technical Service",
+      "dates": "Oct 1998–Oct 2000",
+      "bullets": [
+        "Marcom execution, product launch support, client service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "classroom management, curriculum prep, data/records (Infinite Campus), family & stakeholder communications, site/program leadership, safety & crisis response (First Aid/CPR/AED), logistics & EDI, MS Office. Known for relationship building, clear written/verbal communication, and high attention to detail."
+}

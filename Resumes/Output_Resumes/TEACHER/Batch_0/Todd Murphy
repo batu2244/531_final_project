@@ -1,0 +1,53 @@
+{
+  "name": "Todd Murphy",
+  "education": [
+    {
+      "school": "University of Denver",
+      "degree": "MA",
+      "details": "2015"
+    },
+    {
+      "school": "Emerson College",
+      "degree": "BS",
+      "details": "Magna Cum Laude, 2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2015–2017",
+      "bullets": [
+        "data-driven instruction"
+      ]
+    },
+    {
+      "title": "Service Learning Coordinator",
+      "dates": "2013–2014",
+      "bullets": [
+        "job-shadow/experiential curriculum"
+      ]
+    },
+    {
+      "title": "English Teacher",
+      "dates": "2012–2013",
+      "bullets": [
+        "HS instruction"
+      ]
+    },
+    {
+      "title": "Site Director",
+      "dates": "2010–2012",
+      "bullets": [
+        "before/after-school programs for 250+"
+      ]
+    },
+    {
+      "title": "Program Manager",
+      "dates": "2007–2010",
+      "bullets": [
+        "DOE-funded mentoring across 6 urban schools"
+      ]
+    }
+  ],
+  "skills_and_achievements": "9+ yrs teaching/training; program design & management; data-driven instruction; community outreach/partnerships; diversity, inclusion & restorative justice; Conflict & Dispute Resolution cert; ELA-E certified; DPS frameworks/Denver Plan; strong presentation/comms; MS Office. Boards/affiliations: Denver Metro Chamber, DCPA Advisory Board, PeaceJam."
+}

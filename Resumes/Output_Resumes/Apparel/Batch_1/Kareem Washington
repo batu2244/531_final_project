@@ -1,0 +1,51 @@
+{
+  "name": "Kareem Washington",
+  "education": [
+    {
+      "school": "LDCE-Gujarat University",
+      "degree": "B.E. Textile Technology"
+    },
+    {
+      "school": "M.Eng. Engineering Management",
+      "degree": "M.Eng."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Production Control/Sr. Merchandiser",
+      "dates": "2009–2011",
+      "bullets": [
+        "SAP-based production, procurement, pricing, and quality monitoring for EU buyers"
+      ]
+    },
+    {
+      "title": "Assistant Production Development Manager",
+      "dates": "2006–2009",
+      "bullets": [
+        "buyer liaison, cost control, sampling, and T&A management"
+      ]
+    },
+    {
+      "title": "Trainee Engineer",
+      "dates": "2006",
+      "bullets": [
+        "PPC and garment stitching training"
+      ]
+    },
+    {
+      "title": "Supply Chain Planner",
+      "dates": "2015–",
+      "bullets": [
+        "supplier selection, forecasting, inventory, and inspection"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "2015–",
+      "bullets": [
+        "Senior-level"
+      ]
+    }
+  ],
+  "skills_and_achievements": "SAP, MS Office (Excel macros, VLOOKUP, Pivot Tables), supply chain, forecasting, procurement, vendor negotiation, costing, production planning, QC, and textile design. Trained in garment machinery and advanced wash processes; attended CAD textile design programs."
+}
