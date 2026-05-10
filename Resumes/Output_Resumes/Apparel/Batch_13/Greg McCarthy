@@ -1,0 +1,52 @@
+{
+  "name": "Greg McCarthy",
+  "education": [
+    {
+      "school": "FIDM/Fashion Institute of Design & Merchandising",
+      "degree": "B.A. Fashion Design"
+    },
+    {
+      "school": "private-label CAD for Stitch Fix",
+      "degree": "Designer"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Designer",
+      "dates": "03/2019–Now",
+      "bullets": [
+        "Drove 30–40% revenue lift at 2019 Magic/Project & LA Market Week."
+      ]
+    },
+    {
+      "title": "Associate Manager of Design",
+      "dates": "02/2018–01/2019",
+      "bullets": [
+        "Led J.O.A × Chriselle Lim Spring ’19 from concept to delivery."
+      ]
+    },
+    {
+      "title": "Associate Designer",
+      "dates": "02/2015–01/2017",
+      "bullets": [
+        "Placed with Nordstrom/Bloomingdale’s/Shopbop."
+      ]
+    },
+    {
+      "title": "Assistant Designer",
+      "dates": "01/2014–02/2015",
+      "bullets": [
+        "Assistant Designer"
+      ]
+    },
+    {
+      "title": "Assistant Graphic Designer",
+      "dates": "2013–2014",
+      "bullets": [
+        "Import Designer"
+      ]
+    }
+  ],
+  "skills_and_achievements": "strong collaborator and work ethic; Drove 30–40% revenue lift at 2019 Magic/Project & LA Market Week; led J.O.A × Chriselle Lim Spring ’19 from concept to delivery; built cross-team workflows (design, sales, tech).",
+  "job_type": "Senior-level"
+}

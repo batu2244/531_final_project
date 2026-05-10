@@ -1,0 +1,51 @@
+{
+  "name": "Martha Perez",
+  "education": [
+    {
+      "school": "Fashion Designer",
+      "degree": "Diploma",
+      "details": "Fashion Designer, Richard Robinson Academy of Fashion Design (2000)"
+    },
+    {
+      "school": "Fashion Coordinator & Stylist",
+      "degree": "Certificate",
+      "details": "Fashion Coordination & Stylist, Richard Robinson Academy (2002–2004)"
+    },
+    {
+      "school": "Ryerson University",
+      "degree": "Certifications",
+      "details": "Project & Time Management"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Color Analyst",
+      "dates": "2008–2015",
+      "bullets": [
+        "sole color lead across divisions"
+      ]
+    },
+    {
+      "title": "Sr. Color Analyst",
+      "dates": "2008–2012",
+      "bullets": [
+        "global color metrics"
+      ]
+    },
+    {
+      "title": "Women’s Apparel Color Analyst",
+      "dates": "2006–2008",
+      "bullets": [
+        "colour analysis"
+      ]
+    },
+    {
+      "title": "Colour Analyst",
+      "dates": "2002–2006",
+      "bullets": [
+        "palettes"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Color iQc, PLM, Adobe Illustrator/Photoshop, MS Office/Lotus Notes; trend analysis, seasonal palette creation, denim/woven shade bands, dye/trim limitations, Pantone cross-matches, YKK/IDEAL zipper & Coats/AE thread matching; vendor training; equipment/UV calibration; led Athleta ($565M) color program; implemented U3500 light source for evaluations."
+}

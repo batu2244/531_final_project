@@ -1,0 +1,45 @@
+{
+  "name": "Elizabeth Sanchez",
+  "education": [
+    {
+      "school": "Virginia Commonwealth University",
+      "degree": "M.Ed.",
+      "details": "2002"
+    },
+    {
+      "school": "Virginia Commonwealth University",
+      "degree": "B.S.",
+      "details": "2002, Cum Laude"
+    },
+    {
+      "school": "De Anza College",
+      "degree": "A.A.",
+      "details": "1998, Cum Laude"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "08/2002–Present",
+      "bullets": [
+        "taught 2nd–5th grade"
+      ]
+    },
+    {
+      "title": "Assistant Teacher",
+      "dates": "02/2001–02/2002",
+      "bullets": [
+        "supervised students aged 5–11"
+      ]
+    },
+    {
+      "title": "Senior Support Rep",
+      "dates": "02/1998–02/2001",
+      "bullets": [
+        "mentored online tech support staff"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Virginia postgraduate professional license, curriculum development, long-term planning, critical thinking, mediation, organization, leadership, communication, adaptability, computer literacy, Promethean Board proficiency. Teacher of the Year (2015)",
+  "job_type": "Senior-level"
+}

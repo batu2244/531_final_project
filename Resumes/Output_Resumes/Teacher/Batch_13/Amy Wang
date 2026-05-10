@@ -1,0 +1,75 @@
+{
+  "name": "Amy Wang",
+  "education": [
+    {
+      "school": "Walden University",
+      "degree": "Diploma",
+      "details": "Instructional Design"
+    },
+    {
+      "school": "Texas A&M University",
+      "degree": "M.S. Education",
+      "details": "M.S. Training & Development"
+    },
+    {
+      "school": "Excelsior College",
+      "degree": "B.S. Liberal Arts"
+    },
+    {
+      "school": "University of the Virgin Islands",
+      "degree": "B.S. Business Management"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2013–2016",
+      "bullets": [
+        "Curriculum/lesson planning, conferences, progress monitoring"
+      ]
+    },
+    {
+      "title": "Instructional Designer",
+      "dates": "2009–2013",
+      "bullets": [
+        "Digital learning, ADDIE, morale training"
+      ]
+    },
+    {
+      "title": "Employment, Training & Development Manager",
+      "dates": "2007–2009",
+      "bullets": [
+        "blended/online training, sales training, web practice tools"
+      ]
+    },
+    {
+      "title": "HR Generalist",
+      "dates": "2000–2007",
+      "bullets": [
+        "policies, onboarding, benefits"
+      ]
+    },
+    {
+      "title": "Fourth Grade Teacher",
+      "dates": "1998–2003",
+      "bullets": [
+        "taught 3rd grade"
+      ]
+    },
+    {
+      "title": "Academic Advisor",
+      "dates": "2003–2005",
+      "bullets": [
+        "fourth grade teacher"
+      ]
+    },
+    {
+      "title": "HR Specialist",
+      "dates": "1991–2000",
+      "bullets": [
+        "HR Generalist"
+      ]
+    }
+  ],
+  "skills_and_achievements": "ADDIE; e-learning (Captivate, Moodle, Blackboard); Adobe CS5/Photoshop/Premiere/Flash; Audacity; MS Office/PowerPoint/Outlook; PeopleSoft"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Grace Tran",
+  "education": [
+    {
+      "school": "Schreiner University",
+      "degree": "B.A. in Education",
+      "details": "Texas Certified Teacher EC–4. Texas Insurance license"
+    },
+    {
+      "school": "High School & Junior High",
+      "degree": "Teacher",
+      "details": "taught all subjects and coached PE"
+    },
+    {
+      "school": "Kindergarten Teacher",
+      "degree": "Kindergarten",
+      "details": "led daily math, reading, science, social studies, and writing"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2015–Present",
+      "bullets": [
+        "taught all subjects and coached PE"
+      ]
+    },
+    {
+      "title": "Daycare Lead Teacher",
+      "dates": "2010–Present",
+      "bullets": [
+        "led daily math, reading, science, social studies, and writing"
+      ]
+    },
+    {
+      "title": "Accounts Receivable Clerk",
+      "dates": "2012–2014",
+      "bullets": [
+        "collections, client relations, reporting, and weekly revenue goals"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Lesson planning, grading and reporting, classroom management, early literacy and numeracy, scaffolded instruction, positive reinforcement, family communication, data entry and reporting, proficient in Microsoft Word, Excel, PowerPoint, Works, and internet research, Accounts receivable, customer service, and problem solving",
+  "job_type": "Mid-level"
+}

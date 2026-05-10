@@ -1,0 +1,40 @@
+{
+  "name": "Latoya Robinson",
+  "education": [
+    {
+      "school": "Colorado School of Mines",
+      "degree": "B.S. Metallurgy & Materials Engineering",
+      "details": "2007"
+    },
+    {
+      "school": "AIA",
+      "degree": "Project Coordinator",
+      "details": "2003–2007"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr. Materials Analyst",
+      "dates": "2014–Current",
+      "bullets": [
+        "data-driven material planning"
+      ]
+    },
+    {
+      "title": "Quality Analyst",
+      "dates": "2010–2014",
+      "bullets": [
+        "aligned quality metrics with sales & sourcing"
+      ]
+    },
+    {
+      "title": "Engineer",
+      "dates": "2007–2010",
+      "bullets": [
+        "Six Sigma projects"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Six Sigma Green Belt, Lean Manufacturing, SPC, DOE, Tableau, MS Office, PDM, Hyperion",
+  "job_type": "Senior-level"
+}

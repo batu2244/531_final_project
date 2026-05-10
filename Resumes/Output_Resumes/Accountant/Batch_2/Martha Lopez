@@ -1,0 +1,39 @@
+{
+  "name": "Martha Lopez",
+  "education": [
+    {
+      "school": "Boston, MA",
+      "degree": "CPA Candidate",
+      "details": "B.Com—University of Mumbai"
+    },
+    {
+      "school": "India",
+      "degree": "LLB—Law",
+      "details": "Company Secretary program—ICSI"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–Present",
+      "bullets": [
+        "Implement QuickBooks & payroll"
+      ]
+    },
+    {
+      "title": "SAP Consultant",
+      "dates": "2013",
+      "bullets": [
+        "Configured GL/AP/AR, house banks, posting keys, tax, fiscal variants"
+      ]
+    },
+    {
+      "title": "Financial Analyst",
+      "dates": "2011–2013",
+      "bullets": [
+        "Audit & tax for multiple clients"
+      ]
+    }
+  ],
+  "skills_and_achievements": "QuickBooks (setup/payroll), SAP R/3 (FI/GL/AP/AR, CO-PA), ProSystems, Lacerte, MS Office (Excel/Word/PPT; pivot tables/VLOOKUP), tax planning/filings (W-2/1099, sales & use), bank recs, JE/GL, financial statements, cash management, staff supervision, client relations."
+}

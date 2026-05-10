@@ -1,0 +1,40 @@
+{
+  "name": "Sarah Walsh",
+  "education": [
+    {
+      "school": "Capstone Institute",
+      "degree": "Certificate in Mortgage Loan Originator",
+      "details": "Extensive mortgage training, lender workshops, and annual continuing education through the Tennessee National Association of Mortgage Professionals since 2009."
+    },
+    {
+      "school": "Tennessee National Association of Mortgage Professionals",
+      "degree": "2009",
+      "details": "Annual continuing education through the Tennessee National Association of Mortgage Professionals since 2009."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Vice President/Owner",
+      "dates": "09/2002 – Present",
+      "bullets": [
+        "Handled loan origination, underwriting, audits, payroll, compliance, and client relations."
+      ]
+    },
+    {
+      "title": "Legal Secretary",
+      "dates": "02/2002 – 09/2002, 08/1998 – 06/1999, 05/1997 – 08/1998",
+      "bullets": [
+        "Supported attorneys with correspondence, filings, and legal documentation."
+      ]
+    },
+    {
+      "title": "HR/Office Manager",
+      "dates": "05/1997 – 08/1998",
+      "bullets": [
+        "Managed payroll for 100 employees, handled disputes, accounts payable, and unemployment claims."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Expertise in mortgage origination, loan processing, compliance, collections, credit and debt management, VA/FHA/USDA/Conventional loans, customer service, financial planning, and staff training. Proficient in Calyx Point LOS, Encompass, Microsoft Word, PowerPoint, Publisher, and bookkeeping software. Awarded USDA Million Dollar Producer for East Tennessee multiple years; recognized for community mortgage education initiatives",
+  "job_type": "Senior-level"
+}

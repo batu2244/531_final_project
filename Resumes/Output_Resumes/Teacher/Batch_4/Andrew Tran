@@ -1,0 +1,45 @@
+{
+  "name": "Andrew Tran",
+  "education": [
+    {
+      "school": "Government College of Education",
+      "degree": "Master's in Education",
+      "details": "1992"
+    },
+    {
+      "school": "University of Karachi",
+      "degree": "Bachelor of Education",
+      "details": "1990"
+    },
+    {
+      "school": "Government College of Education",
+      "degree": "Bachelor of Science in Biology & Chemistry",
+      "details": "1986"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2005–2016",
+      "bullets": [
+        "Led elementary classrooms with a focus on creative, independent problem solving"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "1997–2004",
+      "bullets": [
+        "Planned and delivered standards-aligned lessons"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "1986–1989",
+      "bullets": [
+        "Taught math and science with purposeful lesson planning"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Strengths in lesson planning, classroom management, differentiation, learning assessments, positive reinforcement, tutoring, and data/recordkeeping. Proficient in Microsoft Office; quick to learn new instructional tools (e.g., mathematics software).",
+  "job_type": "Senior-level"
+}

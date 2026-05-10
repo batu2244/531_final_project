@@ -1,0 +1,62 @@
+{
+  "name": "Emily Sullivan",
+  "education": [
+    {
+      "school": "University of Turabo",
+      "degree": "BBA",
+      "details": "2014"
+    },
+    {
+      "school": "Universidad Del Sagrado Corazón",
+      "degree": "BA",
+      "details": "2003"
+    },
+    {
+      "school": "TREI",
+      "degree": "Sales Associate License",
+      "details": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Substitute Teacher",
+      "dates": "2014–2015",
+      "bullets": [
+        "HR management"
+      ]
+    },
+    {
+      "title": "HR Manager",
+      "dates": "2014",
+      "bullets": [
+        "Recruitment",
+        "Payroll",
+        "Benefits",
+        "Budgeting",
+        "Leadership",
+        "Communication",
+        "Policy development",
+        "Team training"
+      ]
+    },
+    {
+      "title": "Store Manager",
+      "dates": "2010–2014",
+      "bullets": [
+        "Expertise in HR",
+        "Operations",
+        "Training",
+        "Finance"
+      ]
+    },
+    {
+      "title": "General Manager/Partner",
+      "dates": "2002–2004",
+      "bullets": [
+        "expertise in HR, operations, training, and finance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Bilingual (EN/ES)",
+  "job_type": "Mid-level"
+}

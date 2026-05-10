@@ -1,0 +1,60 @@
+{
+  "name": "Linda Sandoval",
+  "education": [
+    {
+      "school": "University of Redlands",
+      "degree": "B.A.",
+      "details": "2008"
+    },
+    {
+      "school": "California Baptist University",
+      "degree": "B.A.",
+      "details": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Long-term 5th-grade substitute",
+      "dates": "2023-2024",
+      "bullets": [
+        "Student-centered instruction"
+      ]
+    },
+    {
+      "title": "2nd-grade teacher",
+      "dates": "2020-2023",
+      "bullets": [
+        "Differentiated small-group learning (System 44)"
+      ]
+    },
+    {
+      "title": "5th-grade teacher",
+      "dates": "2020-2023",
+      "bullets": [
+        "Led GATE after-school program to produce the ‘Jr Journal’ (4 published issues)” ] }, { "
+      ]
+    },
+    {
+      "title": "Tutored before/after school",
+      "dates": "2020-2023",
+      "bullets": [
+        "Organized field trips"
+      ]
+    },
+    {
+      "title": "Created daily/weekly lesson plans",
+      "dates": "2020-2023",
+      "bullets": [
+        "Frequent parent communication"
+      ]
+    },
+    {
+      "title": "STAR Reading/Math assessments",
+      "dates": "2020-2023",
+      "bullets": [
+        "Led ELD, close reading, critical thinking"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Student-centered instruction, differentiated small-group learning (System 44), positive behavior reinforcement, strong classroom management, technology integration (iPads), organization, collaboration with families/staff, trainer-of-trainees (WRITE Institute & Common Core), RCD math unit writer, grade-level lead (3 yrs) ,  RCD math unit writer, grade-level lead (1 yr) ,  ELD, close reading, critical thinking"
+}

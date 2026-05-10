@@ -1,0 +1,63 @@
+{
+  "name": "John Begay",
+  "education": [
+    {
+      "school": "CUNY Brooklyn College",
+      "degree": "B.S. Accountancy",
+      "details": "2006"
+    },
+    {
+      "school": "Kingsborough Community College",
+      "degree": "Liberal Arts",
+      "details": "2001"
+    },
+    {
+      "school": "ADP Payroll Course",
+      "degree": "ADP Payroll",
+      "details": "Dean's List"
+    },
+    {
+      "school": "HHA Exchange",
+      "degree": "HCFA/CMS-1500",
+      "details": "HIPAA compliance"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2013–Present",
+      "bullets": [
+        "cut monthly/quarterly close via new consolidation procedures"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2010–2013",
+      "bullets": [
+        "managed $10M+ monthly revenue"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2006–2008",
+      "bullets": [
+        "led airline credit-card dispute/chargeback resolution"
+      ]
+    },
+    {
+      "title": "Bookkeeper",
+      "dates": "2003–2005",
+      "bullets": [
+        "AP/AR support, collections, invoicing, bank recs, customer calls, admin."
+      ]
+    },
+    {
+      "title": "Assistant Bookkeeper",
+      "dates": "1999–2002",
+      "bullets": [
+        "assisted payroll and AP/AR, deposits, records, returns/exchanges, daily paperwork."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Account reconciliation, GL/JE, month/quarter close, forecasting/budgeting, bank recs, payroll; Microsoft Office & Access; QuickBooks, Sage/MAS 200, Peachtree, RealWorld, ADP; HHA Exchange, Santrax, Crescent; HCFA/CMS-1500, UB-04, ICD-9/CPT/HCPCS; HIPAA compliance; team training."
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Elizabeth Nez",
+  "education": [
+    {
+      "school": "Concordia University",
+      "degree": "M.Ed.",
+      "details": "Curriculum & Instruction—Environmental Education"
+    },
+    {
+      "school": "Brooklyn College/CUNY",
+      "degree": "B.A.",
+      "details": "Secondary Education—Earth Science (7–12)"
+    },
+    {
+      "school": "GLOBE program training",
+      "degree": "None"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2009–Present",
+      "bullets": [
+        "integrated instruction"
+      ]
+    },
+    {
+      "title": "Assistant Girls’ Soccer Coach",
+      "dates": "2012–Present",
+      "bullets": [
+        "skills/drills"
+      ]
+    },
+    {
+      "title": "School Safety Officer",
+      "dates": "1996–1998",
+      "bullets": [
+        "secure HS environments"
+      ]
+    },
+    {
+      "title": "Youth Care Worker/Recreation Director",
+      "dates": "1994–1996",
+      "bullets": [
+        "recreation programs"
+      ]
+    }
+  ],
+  "skills_and_achievements": "First Aid/CPR; SmartBoard; Microsoft Office; GIS; Engrade; Skedula; classroom management; curriculum & assessment design; labs; community engagement. Founded student-run Fairness Committee; Student Council advisor (constitution, leadership trip); led schoolwide events and fundraisers; environmental action lead (recycling, Earth Day initiatives, beach/graffiti cleanups—1,000+ lbs removed); teams won two national events."
+}

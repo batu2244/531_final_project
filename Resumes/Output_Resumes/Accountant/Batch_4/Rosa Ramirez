@@ -1,0 +1,57 @@
+{
+  "name": "Rosa Ramirez",
+  "education": [
+    {
+      "school": "Baylor University",
+      "degree": "M.S. Accounting",
+      "details": "Dec 2017, GPA 3.58"
+    },
+    {
+      "school": "Texas A&M–Commerce",
+      "degree": "attended"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "03/2016–03/2018",
+      "bullets": [
+        "daily bank recs",
+        "A/P",
+        "payroll",
+        "GL",
+        "data reconciliations",
+        "month-end close",
+        "journal entries",
+        "tax filings",
+        "year-end rollovers",
+        "audit prep"
+      ]
+    },
+    {
+      "title": "Office Assistant",
+      "dates": "06/2015–08/2015",
+      "bullets": [
+        "phones",
+        "mail",
+        "Excel support",
+        "document organization"
+      ]
+    },
+    {
+      "title": "Assistant",
+      "dates": "05/2014–08/2014",
+      "bullets": [
+        "maintained Excel spreadsheets"
+      ]
+    },
+    {
+      "title": "Seasonal Staff",
+      "dates": "05/2012–08/2012",
+      "bullets": [
+        "maintained carts and driving range"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Bank recs, A/P, payroll processing, GL maintenance, month-end close, journal entries, Excel spreadsheet/report building, accounting systems administration, tax filings (1099, 941, 940, W-2, C-3), EFTPS payments, audit file prep; President’s Gold Scholarship; service/leadership through mission trips and campus orgs."
+}

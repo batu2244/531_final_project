@@ -1,0 +1,40 @@
+{
+  "name": "Leroy Williams",
+  "education": [
+    {
+      "school": "University of Phoenix",
+      "degree": "MBA",
+      "details": "GPA 3.7, 2012"
+    },
+    {
+      "school": "Delta State University",
+      "degree": "BBA",
+      "details": "GPA 3.0, Dean’s List, Sigma Phi Epsilon"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of Engineering",
+      "dates": "2013–2014",
+      "bullets": [
+        "managed engineers, lean setup, and new product development"
+      ]
+    },
+    {
+      "title": "Costing Manager",
+      "dates": "2003–2009",
+      "bullets": [
+        "led costing, BOM, lean systems, and cost control"
+      ]
+    },
+    {
+      "title": "Chief Industrial Engineer",
+      "dates": "1991–2002",
+      "bullets": [
+        "handled supply chain, production, R&D, QC, and logistics"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Product development, industrial engineering, lean manufacturing, CAD, budgeting, labor cost control, inventory and expense management, quality and workflow improvement, Six Sigma knowledge, negotiation, and team leadership.",
+  "job_type": "Senior-level"
+}

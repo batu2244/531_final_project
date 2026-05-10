@@ -1,0 +1,52 @@
+{
+  "name": "Juan Sanchez",
+  "education": [
+    {
+      "school": "Robert Morris College",
+      "degree": "AAS in Graphic Arts"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Specialist",
+      "dates": "Jul 2015 – Present",
+      "bullets": [
+        "Merchandising leadership",
+        "Store openings",
+        "Hiring/training",
+        "ADP payroll",
+        "cash handling/audits",
+        "inventory/receiving",
+        "loss prevention investigations",
+        "floor plans/visuals",
+        "high-volume ops",
+        "customer issue resolution"
+      ]
+    },
+    {
+      "title": "Merchandising/Area Exec",
+      "dates": "2005 – 2015",
+      "bullets": [
+        "opened FL stores",
+        "staffing",
+        "LP",
+        "visuals"
+      ]
+    },
+    {
+      "title": "General Manager",
+      "dates": "2001 – 2005",
+      "bullets": [
+        "P&L",
+        "ordering",
+        "routes",
+        "warehouse"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Merchandising leadership, store openings, hiring/training, ADP payroll, cash handling/audits, inventory/receiving, loss prevention investigations, floor plans/visuals, high-volume ops, customer issue resolution"
+}

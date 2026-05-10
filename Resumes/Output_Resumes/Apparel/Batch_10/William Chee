@@ -1,0 +1,45 @@
+{
+  "name": "William Chee",
+  "education": [
+    {
+      "school": "Penn Foster",
+      "degree": "High School Diploma",
+      "details": "GPA 3.6"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Apparel Zone Supervisor",
+      "dates": "Dec 2016 – Current",
+      "bullets": [
+        "floor supervision, approvals, deposits, deliveries, cleanliness"
+      ]
+    },
+    {
+      "title": "Consumer Electronics Sales Lead/Merchandising Supervisor",
+      "dates": "2014 – 2016",
+      "bullets": [
+        "multi-dept coverage"
+      ]
+    },
+    {
+      "title": "Manager",
+      "dates": "2014",
+      "bullets": [
+        "sales consultant"
+      ]
+    },
+    {
+      "title": "Sales Consultant",
+      "dates": "2013 – 2014",
+      "bullets": [
+        "sales consultant"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Cash handling, POS, inventory control, merchandising, staffing, loss prevention, scheduling, customer service, web orders, AD setup with 100% accuracy, strong communication, multitasking, problem solving, key holder responsibilities, firearms E4473 2nd/3rd checks"
+}

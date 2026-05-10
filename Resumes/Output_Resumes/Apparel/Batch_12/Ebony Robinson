@@ -1,0 +1,37 @@
+{
+  "name": "Ebony Robinson",
+  "education": [
+    {
+      "school": "UVT College of Economics",
+      "degree": "B.S. Business Management & Accounting"
+    },
+    {
+      "school": "J.Jill",
+      "degree": "Store Manager"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Store Manager",
+      "dates": "2011–2014",
+      "bullets": [
+        "Led move to larger format"
+      ]
+    },
+    {
+      "title": "Store/Training Store Manager",
+      "dates": "2000–2010",
+      "bullets": [
+        "Led teams, training programs, new store openings nationwide"
+      ]
+    },
+    {
+      "title": "Shop Director & Midwest Regional Trainer",
+      "dates": "1991–2000",
+      "bullets": [
+        "Led 35+ staff"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Sales leadership; recruiting, hiring, training, coaching; staff development; KPIs, merchandising, visual execution; payroll, scheduling, HR, performance appraisals; loss prevention/shrink control; community outreach/events; top sales manager (2010); quarterly sales +10% leading to promotion in 7 months; managed 20–35+ teams; awards: Best ADS ↑% over LY (2005–2008), Best UPT (2005–2008), multiple Guest Service Awards."
+}

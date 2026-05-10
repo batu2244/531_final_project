@@ -1,0 +1,51 @@
+{
+  "name": "Joseph Yazzie",
+  "education": [
+    {
+      "school": "Walden",
+      "degree": "M.S. Accounting",
+      "details": "GPA 4.0"
+    },
+    {
+      "school": "UMUC",
+      "degree": "B.S. Business Admin",
+      "details": "GPA 3.2"
+    },
+    {
+      "school": "UMUC",
+      "degree": "A.A. Accounting",
+      "details": "GPA 3.3"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–Present",
+      "bullets": [
+        "lead AP & trust/cost disbursements"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2007–2011",
+      "bullets": [
+        "AP, payroll, bank recs, JEs & trial balance"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2005–2007",
+      "bullets": [
+        "AP reviews, GP processing, spend analysis/AJEs, GL recs, audit support, bank recs, escrow schedules (~20 properties)"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "2005–2007",
+      "bullets": [
+        "AP senior-level"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Vendor/AP management, cash/deposits/wire/ACH, petty cash & check stock, escrow/insurance/tax schedules, bank/trust recs, JEs & trial balance, tools: Dynamics GP, QuickBooks, Peachtree, Excel/Word/Outlook/PowerPoint, EDI"
+}

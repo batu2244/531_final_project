@@ -1,0 +1,51 @@
+{
+  "name": "Carmen Martinez",
+  "education": [
+    {
+      "school": "Antonelli Institute of Art & Photography",
+      "degree": "A.S. Photography"
+    },
+    {
+      "school": "North Penn High School",
+      "degree": "High School Diploma"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Product Photographer",
+      "dates": "2014–Current",
+      "bullets": [
+        "web product shoots, retail support, live show support, cross-team collaboration"
+      ]
+    },
+    {
+      "title": "Photographer",
+      "dates": "2013–2014",
+      "bullets": [
+        "e-commerce/wholesale, editorials, catalogs, lookbooks, banners"
+      ]
+    },
+    {
+      "title": "Skin retouching",
+      "dates": "2012–2013",
+      "bullets": [
+        "cropping and color balancing"
+      ]
+    },
+    {
+      "title": "Model scheduling",
+      "dates": "2012–2013",
+      "bullets": [
+        "model scheduling"
+      ]
+    },
+    {
+      "title": "Photography",
+      "dates": "2013–2014",
+      "bullets": [
+        "e-commerce/print, cropping and color balancing"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Product/e-commerce/editorial photography; lighting; Photoshop, Capture One, Lightroom; retouching, background removal, color correction, batch editing; workflow and problem solving; strong communication"
+}

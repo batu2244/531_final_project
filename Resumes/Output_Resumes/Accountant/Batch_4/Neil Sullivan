@@ -1,0 +1,62 @@
+{
+  "name": "Neil Sullivan",
+  "education": [
+    {
+      "school": "MAcc (in progress at time of resume; GPA 3.48)",
+      "degree": "in progress at time of resume",
+      "details": "Walsh College"
+    },
+    {
+      "school": "Al Turath University",
+      "degree": "B.Accountancy (1998); evaluation by Stockholm University, 2010",
+      "details": "1998; evaluation by Stockholm University, 2010"
+    },
+    {
+      "school": "Sweden",
+      "degree": "Certificate in Business Administration (2011)",
+      "details": "2011"
+    },
+    {
+      "school": "Walsh College",
+      "degree": "MAcc coursework"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2013–Present",
+      "bullets": [
+        "Close periods"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2008–2013",
+      "bullets": [
+        "Bookkeeping"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "2000–2007",
+      "bullets": [
+        "Led general/intercompany/payroll accounting teams"
+      ]
+    },
+    {
+      "title": "Staff Accountant/Finance Manager",
+      "dates": "1996–2000",
+      "bullets": [
+        "Managed monthly/quarterly/year-end close"
+      ]
+    },
+    {
+      "title": "Audit Workpapers",
+      "dates": "1996–2000",
+      "bullets": [
+        "A/R, A/P, GL, fixed assets"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Advanced Excel (pivot tables, VLOOKUP), Word/PowerPoint/Outlook/Access; QuickBooks, Creative Solutions, Sales Tax Express, Fidelio (hotel); JE/GL review, reconciliations, AR/AP collections, fixed assets, budgeting, P&L/BS analysis; fluent English, Arabic, Swedish."
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Meredith Murphy",
+  "education": [
+    {
+      "school": "Strayer University",
+      "degree": "B.S. in Accounting"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Aug 2015–Present",
+      "bullets": [
+        "handle accounting for six companies"
+      ]
+    },
+    {
+      "title": "Director of Finance & Accounts",
+      "dates": "Jun 2014–Aug 2015",
+      "bullets": [
+        "daily accounting"
+      ]
+    },
+    {
+      "title": "Operations & Training Consultant / Franchisee / General Manager",
+      "dates": "Feb 2004–Present",
+      "bullets": [
+        "train staff"
+      ]
+    },
+    {
+      "title": "Patient Service Representative",
+      "dates": "Jun 2012–Nov 2016",
+      "bullets": [
+        "registration"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Full-cycle accounting for multi-entity environments; payroll (W-2/1099, adjustments, direct deposit); AP/AR, PO processing, vendor management (50+ vendors); bank and credit card reconciliations; journal entries, online transfers and payments; GL review, monthly financials, management reports and forecasts; cost control and purchasing; collections and billing dispute resolution; HR confidentiality (pay rates, grades) and file maintenance; training, inspections, and operations streamlining."
+}

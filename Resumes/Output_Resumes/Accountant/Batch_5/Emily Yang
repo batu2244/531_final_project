@@ -1,0 +1,36 @@
+{
+  "name": "Emily Yang",
+  "education": [
+    {
+      "school": "LIU",
+      "degree": "M.S. Taxation",
+      "details": "in progress"
+    },
+    {
+      "school": "Hunter College",
+      "degree": "B.S. Accounting",
+      "details": "2016–Present"
+    },
+    {
+      "school": "IRS VITA/TCE",
+      "degree": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2016–Present",
+      "bullets": [
+        "Cash & accrual accounting"
+      ]
+    },
+    {
+      "title": "Accounting Assistant",
+      "dates": "2015–2016",
+      "bullets": [
+        "A/R, A/P, COGS, inventory, fixed/intangible assets, close, recs, tax compliance (1120S, CT-3-S/CT-34-SH, 941, NYS-45, FUTA/SUTA)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "advanced Excel (VLOOKUP, pivots, Power Pivot); GAAP/ASC, GAAS, SOX; full-cycle GL/A/R/A/P; payroll & quarterly filings; bank/CC/escrow reconciliations; financial statement prep/analysis; sales & payroll tax; drove 10–20% revenue lifts in prior roles."
+}

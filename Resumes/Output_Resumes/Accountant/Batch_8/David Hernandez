@@ -1,0 +1,51 @@
+{
+  "name": "David Hernandez",
+  "education": [
+    {
+      "school": "Lewis University",
+      "degree": "MBA",
+      "details": "Cum Laude (2013)"
+    },
+    {
+      "school": "Robert Morris University",
+      "degree": "BA",
+      "details": "Magna Cum Laude"
+    },
+    {
+      "school": "Wiley CPAexcel Review",
+      "degree": "CPA Candidate"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–Present",
+      "bullets": [
+        "compile/analyze data",
+        "maintain GL",
+        "post/adjust/close entries",
+        "prepare financials supporting corporate/individual tax filings"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "1999–Present",
+      "bullets": [
+        "oversee full accounting",
+        "GAAP financials",
+        "management reporting",
+        "FA & inventory audits",
+        "variance/profitability analysis",
+        "forecasts/budgets",
+        "AP/AR",
+        "bank recs",
+        "payroll/W-2s",
+        "sales & payroll tax",
+        "benefits administration",
+        "audit prep",
+        "cost-saving initiatives reporting to owner"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Financial reporting & analysis, month/year-end close, GL/JE/accruals, AP/AR, payroll & benefits, fixed assets, inventory/cost accounting, budgeting/forecasting, audits, sales & payroll tax, process improvement; SAP, Oracle/Hyperion/Essbase, QuickBooks, MS Excel/Word/PowerPoint/Access; contract negotiation; customer/vendor relations."
+}

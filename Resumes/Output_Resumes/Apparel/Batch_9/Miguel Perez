@@ -1,0 +1,44 @@
+{
+  "name": "Miguel Perez",
+  "education": [
+    {
+      "school": "High School Diploma",
+      "degree": "High School Diploma"
+    },
+    {
+      "school": "Clifton High School",
+      "degree": "Expected Jun 2023"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Warehouse Picker",
+      "dates": "May 2021–Current",
+      "bullets": [
+        "pick/pack"
+      ]
+    },
+    {
+      "title": "Warehouse Employee",
+      "dates": "Feb–Apr 2021",
+      "bullets": [
+        "inventory counts"
+      ]
+    },
+    {
+      "title": "Sales Associate & Cashier",
+      "dates": "Oct–Dec 2020",
+      "bullets": [
+        "sales"
+      ]
+    },
+    {
+      "title": "Host",
+      "dates": "Jul–Aug 2020",
+      "bullets": [
+        "reservations"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Cash/credit/check handling, POS/scanner operations, issue resolution, customer assistance, reservations, MS Office; warehouse picking/packing, labeling, pallet jacks, weighing/measuring, heavy lifting, safety/organization (clean, hazard-free workspaces); staff mentoring; bilingual English/Spanish"
+}

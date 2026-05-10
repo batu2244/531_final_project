@@ -1,0 +1,52 @@
+{
+  "name": "Daniel Kim",
+  "education": [
+    {
+      "school": "South Louisiana Community College",
+      "degree": "Business Administration"
+    },
+    {
+      "school": "University of Louisiana-Lafayette",
+      "degree": "Salmen High School"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Apparel Associate",
+      "dates": "2018-2023",
+      "bullets": [
+        "Proficient in sales, cash handling, customer assistance"
+      ]
+    },
+    {
+      "title": "Cashier/Stocker",
+      "dates": "2018-2019",
+      "bullets": [
+        "Skilled in merchandising, stock management, and customer service"
+      ]
+    },
+    {
+      "title": "Sales Associate",
+      "dates": "2019-2023",
+      "bullets": [
+        "Proficient in sales, cash handling, customer assistance"
+      ]
+    },
+    {
+      "title": "Entry-level",
+      "dates": "2012-2014",
+      "bullets": [
+        "Active in 21st Century Summer Camp"
+      ]
+    },
+    {
+      "title": "Job_type",
+      "dates": "2012-2014",
+      "bullets": [
+        "Customer service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Proficient in sales, cash handling, customer assistance, adaptability, teamwork, communication, and organization; active in 21st Century Summer Camp",
+  "job_type": "Entry-level"
+}

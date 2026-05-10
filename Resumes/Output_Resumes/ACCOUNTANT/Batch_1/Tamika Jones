@@ -2,59 +2,59 @@
   "name": "Tamika Jones",
   "education": [
     {
-      "school": "Andrés Bello Catholic University",
-      "degree": "BBA",
-      "details": "coursework in Informatics Engineering; seminars: SAP, California Payroll Law, Tax Planning (KPMG)"
+      "school": "Vidyasagar University",
+      "degree": "MBA in Finance",
+      "details": "2006"
     },
     {
-      "school": "...",
-      "degree": "...",
-      "details": "..."
+      "school": "Mohan Lal Sukhadia University",
+      "degree": "Bachelor's",
+      "details": "2000"
     }
   ],
   "experience": [
     {
       "title": "Accountant",
-      "dates": "2017–Present",
+      "dates": "Oct 2011–Aug 2015",
       "bullets": [
-        "Field audits (QuickBooks)",
-        "GAAP alignment",
-        "cash management",
-        "bank recs for 24+ companies",
-        "capex tracking/reporting"
+        "preparing forecasts"
       ]
     },
     {
-      "title": "Controller Assistant",
-      "dates": "2016–2017",
+      "title": "Accountant",
+      "dates": "Jan 2009–Sep 2011",
       "bullets": [
-        "audit prep",
-        "AR reporting/recons",
-        "bank discrepancy resolution",
-        "compliance"
+        "managing receivables/payables"
       ]
     },
     {
-      "title": "Bookkeeper",
-      "dates": "2016–2017",
+      "title": "Accountant",
+      "dates": "Apr 2006–May 2007",
       "bullets": [
-        "payroll",
-        "deposits",
-        "pay adjustments",
-        "AR docs",
-        "dispute resolution"
+        "cash handling"
       ]
     },
     {
-      "title": "Controller",
-      "dates": "2010–2016",
+      "title": "Account Assistant",
+      "dates": "Oct 2001–Mar 2006",
       "bullets": [
-        "budget/reporting improvements",
-        "tax review",
-        "automation",
-        "staff recruiting/training"
+        "daily accounts to finalization"
+      ]
+    },
+    {
+      "title": "Invoice",
+      "dates": "Oct 2001–Mar 2006",
+      "bullets": [
+        "invoicing"
+      ]
+    },
+    {
+      "title": "Cashbook/Journal",
+      "dates": "Oct 2001–Mar 2006",
+      "bullets": [
+        "bank recs"
       ]
     }
   ],
-  "skills_and_achievements": "GAAP/IFRS, audit standards, financial reporting & close, budgeting/capitalization, bank reconciliations, AR/AP, payroll (ADP), QuickBooks (advanced), Excel (pivots, macros), SAP (basic), Lacerte (basic). Built new Excel recording system; restructured Profit software to improve budget reports; streamlined procedures/automation; executed AR reporting enhancements; led multi-company monthly/quarterly/annual reconciliations."
+  "skills_and_achievements": "Account reconciliations; AP/AR; budgeting and cost/variance analysis; taxation and compliance; inventory and stock control; payroll; MIS reporting for senior management; GL and bank reconciliations; financial statement preparation; strong Excel (macros, VLOOKUP), Oracle 8i/Developer 2000, Tally, and MS Office proficiency."
 }

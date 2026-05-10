@@ -1,0 +1,46 @@
+{
+  "name": "Hakim Williams",
+  "education": [
+    {
+      "school": "Concordia",
+      "degree": "B.A. Business Administration",
+      "details": "2014"
+    },
+    {
+      "school": "AIU",
+      "degree": "A.A. Business Administration",
+      "details": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Accountant",
+      "dates": "2013–Present",
+      "bullets": [
+        "Audit district health-billing"
+      ]
+    },
+    {
+      "title": "Admin Assistant",
+      "dates": "2007–2013",
+      "bullets": [
+        "Purchasing/AP/AR"
+      ]
+    },
+    {
+      "title": "Specialist Tech",
+      "dates": "2005–2006",
+      "bullets": [
+        "CHIP/Medicaid enrollment"
+      ]
+    },
+    {
+      "title": "Accounting Clerk",
+      "dates": "2002–2005",
+      "bullets": [
+        "Invoicing, cash reports, AP, budget tracking"
+      ]
+    }
+  ],
+  "skills_and_achievements": "A/R & A/P, reconciliations, audits, vendor & contract compliance, ACA/CAFR reporting, budgeting, purchasing. Recovered $5M overbilling, recouped $83K transition costs, automated collections (+30% productivity), TEA delinquency monitoring; TRS innovation committee & performance award (2015)."
+}

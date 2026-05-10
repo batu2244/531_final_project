@@ -1,0 +1,55 @@
+{
+  "name": "Emily Kelly",
+  "education": [
+    {
+      "school": "University of Phoenix",
+      "degree": "MBA",
+      "details": "2011"
+    },
+    {
+      "school": "Penn State",
+      "degree": "B.S.",
+      "details": "2005"
+    },
+    {
+      "school": "La Salle",
+      "degree": "Certificate",
+      "details": "Fraud & Forensic Accounting, 2015"
+    },
+    {
+      "school": "CNAP",
+      "degree": "Paris Chamber of Commerce studies"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2013–Present",
+      "bullets": [
+        "build vendor programs, implement inventory auditing, enforce three-way match, random bank-disbursement audits, bank recs, month-end JEs/reports, monthly/quarterly/annual FS"
+      ]
+    },
+    {
+      "title": "QA/Mobile Software Tester",
+      "dates": "2010–2013",
+      "bullets": [
+        "tested accounting/business apps (incl. French), authored test plans, ran regression/security/smoke tests, logged localization/functional bugs"
+      ]
+    },
+    {
+      "title": "Procurement Specialist",
+      "dates": "2006–2010",
+      "bullets": [
+        "lead buyer for 16 plants (US/Canada), French-language liaison, audits of req/PO accuracy, SAP migrations from AS/400, contract/bid negotiations, back-order management & expedites"
+      ]
+    },
+    {
+      "title": "Freight Planning Contact",
+      "dates": "2005–2006",
+      "bullets": [
+        "hazardous export documentation, global logistics coordination, itinerary changes, customer service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "QuickBooks, SAP, AS/400, SQL, MS Office (Excel, Access, Word, PPT), bank recs & month-end close, financial statement prep, data analysis, inventory/audit programs, vendor negotiations & cost reduction, logistics/export docs, fluent French"
+}

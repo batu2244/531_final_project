@@ -1,0 +1,31 @@
+{
+  "name": "Geoffrey O’Brien",
+  "education": [
+    {
+      "school": "University of Maine at Fort Kent",
+      "degree": "B.A.",
+      "details": "2007"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mid-level",
+      "dates": "Unknown",
+      "bullets": [
+        "Introduced new learning methods and differentiated materials"
+      ]
+    },
+    {
+      "title": "Mid-level",
+      "dates": "Unknown",
+      "bullets": [
+        "Organized veteran guest speaker for WWII unit"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Microsoft Office (advanced), Excel (advanced), QuickBooks, scheduling, records/reporting, file systems, policy compliance, parent communication, classroom management, differentiated instruction, technology-integrated lessons, team building."
+}

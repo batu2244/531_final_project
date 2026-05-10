@@ -1,0 +1,37 @@
+{
+  "name": "Carmen Martinez",
+  "education": [
+    {
+      "school": "Florida International University",
+      "degree": "Associate of Science in Biology"
+    },
+    {
+      "school": "Florida International University",
+      "degree": "MS Office"
+    }
+  ],
+  "experience": [
+    {
+      "title": "General Manager",
+      "dates": "2023-01-01 - Present",
+      "bullets": [
+        "Opened new stores"
+      ]
+    },
+    {
+      "title": "Apparel Manager",
+      "dates": "2018-06-01 - 2023-06-30",
+      "bullets": [
+        "Directed sales"
+      ]
+    },
+    {
+      "title": "Team Supervisor",
+      "dates": "2016-01-01 - 2018-06-30",
+      "bullets": [
+        "Led merchandising and team supervision"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Retail management, staff training, operations, SOP writing, scheduling, payroll, merchandising, store openings, customer satisfaction metrics, MS Office, Oracle, Spanish (fluent), Italian (basic)"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Joseph Chee",
+  "education": [
+    {
+      "school": "William Woods Univ.",
+      "degree": "M.Ed.",
+      "details": "Educational Leadership & Policy Analysis—Univ. of Missouri"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "B.S.",
+      "details": "Elementary Education"
+    },
+    {
+      "school": "Jefferson City Public Schools",
+      "degree": "Teacher",
+      "details": "Teacher (08/2009–Current)"
+    },
+    {
+      "school": "Jefferson City Public Schools",
+      "degree": "Teacher (01/2004–01/2009)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "08/2009–Current",
+      "bullets": [
+        "plan standards-aligned lessons"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "01/2004–01/2009",
+      "bullets": [
+        "Grade-level chair"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "01/2004–01/2009",
+      "bullets": [
+        "Leadership Academy selectee"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "08/2009–Current",
+      "bullets": [
+        "Lead PD and grading transition"
+      ]
+    },
+    {
+      "title": "Mentor",
+      "dates": "08/2009–Current",
+      "bullets": [
+        "MAP scorer"
+      ]
+    },
+    {
+      "title": "Stakeholder engagement",
+      "dates": "08/2009–Current",
+      "bullets": [
+        "Project management"
+      ]
+    },
+    {
+      "title": "Committee leadership",
+      "dates": "08/2009–Current",
+      "bullets": [
+        "Strategic committees"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Balanced Literacy/Lucy Calkins; Investigations Math; Sitton Spelling; PBS; data-driven instruction/AFL; standards-based grading rollout; curriculum alignment (CCSS/ISTE); PD design/facilitation; new-teacher mentoring; JC Lead participant; MAP scorer; stakeholder engagement; Spanish; project management; committee leadership"
+}

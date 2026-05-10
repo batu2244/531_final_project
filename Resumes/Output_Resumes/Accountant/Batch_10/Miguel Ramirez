@@ -1,0 +1,60 @@
+{
+  "name": "Miguel Ramirez",
+  "education": [
+    {
+      "school": "Vidyasagar University",
+      "degree": "MBA in Finance",
+      "details": "2006"
+    },
+    {
+      "school": "Mohan Lal Sukhadia University",
+      "degree": "Bachelor's",
+      "details": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Oct 2011–Aug 2015",
+      "bullets": [
+        "preparing forecasts"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "Jan 2009–Sep 2011",
+      "bullets": [
+        "managing receivables/payables"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "Apr 2006–May 2007",
+      "bullets": [
+        "cash handling"
+      ]
+    },
+    {
+      "title": "Account Assistant",
+      "dates": "Oct 2001–Mar 2006",
+      "bullets": [
+        "daily accounts to finalization"
+      ]
+    },
+    {
+      "title": "Invoice",
+      "dates": "Oct 2001–Mar 2006",
+      "bullets": [
+        "invoicing"
+      ]
+    },
+    {
+      "title": "Cashbook/Journal",
+      "dates": "Oct 2001–Mar 2006",
+      "bullets": [
+        "bank recs"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Account reconciliations; AP/AR; budgeting and cost/variance analysis; taxation and compliance; inventory and stock control; payroll; MIS reporting for senior management; GL and bank reconciliations; financial statement preparation; strong Excel (macros, VLOOKUP), Oracle 8i/Developer 2000, Tally, and MS Office proficiency."
+}

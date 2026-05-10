@@ -1,0 +1,53 @@
+{
+  "name": "Jennifer Begay",
+  "education": [
+    {
+      "school": "Maysville CTC",
+      "degree": "A.A. in Early Childhood Education",
+      "details": "64 credits"
+    },
+    {
+      "school": "Head Start",
+      "degree": "Knowledgeable",
+      "details": "Childcare experience, support for children with special needs, parent feedback"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2002–2014",
+      "bullets": [
+        "Planned and delivered developmentally appropriate curricula"
+      ]
+    },
+    {
+      "title": "Preschool Teacher",
+      "dates": "2013–2014",
+      "bullets": [
+        "Maintained detailed daily reports"
+      ]
+    },
+    {
+      "title": "Toddler Teacher",
+      "dates": "2012–2013",
+      "bullets": [
+        "Guided behavior"
+      ]
+    },
+    {
+      "title": "Preschool Teacher",
+      "dates": "2010–2012",
+      "bullets": [
+        "Ensured safe, engaging learning environments"
+      ]
+    },
+    {
+      "title": "Planned and delivered developmentally appropriate curricula",
+      "dates": "2002–2014",
+      "bullets": [
+        "Maintained detailed daily reports"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Strengths in daycare and classroom management, creative arts integration, and clear communication. Head Start knowledgeable; homeschooled a child from infancy to 4th grade; experienced supporting children with special needs and consistently praised by parents."
+}

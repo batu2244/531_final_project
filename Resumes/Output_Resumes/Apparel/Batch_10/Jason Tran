@@ -1,0 +1,60 @@
+{
+  "name": "Jason Tran",
+  "education": [
+    {
+      "school": " Loyola University",
+      "degree": "BA Graphic Arts/Business",
+      "details": "minor in Business/Jewelry Design"
+    },
+    {
+      "school": " Loyola University",
+      "degree": "Business/Jewelry Design",
+      "details": "fluent in English & Spanish"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Fine Apparel Dept Manager",
+      "dates": "11/2013–Current",
+      "bullets": [
+        "drove Max Mara Northbrook +76% revenue"
+      ]
+    },
+    {
+      "title": "GM",
+      "dates": "2011–2013",
+      "bullets": [
+        "grew 16% then 10%"
+      ]
+    },
+    {
+      "title": "Assistant Manager",
+      "dates": "2010–2011",
+      "bullets": [
+        "+16% YTD"
+      ]
+    },
+    {
+      "title": "Stylist",
+      "dates": "2009–2010",
+      "bullets": [
+        "top seller"
+      ]
+    },
+    {
+      "title": "Owner/Designer/Wholesaler",
+      "dates": "1992–2007",
+      "bullets": [
+        "ran 2 stores & factory"
+      ]
+    },
+    {
+      "title": "Staff",
+      "dates": "48, 70%+ margins",
+      "bullets": [
+        "sold in 2007"
+      ]
+    }
+  ],
+  "skills_and_achievements": "MS Office; trend analysis; clienteling; team building; business acumen; 20+ yrs leadership; drove Max Mara Northbrook +76% revenue; promoted Stylist→AM in 6 months, AM→Store Manager in 12; built $2k startup to $1.8M; sold business profitably."
+}

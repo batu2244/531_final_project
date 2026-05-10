@@ -1,0 +1,39 @@
+{
+  "name": "Leroy Jones",
+  "education": [
+    {
+      "school": "Oklahoma State University",
+      "degree": "B.S. Finance",
+      "details": "1997"
+    },
+    {
+      "school": "Mara Institute of Technology",
+      "degree": "Diploma in Banking",
+      "details": "1995"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–2015",
+      "bullets": [
+        "Ensured accurate monthly/quarterly/year-end close"
+      ]
+    },
+    {
+      "title": "Assistant Finance Manager",
+      "dates": "2005–2012",
+      "bullets": [
+        "Managed subsidiary closes and consolidation"
+      ]
+    },
+    {
+      "title": "Accounts Executive/Junior Executive",
+      "dates": "2000–2005",
+      "bullets": [
+        "Prepared full set accounts (GL/AR/AP)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Financial planning, reporting, and analysis; GL, AR/AP, month/quarter/year-end close; bank and account reconciliations; budgeting, forecasting, treasury, cash flow; GST implementation and tax compliance/planning; consolidation and statutory reporting; audit liaison; systems: SAP FICO/BPC/COPA, Hyperion, AS/400, AccPac, iScala, CTOS, Polymath, HSBC online; Advanced Excel/VBA, Adobe; bilingual English/Bahasa; recognized for excellence in analysis, budgeting, and forecasting."
+}

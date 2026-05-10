@@ -1,0 +1,52 @@
+{
+  "name": "Kristen McCarthy",
+  "education": [
+    {
+      "school": "Henry County High School",
+      "degree": "High School Diploma"
+    },
+    {
+      "school": "FFA, FCA, Pep Club, mentoring volunteer",
+      "degree": "None"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Cashier",
+      "dates": "Oct 2014 – Current",
+      "bullets": [
+        "Payments, returns, reconciliations, customer support"
+      ]
+    },
+    {
+      "title": "Inbound/Return",
+      "dates": "Jun–Sep 2014",
+      "bullets": [
+        "Stock changes, line support"
+      ]
+    },
+    {
+      "title": "Cashier",
+      "dates": "Feb–Jun 2014",
+      "bullets": [
+        "Apparel Associate"
+      ]
+    },
+    {
+      "title": "Sales",
+      "dates": "Jan–Feb 2014; Oct–Dec 2013",
+      "bullets": [
+        "Fitting rooms, merchandising, security awareness"
+      ]
+    },
+    {
+      "title": "Security Awareness",
+      "dates": "Oct–Dec 2013",
+      "bullets": [
+        "Security awareness"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Cash handling accuracy, POS/registers/scanners, MS Office, time management, multitasking, inventory, customer service, math aptitude, flexible scheduling",
+  "job_type": "Entry-level"
+}

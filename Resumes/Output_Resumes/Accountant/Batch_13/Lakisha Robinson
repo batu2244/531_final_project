@@ -1,0 +1,46 @@
+{
+  "name": "Lakisha Robinson",
+  "education": [
+    {
+      "school": "Keller Graduate School of Management",
+      "degree": "MBA",
+      "details": "GPA 3.67, 2008"
+    },
+    {
+      "school": "Dev DeVry University",
+      "degree": "BS",
+      "details": "GPA 3.66, Cum Laude, Dean’s List, 2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "10/2014–Current",
+      "bullets": [
+        "Owns FA/CIP lifecycle and rollforwards"
+      ]
+    },
+    {
+      "title": "Senior Staff Accountant",
+      "dates": "01/2013–10/2014",
+      "bullets": [
+        "Month-end close, JEs/recs, product cost and budget vs. actuals, consolidated FS and intercompany FX statements"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "02/2009–12/2012",
+      "bullets": [
+        "JEs (allocations/accruals), new item master data, intercompany wires, commissions, CIP capital budget, bank recs, budgets vs. actuals"
+      ]
+    },
+    {
+      "title": "General Ledger Specialist",
+      "dates": "05/2001–02/2009",
+      "bullets": [
+        "Daily JEs, fixed-asset & BS account recs, teller/bank recs, FR2900 reporting, close support, wires, audit assistance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Fixed assets/CIP, capital leases, depreciation, intercompany, monthly/quarterly close, BS/P&L analysis, reconciliations, budgeting/forecasting, inventory audits; Excel (VLOOKUPs, macros, pivots), Access, Word, PowerPoint, Outlook; JD Edwards/AS400, SAP (incl. LX), QuickBooks, Microsoft Office Accounting, Sage/Sage FAS, Image Freeway."
+}

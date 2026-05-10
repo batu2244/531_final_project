@@ -1,0 +1,42 @@
+{
+  "name": "Jesus Lopez",
+  "education": [
+    {
+      "school": "Mount Everett Regional High School",
+      "degree": "High School Diploma"
+    },
+    {
+      "school": "Nike Brand Coordinator",
+      "degree": "Senior-level"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Softlines Manager",
+      "dates": "2011–Current",
+      "bullets": [
+        "lead apparel/footwear sales",
+        "implement game plans",
+        "hire/train",
+        "HR advising"
+      ]
+    },
+    {
+      "title": "Apparel Sales Leader",
+      "dates": "2006–2011",
+      "bullets": [
+        "floor supervision",
+        "presentation/signage",
+        "service & profit"
+      ]
+    },
+    {
+      "title": "Visual Standards",
+      "dates": "2005–2006",
+      "bullets": [
+        "visual standards"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Visual merchandising; sales & margin management; hiring, training, supervision; Store HR Adviser (counseling); shrink/asset protection (“Shrink Defender of the Month”: Aug 2008, Jul 2009, Dec 2010, Feb 2011, Apr 2014);"
+}

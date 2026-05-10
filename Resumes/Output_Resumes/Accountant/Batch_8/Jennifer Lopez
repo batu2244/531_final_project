@@ -1,0 +1,39 @@
+{
+  "name": "Jennifer Lopez",
+  "education": [
+    {
+      "school": "Northwestern State University of Louisiana",
+      "degree": "B.S. in Accounting",
+      "details": "Graduated magna cum laude; Phi Kappa Phi and Alpha Lambda Delta member; CPAExcel Scholar; George H. Rothschild Scholar; Dean’s List every term."
+    },
+    {
+      "school": "Northwestern State University of Louisiana",
+      "degree": "B.S. in Accounting",
+      "details": "Graduated magna cum laude; Phi Kappa Phi and Alpha Lambda Delta member; CPAExcel Scholar; George H. Rothschild Scholar; Dean’s List every term."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Lead AP & fixed assets",
+      "dates": "2013–present",
+      "bullets": [
+        "statements, bank recs, JEs, closes, 1099s, FEMA/GOHSEP reimbursements"
+      ]
+    },
+    {
+      "title": "Hospital F/S & budgets",
+      "dates": "2009–2013",
+      "bullets": [
+        "public tax & payroll"
+      ]
+    },
+    {
+      "title": "Tax & audits",
+      "dates": "2003–2004",
+      "bullets": [
+        "tax & audits"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Government accounting, financial statements, bank recs, AP/AR, fixed assets, payroll, budgeting, closes, tax, GAAP"
+}

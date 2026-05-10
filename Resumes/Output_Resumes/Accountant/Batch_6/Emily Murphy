@@ -1,0 +1,39 @@
+{
+  "name": "Emily Murphy",
+  "education": [
+    {
+      "school": "University of Northern Iowa",
+      "degree": "B.A. Real Estate & Finance",
+      "details": "2008"
+    },
+    {
+      "school": "Hawkeye Community College",
+      "degree": "A.A.A.",
+      "details": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–present",
+      "bullets": [
+        "AR/invoicing"
+      ]
+    },
+    {
+      "title": "Accounting Associate",
+      "dates": "2008–2011",
+      "bullets": [
+        "HQ AP (POs, expenses)"
+      ]
+    },
+    {
+      "title": "Government Collections Rep",
+      "dates": "2004–2008",
+      "bullets": [
+        "Led 15+ accounts"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Invoicing/AR for ~$15M annual sales; credit applications/terms; vendor/customer onboarding with exemptions & 1099s; bank & loan reconciliations; multi-state sales/use tax filings (11+ states incl. Chicago/ND Propane/MN Care); corporate card & T&E admin (~$40k/mo); GL review (expenses, COGS, fixed assets); payroll support; commission reporting; SBA/DHS/DoD/HHS debt recovery; team lead (15+), policy/procedure & training buildout; tools: NetSuite, QuickBooks, MAS 90, Oracle, Excel, PowerPoint"
+}

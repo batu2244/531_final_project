@@ -1,0 +1,51 @@
+{
+  "name": "Tyrone Washington",
+  "education": [
+    {
+      "school": "Northeastern University",
+      "degree": "B.S. in Information Systems",
+      "details": "Additional coursework: SAS Business Intelligence Tools (SAS Training Center, NY); Windows NT Administration (New Horizons, MA); Solaris Fundamentals (Sun Microsystems); Software Design & Development and Emerging Technologies (Boston University/Massasoit Community College)"
+    },
+    {
+      "school": "Boston University",
+      "degree": "BS in Information Systems",
+      "details": "Lead Data Migration Analyst (01/2008–01/2011)"
+    },
+    {
+      "school": "Massasoit Community College",
+      "degree": "BS in Information Systems",
+      "details": "Senior Forecast Analyst (01/2006–01/2008)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Business Solution Project Manager",
+      "dates": "01/2011–01/2017",
+      "bullets": [
+        "led PLM, digital merchandising, and marketing system integrations for 700+ users"
+      ]
+    },
+    {
+      "title": "Lead Data Migration Analyst",
+      "dates": "01/2008–01/2011",
+      "bullets": [
+        "headed enterprise SAP 7.0 migration"
+      ]
+    },
+    {
+      "title": "Quality Assurance Data Analyst",
+      "dates": "01/2006–01/2008",
+      "bullets": [
+        "supported new product launches"
+      ]
+    },
+    {
+      "title": "Senior Forecast Analyst",
+      "dates": "01/2006–01/2008",
+      "bullets": [
+        "forecasted production and supply chain KPIs"
+      ]
+    }
+  ],
+  "skills_and_achievements": "PLM (PTC FlexPLM, Enovia), SAP 7.0 (CRM, SD, MM, WM, FI/CO), SQL, SAS, Cognos, MicroStrategy, QlikView, Crystal Reports, Google Analytics, JIRA, HPQC, SharePoint, MS Project, Visio, Access/Excel (Advanced), ASPEN, Unix/Tivoli/CA7, Data migration/ETL, UAT/SIT, SDLC documentation, KPI modeling, vendor scorecards, offshore collaboration, and training development. Improved global speed-to-market processes and reduced warehouse liquidations by optimizing supply chain and reporting automation."
+}

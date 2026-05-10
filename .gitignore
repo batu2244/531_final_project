@@ -1,0 +1,18 @@
+# llama.cpp build/binaries — 116 MB, build locally instead
+llamacpp/
+
+# Stale similarity_scores from April runs (old hash IDs, 7-JD-per-resume schema)
+similarity_scores_ACCOUNTANT.csv
+similarity_scores_Apparel.csv
+similarity_scores_Banking_small.csv
+similarity_scores_Finance.csv
+similarity_scores_Research_Assistant.csv
+similarity_scores_TEACHER.csv
+similarity_scores_all.csv
+similarity_scores_all.csv.bak
+similarity_scores_Banking.csv.bak
+
+# Machine-generated / OS junk
+__pycache__/
+*.pyc
+.DS_Store

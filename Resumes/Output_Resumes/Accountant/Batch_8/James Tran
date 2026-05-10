@@ -1,0 +1,67 @@
+{
+  "name": "James Tran",
+  "education": [
+    {
+      "school": "Scott Community College",
+      "degree": "A.A. in Accounting Technology",
+      "details": "Honors, GPA 3.51"
+    },
+    {
+      "school": "Ashford University — in progress",
+      "degree": "B.A. in Supply Chain Management",
+      "details": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–2015",
+      "bullets": [
+        "Month-end close"
+      ]
+    },
+    {
+      "title": "Cost/Inventory Accountant",
+      "dates": "2011–2014",
+      "bullets": [
+        "BS recs for 5 divisions"
+      ]
+    },
+    {
+      "title": "Accountant II",
+      "dates": "2008–2011",
+      "bullets": [
+        "SUC→AUC transition, open payables consolidation, inventory/FA audits"
+      ]
+    },
+    {
+      "title": "Fixed Asset Accountant",
+      "dates": "2008",
+      "bullets": [
+        "CIP reconciliations in Oracle/CETA/SAM"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2007–2008",
+      "bullets": [
+        "Ultraflote state taxes/audit schedules"
+      ]
+    },
+    {
+      "title": "Wallis State Bank month-end",
+      "dates": "M-I SWACO",
+      "bullets": [
+        "month-end, cycle counts, AP, procedures"
+      ]
+    },
+    {
+      "title": "Senior Accountant",
+      "dates": "1998–2006",
+      "bullets": [
+        "financial reports/budgets, intercompany, AP, FA, commercial insurance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Month-end close, financial analysis/variance, budgeting, GL/AP, fixed assets; SAP FI/CO/AM power user; Oracle, Lawson, GP, MAS90, QuickBooks, Peachtree, Cognos, BPCS; advanced Excel/Access/PowerPoint; CI/Lean White Belt; led audits and core process reviews; implemented PB Views and new systems; Loss Prevention/Fire Warden; reduced property value $2M, saving ~$200K/yr in taxes plus $21K in fees."
+}

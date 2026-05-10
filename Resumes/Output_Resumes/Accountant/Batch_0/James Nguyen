@@ -1,0 +1,59 @@
+{
+  "name": "James Nguyen",
+  "education": [
+    {
+      "school": "Colorado State University",
+      "degree": "M.S. Business Administration—Accounting",
+      "details": "2005"
+    },
+    {
+      "school": "Regis University",
+      "degree": "B.S. Accounting",
+      "details": "2003"
+    },
+    {
+      "school": "University of Colorado Boulder",
+      "degree": "B.S. Business Administration",
+      "details": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2011–Current",
+      "bullets": [
+        "closes",
+        "JEs/accruals",
+        "reconciliations",
+        "SEC filings (10-Q/10-K & XBRL)",
+        "U.S. government surveys",
+        "monthly sales tax"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2007–2011",
+      "bullets": [
+        "owned AR/AP/GL/payroll",
+        "close",
+        "reconciliations",
+        "sales tax",
+        "cash-flow monitoring",
+        "budget variance analysis"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2006–Oct 2006",
+      "bullets": [
+        "GL for multiple clients",
+        "JEs/AJEs",
+        "reconciliations",
+        "compilations",
+        "individual tax returns",
+        "payroll deposits/reports"
+      ]
+    }
+  ],
+  "skills_and_achievements": "AR/AP, GL, accruals, period-end close, reconciliations, financial statement prep (10-Q/10-K, XBRL), sales tax reporting, payroll, cash flow, ERP/accounting systems, Microsoft Office/Windows; high attention to detail; government survey reporting; strong written/oral communication."
+}

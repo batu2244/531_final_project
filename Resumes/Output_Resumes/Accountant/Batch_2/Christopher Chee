@@ -1,0 +1,46 @@
+{
+  "name": "Christopher Chee",
+  "education": [
+    {
+      "school": "University of Houston",
+      "degree": "B.B.A. Accounting",
+      "details": "Cum Laude"
+    },
+    {
+      "school": "...",
+      "degree": "...",
+      "details": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–2014",
+      "bullets": [
+        "Prepared federal returns (individual & small biz)"
+      ]
+    },
+    {
+      "title": "Tax Accountant",
+      "dates": "2011–2012",
+      "bullets": [
+        "Exceeded production goals"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "2007–2011",
+      "bullets": [
+        "Restructured accounting"
+      ]
+    },
+    {
+      "title": "Tax Accountant",
+      "dates": "2005–2006",
+      "bullets": [
+        "Built client base"
+      ]
+    }
+  ],
+  "skills_and_achievements": "QuickBooks, PeopleSoft; Drake/UltraTax/TurboTax; Advanced Excel, Access, PowerPoint, Outlook; Adobe Acrobat"
+}

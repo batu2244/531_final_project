@@ -1,0 +1,45 @@
+{
+  "name": "Maria Kim",
+  "education": [
+    {
+      "school": "St. Louis Community College",
+      "degree": "AAS",
+      "details": "Honors Project in Financial Accounting"
+    },
+    {
+      "school": "State of Missouri",
+      "degree": "Notary Commissioned"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Sep 2012–Present",
+      "bullets": [
+        "GL recs"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "May 2005–Jun 2006",
+      "bullets": [
+        "Owned AP/AR, deposits, billing/collections"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "dates": "Jun 2006–Jun 2011",
+      "bullets": [
+        "Maintained COA and GL integrity"
+      ]
+    },
+    {
+      "title": "Admin Assistant & Billing Specialist",
+      "dates": "Jan 1997–May 2004",
+      "bullets": [
+        "Led post-acquisition account merge"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Billing & collections; AP/AR; GL reconciliation; journal entries; budgets & grant accounting; forecasting; job costing; cash management; MS Office (Excel/Pivot Tables), Sage; accounting software; procedure documentation; trained new staff; Notary Commissioned"
+}

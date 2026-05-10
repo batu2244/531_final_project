@@ -1,0 +1,53 @@
+{
+  "name": "Ebony Washington",
+  "education": [
+    {
+      "school": "University of Texas at Dallas",
+      "degree": "B.S. Accounting & Information Management",
+      "details": "University of Texas at Dallas"
+    },
+    {
+      "school": "University of Texas at Dallas",
+      "degree": "B.A. Psychology",
+      "details": "University of Texas at Dallas"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2012–Present",
+      "bullets": [
+        "Account reconciliation expert"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2008–2012",
+      "bullets": [
+        "Monthly bank recs"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2006–2008",
+      "bullets": [
+        "Fixed assets"
+      ]
+    },
+    {
+      "title": "Accounting Assistant",
+      "dates": "2005–2006",
+      "bullets": [
+        "Maintain capex (AS400)"
+      ]
+    },
+    {
+      "title": "Accounting Assistant",
+      "dates": "JEs, accruals",
+      "bullets": [
+        "Manage bank accts for 24 properties"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Account reconciliation expert; financial modeling & variance analysis; corporate G&A/COGS; cash forecasting; capitalization & fixed assets; inventory accounting; intermediate Excel (pivots/VLOOKUP); NetSuite, QuickBooks, JDE, AS400, Sage/BNA FAS, Cognos Impromptu, Hyperion Essbase, SAP Crystal Reports."
+}

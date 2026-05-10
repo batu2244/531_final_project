@@ -1,0 +1,71 @@
+{
+  "name": "Sandra Rodriguez",
+  "education": [
+    {
+      "school": "University of Louisiana at Lafayette",
+      "degree": "B.S. Elementary Education",
+      "details": "2013"
+    },
+    {
+      "school": "Legal Secretary/Office Manager",
+      "degree": "2011–2012"
+    },
+    {
+      "school": "Admin Assistant",
+      "degree": "2005–2010"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2013–present",
+      "bullets": [
+        "Admin-savvy teacher with 10+ years’ executive support"
+      ]
+    },
+    {
+      "title": "Teacher Intern",
+      "dates": "2013",
+      "bullets": [
+        "Training"
+      ]
+    },
+    {
+      "title": "Legal Secretary/Office Manager",
+      "dates": "2011–2012",
+      "bullets": [
+        "Invoice/A/R"
+      ]
+    },
+    {
+      "title": "Teller",
+      "dates": "2010–2011",
+      "bullets": [
+        "A/R"
+      ]
+    },
+    {
+      "title": "Admin Assistant",
+      "dates": "2005–2010",
+      "bullets": [
+        "Scheduling"
+      ]
+    },
+    {
+      "title": "Dental Assistant",
+      "dates": "2004–2005",
+      "bullets": [
+        "Customer Service"
+      ]
+    },
+    {
+      "title": "CSR",
+      "dates": "2003–2004",
+      "bullets": [
+        "Customer Service"
+      ]
+    }
+  ],
+  "skills_and_achievements": "MS Office; database/records; training; multi-line phones; invoicing/A/R; scheduling; customer service; tech instruction/tutoring; highly organized and detail-driven; Louisiana Highly Qualified Teacher 2013–2014 (Compass 4)",
+  "job_type": "Mid-level"
+}

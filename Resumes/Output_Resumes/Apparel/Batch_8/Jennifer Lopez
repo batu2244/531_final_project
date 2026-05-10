@@ -1,0 +1,51 @@
+{
+  "name": "Jennifer Lopez",
+  "education": [
+    {
+      "school": "A.S. Apparel Design",
+      "degree": "Apparel Design"
+    },
+    {
+      "school": "Fashion Institute of Technology",
+      "degree": "Design"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Design Director/Sr. Designer",
+      "dates": "2016–Now",
+      "bullets": [
+        "Leads fashion team"
+      ]
+    },
+    {
+      "title": "Head Designer",
+      "dates": "2008–2016",
+      "bullets": [
+        "Team supervision"
+      ]
+    },
+    {
+      "title": "Product Manager/Head Designer",
+      "dates": "2000–2002",
+      "bullets": [
+        "Managed men’s apparel"
+      ]
+    },
+    {
+      "title": "Freelance Consultant and Designer",
+      "dates": "2003–2006",
+      "bullets": [
+        "Designed for Sean John, Marc Ecko, and Tommy Hilfiger"
+      ]
+    },
+    {
+      "title": "Associate/Assistant Designer",
+      "dates": "1995–2000",
+      "bullets": [
+        "Worked at Ecko Unltd"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Apparel design, garment construction, Adobe Photoshop/Illustrator, pattern making, illustration, project planning, teamwork, Sketchbook Pro, presentation development; designs featured in WWD, Vibe, Complex, and MOMA; designed for Sean John, Marc Ecko, and Tommy Hilfiger."
+}

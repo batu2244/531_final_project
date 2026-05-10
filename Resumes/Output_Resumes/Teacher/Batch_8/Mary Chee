@@ -1,0 +1,53 @@
+{
+  "name": "Mary Chee",
+  "education": [
+    {
+      "school": "Lindenwood University",
+      "degree": "M.S.",
+      "details": "Dean's List"
+    },
+    {
+      "school": "McKendree College",
+      "degree": "B.S.",
+      "details": "2004"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2004–2014",
+      "bullets": [
+        "taught Math, Science, Social Studies, ELA, Reading, Spelling"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2009–2011",
+      "bullets": [
+        "designed engaging lessons and assessments"
+      ]
+    },
+    {
+      "title": "Coach",
+      "dates": "2005–2014",
+      "bullets": [
+        "led after-school detention program reducing suspensions"
+      ]
+    },
+    {
+      "title": "Coach",
+      "dates": "2005–2014",
+      "bullets": [
+        "mentored at-risk youth via Lincoln Challenge Academy"
+      ]
+    },
+    {
+      "title": "Coach",
+      "dates": "2005–2014",
+      "bullets": [
+        "coached 8th-grade and 9th-grade boys basketball"
+      ]
+    }
+  ],
+  "skills_and_achievements": "classroom management; differentiated instruction; behavior modification; curriculum planning; AV/technology integration; counseling and family communication; public speaking and time management. Selected Head Teacher two consecutive years; Centerville Elementary Union Representative two years; Above and Beyond Award; Performing Arts Department Chair for three years; led after-school detention program reducing suspensions; mentored at-risk youth via Lincoln Challenge Academy; coached 8th-grade and 9th-grade boys basketball (head coach) and assistant varsity for seven years; helped 300+ students reach IEP goals."
+}

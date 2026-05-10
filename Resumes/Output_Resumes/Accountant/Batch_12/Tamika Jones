@@ -1,0 +1,47 @@
+{
+  "name": "Tamika Jones",
+  "education": [
+    {
+      "school": "Montclair State College",
+      "degree": "B.S. Business Administration (Accounting)"
+    },
+    {
+      "school": "Syspro ERP",
+      "degree": "Syspro ERP"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2011–2017",
+      "bullets": [
+        "general accounting",
+        "closes",
+        "budgeting",
+        "audits"
+      ]
+    },
+    {
+      "title": "Inventory Control Manager",
+      "dates": "2008–2010",
+      "bullets": [
+        "inventory approvals/recons across 4 warehouses and 3PLs"
+      ]
+    },
+    {
+      "title": "Accounting Manager",
+      "dates": "1995–2008",
+      "bullets": [
+        "management reporting",
+        "cost control",
+        "GL/recons",
+        "sales tax",
+        "payroll",
+        "cash mgmt",
+        "HR",
+        "MAS90"
+      ]
+    }
+  ],
+  "skills_and_achievements": "20+ yrs inventory/manufacturing accounting; Excel/Outlook/Word; SAGE 100/MAS90, Syspro ERP, Ramp WMS; GL, closes, budgets, audits, sales tax, ADP payroll; multi-warehouse inventory control; vendor renegotiations improving cash flow; process improvements"
+}

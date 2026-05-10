@@ -1,0 +1,51 @@
+{
+  "name": "Maria Tran",
+  "education": [
+    {
+      "school": "Queen's University",
+      "degree": "B.A. International Studies"
+    },
+    {
+      "school": "Unknown",
+      "degree": "Unknown"
+    }
+  ],
+  "experience": [
+    {
+      "title": "PR & Event Manager",
+      "dates": "2015–Current",
+      "bullets": [
+        "PR, partnerships, event logistics"
+      ]
+    },
+    {
+      "title": "Media Manager",
+      "dates": "2017–Current",
+      "bullets": [
+        "press, content, SEO, KPIs"
+      ]
+    },
+    {
+      "title": "Media Specialist",
+      "dates": "2017–Current",
+      "bullets": [
+        "paid/organic social programs"
+      ]
+    },
+    {
+      "title": "Social Media Consultant",
+      "dates": "2017–Current",
+      "bullets": [
+        "global team, growth strategy"
+      ]
+    },
+    {
+      "title": "PR & Social Media Manager",
+      "dates": "2013–2017",
+      "bullets": [
+        "global team, growth strategy"
+      ]
+    }
+  ],
+  "skills_and_achievements": "PR, influencer and event strategy; content creation; Adobe; analytics (Google Analytics, SEO, ROI); social platform management; press releases; product marketing; scaled IG from 180k→2.2M; currently oversee 6M+ followers; celebrity/stylist partnerships."
+}

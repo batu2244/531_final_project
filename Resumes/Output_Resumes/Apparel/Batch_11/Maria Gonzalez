@@ -1,0 +1,42 @@
+{
+  "name": "Maria Gonzalez",
+  "education": [
+    {
+      "school": "University of California",
+      "degree": "B.S. Applied Management",
+      "details": "2005"
+    },
+    {
+      "school": "University of California",
+      "degree": "B.S. Business Administration",
+      "details": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Apparel Production Manager",
+      "dates": "2005–present",
+      "bullets": [
+        "set schedules/specs",
+        "QC",
+        "fabric tests",
+        "inventory",
+        "POs",
+        "budgets",
+        "samples",
+        "team objectives",
+        "equipment reviews",
+        "client liaison",
+        "multi-site coordination"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "2006–2013",
+      "bullets": [
+        "roles across multiple firms"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Production scheduling, spec setting, fabric QA/QC, inventory control, Adobe Photoshop, design software, budgeting, facility maintenance, real-time tracking, client/vendor coordination, sales support"
+}

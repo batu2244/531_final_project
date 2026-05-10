@@ -1,0 +1,38 @@
+{
+  "name": "James Sandoval",
+  "education": [
+    {
+      "school": "Elon University",
+      "degree": "BA in Strategic Communications",
+      "details": "2010"
+    },
+    {
+      "school": "Omni Buyer",
+      "degree": "None"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Brand Manager",
+      "dates": "2015–present",
+      "bullets": [
+        "developed strategies, partnerships, forecasts"
+      ]
+    },
+    {
+      "title": "Assistant Buyer",
+      "dates": "2015–2017",
+      "bullets": [
+        "developed strategies, partnerships, forecasts"
+      ]
+    },
+    {
+      "title": "Assistant Planner",
+      "dates": "2015–2017",
+      "bullets": [
+        "developed strategies, partnerships, forecasts"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Excel, PowerPoint, Word, analytical and creative thinker, strong communicator, goal-driven"
+}

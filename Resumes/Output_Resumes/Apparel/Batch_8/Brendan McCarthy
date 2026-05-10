@@ -1,0 +1,53 @@
+{
+  "name": "Brendan McCarthy",
+  "education": [
+    {
+      "school": "Ashford University",
+      "degree": "BA in Applied Behavioral Science (Sociology)",
+      "details": "Clinton Campus"
+    },
+    {
+      "school": "Fairfield Central High School",
+      "degree": "High School Diploma"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Apparel Sales Associate/Cashier",
+      "dates": "10/2017–12/2017",
+      "bullets": [
+        "customer service, promos, stocking"
+      ]
+    },
+    {
+      "title": "Administrative Specialist I",
+      "dates": "08/2017–Current",
+      "bullets": [
+        "Medicaid eligibility, claims, contracts, compliance, recoupments"
+      ]
+    },
+    {
+      "title": "Field/Admin Assistant",
+      "dates": "06/2011–07/2017",
+      "bullets": [
+        "materials logistics, HR support, calendars, reports, timekeeping"
+      ]
+    },
+    {
+      "title": "Custodian",
+      "dates": "08/2011–06/2012",
+      "bullets": [
+        "site housekeeping"
+      ]
+    },
+    {
+      "title": "Warehouse Associate",
+      "dates": "01/2010–08/2011",
+      "bullets": [
+        "shipping, receiving, training"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Microsoft Excel certified; MS Word, Visio, PowerPoint, Outlook; Adobe X Pro; SmartPlant Materials; MMIS 1&2; Atlas; Phoenix; SAP production; database and spreadsheet management; conference planning; logistics; invoice processing; appointment setting; team building; OSHA standards; exceeded team sales goals by 30%; member of Instructional Design and Psychology clubs.",
+  "job_type": "Mid-level"
+}

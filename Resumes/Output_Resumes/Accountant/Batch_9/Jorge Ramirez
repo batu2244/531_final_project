@@ -1,0 +1,39 @@
+{
+  "name": "Jorge Ramirez",
+  "education": [
+    {
+      "school": "Prairie View A&M University",
+      "degree": "M.S. Accounting",
+      "details": "2011"
+    },
+    {
+      "school": "Prairie View A&M University",
+      "degree": "BBA Accounting",
+      "details": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "Aug 2014 – Present",
+      "bullets": [
+        "analyze federal/state/private grant contracts"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "Dec 2012 – Aug 2014",
+      "bullets": [
+        "full-cycle accounting for multiple Sysco operating companies"
+      ]
+    },
+    {
+      "title": "Accountant/Auditor",
+      "dates": "Jan 2010 – Feb 2012",
+      "bullets": [
+        "compile/analyze accounting data"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Advanced Excel (macros, VLOOKUPs, formulas, Smart View), MS Office, SAP, PeopleSoft, Business Objects, financial modeling, complex problem solving, time management; built a reconciliation system and quality-control program that improved effectiveness by 25% and boosted departmental productivity by 15%; experienced with GAAP, SOX, grants, and policy/process optimization."
+}

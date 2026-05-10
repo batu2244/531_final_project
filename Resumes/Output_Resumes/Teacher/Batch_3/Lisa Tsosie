@@ -1,0 +1,46 @@
+{
+  "name": "Lisa Tsosie",
+  "education": [
+    {
+      "school": "Concordia University",
+      "degree": "M.Ed",
+      "details": "Educational Leadership"
+    },
+    {
+      "school": "University of Maryland Eastern Shore",
+      "degree": "B.A.",
+      "details": "Sociology"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2014–Present",
+      "bullets": [
+        "Balanced instruction"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2008–2014",
+      "bullets": [
+        "Coordinated lessons"
+      ]
+    },
+    {
+      "title": "Security & Property Clerk",
+      "dates": "2007",
+      "bullets": [
+        "Clerical support"
+      ]
+    },
+    {
+      "title": "Office Automation Clerk",
+      "dates": "2006",
+      "bullets": [
+        "Document production/editing"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Curriculum design and implementation; Teaching Strategies GOLD; PCS Web; Microsoft Office (Word, Excel, PowerPoint, Outlook, Publisher, Access); classroom management and documentation; parent communication and home–school coordination; staff training/workshops; organizing enrichment (arts, music, storytelling, field trips); strong leadership, organization, time management, reliability, and multitasking."
+}

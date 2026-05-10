@@ -1,0 +1,45 @@
+{
+  "name": "David Garcia",
+  "education": [
+    {
+      "school": "The Ohio State University",
+      "degree": "B.A.",
+      "details": "Relevant coursework: child development, nutritional needs, language acquisition, movement/motor skills, cultural influences, business, communications"
+    },
+    {
+      "school": "N/A",
+      "degree": "N/A"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "Jan–Mar 2016",
+      "bullets": [
+        "classroom instruction, child care, healthy learning environment"
+      ]
+    },
+    {
+      "title": "Nursing Aide",
+      "dates": "Aug 2015–Jan 2016",
+      "bullets": [
+        "basic patient care, transport, safe living conditions"
+      ]
+    },
+    {
+      "title": "Front Desk Receptionist",
+      "dates": "Jun–Sep 2015",
+      "bullets": [
+        "phones, scheduling, billing/account support, escalations"
+      ]
+    },
+    {
+      "title": "Cook",
+      "dates": "Apr 2013–Aug 2014",
+      "bullets": [
+        "trained staff, orders, food prep, stocking, cleanliness"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Analytical problem-solving; issue resolution; attention to detail; strong written/verbal communication (English & Twi); high-volume support; Microsoft Word/PowerPoint; Photoshop; Salesforce; ServiceNow; phone etiquette. Top rep with >80% CSAT; customer service/teamwork award."
+}

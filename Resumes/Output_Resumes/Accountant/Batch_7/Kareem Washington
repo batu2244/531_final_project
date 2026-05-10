@@ -1,0 +1,46 @@
+{
+  "name": "Kareem Washington",
+  "education": [
+    {
+      "school": "Prairie View A&M",
+      "degree": "M.S. Accounting",
+      "details": "2011"
+    },
+    {
+      "school": "University of Texas at Austin",
+      "degree": "BBA Accounting",
+      "details": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2014–present",
+      "bullets": [
+        "research finance"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "2012–2014",
+      "bullets": [
+        "Sysco"
+      ]
+    },
+    {
+      "title": "Accountant/Auditor",
+      "dates": "2010–2012",
+      "bullets": [
+        "Research Ops Curriculum"
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "2010–2012",
+      "bullets": [
+        "Job_type: Senior-level"
+      ]
+    }
+  ],
+  "skills_and_achievements": "grants/restricted funds, budgeting/forecasting, GAAP/SOX, effort reporting (EPAF/JDUF), AP/AR, bank/GL recs, variance analysis, PO lifecycle, process improvement; Tools: Excel (macros/VLOOKUP), Access/SmartView, SAP, PeopleSoft/Resource One, Business Objects, SQL, iLabs; Achievements: macro recon template (+20% efficiency), trained 240+ on P-card, Research Ops Curriculum (2015);"
+}

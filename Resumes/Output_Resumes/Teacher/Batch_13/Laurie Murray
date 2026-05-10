@@ -1,0 +1,58 @@
+{
+  "name": "Laurie Murray",
+  "education": [
+    {
+      "school": "UCLA",
+      "degree": "M.Ed.",
+      "details": "2016"
+    },
+    {
+      "school": "University of New Mexico",
+      "degree": "B.A.",
+      "details": "2003"
+    },
+    {
+      "school": "Santa Monica College",
+      "degree": "additional study in Studio Arts"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "08/2014–Present",
+      "bullets": [
+        "designs rigorous lessons",
+        "tracks learning",
+        "provides timely feedback",
+        "leads IEPs",
+        "ensures compliance/reporting",
+        "partners with families",
+        "facilitates group projects",
+        "evaluates personnel"
+      ]
+    },
+    {
+      "title": "Robotics & Design Instructor",
+      "dates": "08/2012–09/2014",
+      "bullets": [
+        "lectures on kits/programming",
+        "leads workshops",
+        "adapts curriculum"
+      ]
+    },
+    {
+      "title": "Executive Advisor",
+      "dates": "08/2015–Present",
+      "bullets": [
+        "portfolio mgmt (20–25%/yr over 5 yrs)",
+        "analytics",
+        "relocation",
+        "asset restructuring",
+        "events (+15% revenue)",
+        "office automation",
+        "contracts"
+      ]
+    }
+  ],
+  "skills_and_achievements": "instructional design, standards-aligned planning, course development, progress monitoring, IEP leadership, behavior supports, safe classroom culture, family communication, staff evaluation, project/daily scheduling, process improvement, event planning"
+}

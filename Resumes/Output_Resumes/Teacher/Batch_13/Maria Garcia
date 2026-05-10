@@ -1,0 +1,46 @@
+{
+  "name": "Maria Garcia",
+  "education": [
+    {
+      "school": "University of Texas–Pan American",
+      "degree": "M.A.",
+      "details": "Guidance & Counseling"
+    },
+    {
+      "school": "University of Texas–Pan American",
+      "degree": "B.A.",
+      "details": "Psychology"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "1999–2014",
+      "bullets": [
+        "designed and delivered IB-aligned units emphasizing citizenship, open-mindedness, and risk-taking in a safe classroom culture"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2002–2004",
+      "bullets": [
+        "supported Olweus bullying prevention"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2004",
+      "bullets": [
+        "planned and delivered instruction for students new to U.S. schools and non-English speakers"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "1997–1999",
+      "bullets": [
+        "planned and delivered instruction for LEP students"
+      ]
+    }
+  ],
+  "skills_and_achievements": "seventeen years teaching and counseling experience across elementary and secondary settings; implemented IB Spanish curriculum for grade 6 and regular Spanish for middle/high school; led Alweus/Olweus Bullying Prevention initiatives; LPAC committee service for newcomer ELLs; TELPAS online assessor and campus trainer; experienced with LEP instruction, autism modifications, family engagement, goal setting, workshops, and time management."
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Tamika Williams",
+  "education": [
+    {
+      "school": "University of Northern Iowa",
+      "degree": "B.A.",
+      "details": "passed CPA exam (State of Iowa)"
+    },
+    {
+      "school": "University of Northern Iowa",
+      "degree": "Mathematics",
+      "details": "passed CPA exam (State of Iowa)"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Processing Manager/Programmer",
+      "dates": "1993–Present",
+      "bullets": [
+        "design/develop/maintain AR, AP, GL, Payroll, Inventory, Billing, Bank Rec, Budgeting, security, backups, user support and reporting"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2009–2010",
+      "bullets": [
+        "individual/corporate tax prep and planning"
+      ]
+    },
+    {
+      "title": "Supervisor of Accounting",
+      "dates": "1991–1992",
+      "bullets": [
+        "led GAAP reporting, GL/subledgers, AP/AR/Payroll/Cash Mgmt, staff supervision and training"
+      ]
+    },
+    {
+      "title": "Programmer",
+      "dates": "1991",
+      "bullets": [
+        "COBOL/BASIC development for accounting, seed, pharmacy, banking"
+      ]
+    },
+    {
+      "title": "Staff Accountant",
+      "dates": "1980–1981",
+      "bullets": [
+        "month-end financials, call reports, GL reconciliations at a bank"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Excel and MS Office; GAAP financials, GL, AP/AR, payroll, budgeting, bank reconciliation, inventory; COBOL/CL programming on IBM System i/AS-400; KRONOS interfaces; reporting/queries, backups, security, user training; built automations (emailed statements, cash-management spreadsheet, year-end sales reporting), e-filed W-2/SUTA, direct deposits (payroll/vendors), database and portal development, bank-rec and financial-consolidation apps, S/36→native conversions, Y2K remediation."
+}

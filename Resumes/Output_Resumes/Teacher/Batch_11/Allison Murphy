@@ -1,0 +1,51 @@
+{
+  "name": "Allison Murphy",
+  "education": [
+    {
+      "school": "Southern Connecticut State University",
+      "degree": "B.A. Psychology",
+      "details": "Magna Cum Laude"
+    },
+    {
+      "school": "K–12",
+      "degree": "Remedial Reading & Language Arts",
+      "details": "Passed Praxis II and state Reading test"
+    },
+    {
+      "school": "NCATE Collaborative Endorsement—Elementary Regular/Special Education",
+      "degree": "Elementary Regular/Special Education",
+      "details": "013, 165"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2010–present",
+      "bullets": [
+        "Standards-based math, science, and literacy"
+      ]
+    },
+    {
+      "title": "Lead inquiry science",
+      "dates": "2010–2012",
+      "bullets": [
+        "Integrate PBS and data-driven interventions"
+      ]
+    },
+    {
+      "title": "Sixth Grade Teacher",
+      "dates": "2008–2010",
+      "bullets": [
+        "Balanced literacy (Readers/Writers Workshop)"
+      ]
+    },
+    {
+      "title": "Special Education Tutor",
+      "dates": "2007–2008",
+      "bullets": [
+        "Modified curriculum, created accommodated assessments, inclusion support"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Common Core & NGSS-aligned instruction; differentiated/Special Ed supports and IEP accommodations; Positive Behavior Support (PBS); assessment (DRA2, Brigance, SBAC/NWEA prep); literacy workshop models; STEM/FOSS inquiry labs; curriculum design and small-group interventions; ed-tech (SMART tools, Go Math, Eureka/EngageNY, IXL, Khan Academy, Infinite Campus); strong home–school communication."
+}

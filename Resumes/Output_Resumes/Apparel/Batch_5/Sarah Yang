@@ -1,0 +1,53 @@
+{
+  "name": "Sarah Yang",
+  "education": [
+    {
+      "school": "Salem College",
+      "degree": "B.A. International Business",
+      "details": "2002"
+    },
+    {
+      "school": "Catholic Univ. of Manizales",
+      "degree": "Advertising Degree",
+      "details": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Owner",
+      "dates": "2006–2016",
+      "bullets": [
+        "Managed marketing, staff, payroll, and customer growth"
+      ]
+    },
+    {
+      "title": "Dept. Supervisor",
+      "dates": "2012–2013",
+      "bullets": [
+        "Cut receivables, optimized workflows, and led data automation"
+      ]
+    },
+    {
+      "title": "Customer Analyst",
+      "dates": "2006–2007",
+      "bullets": [
+        "Sales trend analysis for Walmart"
+      ]
+    },
+    {
+      "title": "Merchandising Assistant",
+      "dates": "2006–2007",
+      "bullets": [
+        "Product line planning and export compliance"
+      ]
+    },
+    {
+      "title": "Export Specialist",
+      "dates": "2006–2007",
+      "bullets": [
+        "Export compliance"
+      ]
+    }
+  ],
+  "skills_and_achievements": "franchise and retail management, marketing strategy, cost control, QuickBooks, Excel, bilingual (Spanish/English), leadership, training, and brand development. Reduced receivables by $26M; implemented systems saving $30K annually and 60% efficiency boost."
+}

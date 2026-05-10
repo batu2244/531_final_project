@@ -1,0 +1,50 @@
+{
+  "name": "Rasheed Jones",
+  "education": [
+    {
+      "school": "University of Central Missouri",
+      "degree": "B.S.",
+      "details": "in progress"
+    },
+    {
+      "school": "Metropolitan Community College",
+      "degree": "A.A.",
+      "details": "2012"
+    },
+    {
+      "school": "HS Diploma",
+      "degree": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Toddler Teacher",
+      "dates": "2014–Present",
+      "bullets": [
+        "care/safety, routines, data observation, parent communication"
+      ]
+    },
+    {
+      "title": "Sales Lead",
+      "dates": "2012–2014",
+      "bullets": [
+        "customer service, social media, delivery logistics, promotions"
+      ]
+    },
+    {
+      "title": "Assistant Manager",
+      "dates": "2011–2012",
+      "bullets": [
+        "hiring/training, operations, meetings, evaluations"
+      ]
+    },
+    {
+      "title": "Shift Manager",
+      "dates": "2010–2011",
+      "bullets": [
+        "operations, meetings, evaluations"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Tutoring, lesson facilitation, small-group instruction, MS Office, organized and punctual; 100+ hours classroom fieldwork (Algebra I, grades 6–8); created engaging math activities (“I have, who has?”). Retail awards: Company Award of Excellence and Shift Manager of the Year."
+}

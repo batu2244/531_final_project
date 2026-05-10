@@ -1,0 +1,46 @@
+{
+  "name": "Jennifer Yang",
+  "education": [
+    {
+      "school": "Liberty University",
+      "degree": "M.S. Education",
+      "details": "2017"
+    },
+    {
+      "school": "Bluefield College",
+      "degree": "B.S. Behavioral Science",
+      "details": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2013–Present",
+      "bullets": [
+        "Design materials"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2009–2012",
+      "bullets": [
+        "Differentiated instruction"
+      ]
+    },
+    {
+      "title": "Office Manager/Administrative Assistant",
+      "dates": "2006–2009",
+      "bullets": [
+        "Supported department chair & 15 faculty"
+      ]
+    },
+    {
+      "title": "Student Services/Administrative Assistant",
+      "dates": "2004–2006",
+      "bullets": [
+        "Coordinated admissions, IEP/triennial meetings"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Middle school ELA & Social Studies (U.S. History, Civics, Geography); curriculum design; assessment prep (Stanford, SOL); classroom management; IEP process knowledge; attendance/grade/records management; MS Office (Word, Excel, PowerPoint, Outlook), QuickBooks; scheduling, budgeting, payroll; strong communication, leadership, and multitasking."
+}

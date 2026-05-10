@@ -1,0 +1,49 @@
+{
+  "name": "Allison Ryan",
+  "education": [
+    {
+      "school": "Longwood University",
+      "degree": "B.A. History & Social Studies Secondary Education",
+      "details": "minor Anthropology"
+    },
+    {
+      "school": "Virginia & Florida",
+      "degree": "Professional Teaching Licenses"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2014–present",
+      "bullets": [
+        "Advanced problem solving"
+      ]
+    },
+    {
+      "title": "Paraprofessional",
+      "dates": "2014–2013",
+      "bullets": [
+        "classroom management"
+      ]
+    },
+    {
+      "title": "Substitute",
+      "dates": "2013",
+      "bullets": [
+        "records management"
+      ]
+    },
+    {
+      "title": "Other roles",
+      "dates": "2014-2014",
+      "bullets": [
+        "customer solutions",
+        "sales",
+        "server",
+        "library support"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Advanced problem solving, SEO/analytics, MS Office, classroom management, differentiation, lesson planning, positive reinforcement, records management",
+  "job_type": "Mid-level"
+}

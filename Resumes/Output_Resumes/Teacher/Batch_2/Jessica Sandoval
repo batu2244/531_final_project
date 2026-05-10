@@ -1,0 +1,39 @@
+{
+  "name": "Jessica Sandoval",
+  "education": [
+    {
+      "school": "Universidad Austral de Chile",
+      "degree": "Master of Science (Microbiology)",
+      "details": "2008"
+    },
+    {
+      "school": "Universidad de Pamplona",
+      "degree": "Bachelor-level studies in Microbiology",
+      "details": "1992–1999"
+    }
+  ],
+  "experience": [
+    {
+      "title": "University lecturer and lab head",
+      "dates": "2010–2015",
+      "bullets": [
+        "Department director for Food-Emphasis Microbiology"
+      ]
+    },
+    {
+      "title": "Universidad de Santander—UDES",
+      "dates": "2010–2015",
+      "bullets": [
+        "Advisor on food services for the XX Central American and Caribbean Games"
+      ]
+    },
+    {
+      "title": "Universidad de Boyacá—Universidad de Pamplona",
+      "dates": "2009–2006",
+      "bullets": [
+        "Department director for Food-Emphasis Microbiology"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Specialist in food protection, GMP and HACCP implementation, internal auditing, and food-handler training; experienced with statistical quality tools, lactic acid bacteria and bacteriocins, and antimicrobial/biodegradable packaging. Research includes whey-protein films controlling Listeria monocytogenes on smoked salmon (CONICYT/FONDEF project), antimicrobial films for meat, and LAB-derived bacteriocins; contributions to Colombia’s national raw milk health profile and risk assessment for Listeria in cooked meats; presenter at industrial microbiology congresses; member of ACTA."
+}

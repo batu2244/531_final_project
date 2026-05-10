@@ -1,0 +1,41 @@
+{
+  "name": "Meredith Ryan",
+  "education": [
+    {
+      "school": "College of Staten Island",
+      "degree": "B.A."
+    },
+    {
+      "school": "Touro College",
+      "degree": "M.S."
+    },
+    {
+      "school": "Touro College",
+      "degree": "licensure coursework"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2016–present",
+      "bullets": [
+        "Improved reading via guided groups"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2013–2016",
+      "bullets": [
+        "Managed Open Access Library and book purchasing"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "2013–2016",
+      "bullets": [
+        "Improved reading via guided groups"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Common Core–aligned ELA/Math/Science instruction; differentiated/special education support; classroom management; SMART Board/ed-tech integration; small-group intervention; curriculum and lesson planning; library program management; strong parent/teacher collaboration; NYS Childhood Ed (1–6) credential track."
+}

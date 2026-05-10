@@ -1,0 +1,46 @@
+{
+  "name": "Grace Li",
+  "education": [
+    {
+      "school": "University of Jos",
+      "degree": "B.A. English Language",
+      "details": "1999"
+    },
+    {
+      "school": "Los Angeles Southwest College",
+      "degree": "Child Development Site Supervisor Permit",
+      "details": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2014–Present",
+      "bullets": [
+        "Maintain observations, attendance, and in-kind records"
+      ]
+    },
+    {
+      "title": "Home Visitor",
+      "dates": "2008–2014",
+      "bullets": [
+        "Weekly in-home instruction and family goal setting"
+      ]
+    },
+    {
+      "title": "Youth Counselor/Family Support Specialist",
+      "dates": "2004–2008",
+      "bullets": [
+        "Recruitment, needs assessments, referrals, interagency coordination, behavior interventions, transition support"
+      ]
+    },
+    {
+      "title": "Program Worker",
+      "dates": "2002–2004",
+      "bullets": [
+        "Supervise/instruct youth"
+      ]
+    }
+  ],
+  "skills_and_achievements": "[Family engagement and home visiting; classroom instruction (ages 3–5); IEP/IFSP collaboration; parent training, conferences, and transitions to kindergarten; records/compliance (Title 22, Head Start Performance Standards); recruitment/enrollment; case management and referrals (health, mental health, nutrition); safety/first aid; MIS data entry; culturally responsive communication; multitasking and deadline management."
+}

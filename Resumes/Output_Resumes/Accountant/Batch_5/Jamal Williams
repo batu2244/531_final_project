@@ -1,0 +1,39 @@
+{
+  "name": "Jamal Williams",
+  "education": [
+    {
+      "school": "University of Cincinnati",
+      "degree": "B.S.",
+      "details": "Business Administration—Accounting"
+    },
+    {
+      "school": "University of Cincinnati",
+      "degree": "B.S.",
+      "details": "Accounting"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2009–Present",
+      "bullets": [
+        "Full-cycle accounting"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2007–2009",
+      "bullets": [
+        "handled all accounting functions"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "1997–2007",
+      "bullets": [
+        "implemented Peachtree accounting system"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Full-cycle accounting; job costing; GL, AP/AR, and reporting; Peachtree (Sage 50) implementation; systems setup (LAN, website); procedure improvement; CPA; stakeholder communication; small/medium-business support."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Michael Oxendine",
+  "education": [
+    {
+      "school": "Jones International University",
+      "degree": "Associate of Arts — Business"
+    },
+    {
+      "school": "...",
+      "degree": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2012–Present",
+      "bullets": [
+        "delivers early-childhood programs with daily literacy, art, music, and play-based learning"
+      ]
+    },
+    {
+      "title": "Office Manager/Teacher",
+      "dates": "1995–2008",
+      "bullets": [
+        "led a team of ~20, controlled budgets and expenses by implementing QuickBooks, managed 100 client accounts annually, set menus and compliance documentation, screened 300 children over ten years, increased new and return enrollment, and ran integrated marketing, promotions, and in-house advertising to drive growth while designing and delivering developmentally appropriate curricula."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Fifteen years of client-facing experience spanning customer service, telesales, account management, and training. Strengths include conflict resolution, active listening, problem solving, cash handling, inventory control, invoicing, database upkeep, report generation, opening/closing procedures, and team leadership. Notable outcomes include standardized staff training that raised customer satisfaction by 12%, campaigns that increased conversion rates by 50% and overall sales by 50%, consistent revenue growth through consultative sales, and effective resolution of customer issues to retain key accounts."
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Todd O’Brien",
+  "education": [
+    {
+      "school": "A.A. Business Management–Accounting, Treasure Valley CC",
+      "degree": "Business Management–Accounting",
+      "details": "GPA 3.85, 2016"
+    },
+    {
+      "school": "Worland HS",
+      "degree": "clerical skills training",
+      "details": "fairbanks, AK"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2016-Present",
+      "bullets": [
+        "Payroll & quarterly filings"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2016-2018",
+      "bullets": [
+        "AP/AR"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2018-2019",
+      "bullets": [
+        "G/L"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2019-2020",
+      "bullets": [
+        "Invoice & job costing"
+      ]
+    },
+    {
+      "title": "Office/Restaurant Manager",
+      "dates": "2018-2020",
+      "bullets": [
+        "Payroll & filings"
+      ]
+    },
+    {
+      "title": "Office Manager",
+      "dates": "2018-2020",
+      "bullets": [
+        "Monthly FS"
+      ]
+    },
+    {
+      "title": "Office Manager",
+      "dates": "2019-2020",
+      "bullets": [
+        "Inventory & food cost"
+      ]
+    },
+    {
+      "title": "Assistant Controller",
+      "dates": "2019-2020",
+      "bullets": [
+        "Payroll & quarterly reports"
+      ]
+    },
+    {
+      "title": "CPA-firm roles",
+      "dates": "2016-2018",
+      "bullets": [
+        "Multi-client payroll/filings"
+      ]
+    },
+    {
+      "title": "AP/AR",
+      "dates": "2016-2018",
+      "bullets": [
+        "Job costing"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Payroll & quarterly filings; AP/AR; bank/G.L reconciliations; journal/adjusting entries; financial statements (BS/IS/CF); construction draws & contract billing; vendor/subcontractor & 1099 management; office management; QuickBooks, Peachtree/Timberline, AS/400, MS Office/Google; CPA listed"
+}

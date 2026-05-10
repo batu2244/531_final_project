@@ -1,0 +1,40 @@
+{
+  "name": "Anne Kelly",
+  "education": [
+    {
+      "school": "Sterling College",
+      "degree": "B.S. Music Education"
+    },
+    {
+      "school": "Kansas State University",
+      "degree": "176 credits toward Music Education"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Music Teacher",
+      "dates": "2000–present",
+      "bullets": [
+        "Explicit Instruction",
+        "HOTS",
+        "Multiple Intelligences",
+        "MTSS leader (4 yrs)",
+        "dual-language strategies (11 yrs)",
+        "rebuilt K-8 program",
+        "raised concert attendance 40%→98%",
+        "founded Singing Ambassadors",
+        "corporate training/QC",
+        "GE Capital President’s Council"
+      ]
+    },
+    {
+      "title": "VP HR",
+      "dates": "2000–present",
+      "bullets": [
+        "scale-interface specialist",
+        "QC/training roles"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Explicit Instruction, HOTS, Multiple Intelligences; MTSS leader (4 yrs);"
+}

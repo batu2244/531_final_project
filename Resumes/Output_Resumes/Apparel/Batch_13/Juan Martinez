@@ -1,0 +1,37 @@
+{
+  "name": "Juan Martinez",
+  "education": [
+    {
+      "school": " Parsons School of Design",
+      "degree": "BBA in Design & Management"
+    },
+    {
+      "school": "HK",
+      "degree": "Asia vendors"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior-level",
+      "dates": "15+ yrs",
+      "bullets": [
+        "Led men’s/women’s wovens, knits, denim, and graphics."
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "15+ yrs",
+      "bullets": [
+        "Oversaw full product lifecycle, sourcing, and costing."
+      ]
+    },
+    {
+      "title": "Senior-level",
+      "dates": "15+ yrs",
+      "bullets": [
+        "Standardized print techniques."
+      ]
+    }
+  ],
+  "skills_and_achievements": "Apparel dev, costing, QC, merchandising, vendor negotiation, WIP tracking, WebPDM, PLM, SAGE, Illustrator, MS Office, Mac/PC. Managed Asia vendors (HK, VN, KH, IN), achieving 80% margin; 8% and 4% cost savings across product lines."
+}

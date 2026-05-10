@@ -1,0 +1,37 @@
+{
+  "name": "Rosa Rodriguez",
+  "education": [
+    {
+      "school": "Florida State University",
+      "degree": "B.S."
+    },
+    {
+      "school": "...",
+      "degree": "..."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Account Manager/Business Development",
+      "dates": "07/2018–07/2019",
+      "bullets": [
+        "built/managed distributor networks (US/intl)"
+      ]
+    },
+    {
+      "title": "Laboratory Consumables Sales Rep",
+      "dates": "07/2017–05/2018",
+      "bullets": [
+        "handled inbound leads US/LatAm"
+      ]
+    },
+    {
+      "title": "National Sales Executive",
+      "dates": "06/2016–07/2017",
+      "bullets": [
+        "top producer"
+      ]
+    }
+  ],
+  "skills_and_achievements": "B2B sales, account management, new business development, distributor enablement, pricing/negotiation, market analysis, forecasting, Salesforce, presentations/tradeshows, client retention, Spanish/English bilingual. Ranked #1 Account Executive (Q2, +4% YoY); #1 Sales Producer (Dove Professional Apparel, 3 yrs); Estee Lauder—ranked 6th in FL (2009, +15% over goal); expanded territory market share by 40%+; maintained <1% client churn (SirsiDynix/EOS)."
+}

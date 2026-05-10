@@ -1,0 +1,66 @@
+{
+  "name": "Kevin Nguyen",
+  "education": [
+    {
+      "school": "Eastern Nazarene College",
+      "degree": "B.S. Business Administration"
+    },
+    {
+      "school": "Burdett Business School",
+      "degree": "Certified Legal Assistant"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr. Manager",
+      "dates": "2008–2012",
+      "bullets": [
+        "vendor QA"
+      ]
+    },
+    {
+      "title": "Sr. Manager",
+      "dates": "2005–2008",
+      "bullets": [
+        "led technical design team"
+      ]
+    },
+    {
+      "title": "Promotional Sales Manager",
+      "dates": "2000–2005",
+      "bullets": [
+        "increased add-on sales and efficiency"
+      ]
+    },
+    {
+      "title": "Customer Sales Manager",
+      "dates": "1998–2000",
+      "bullets": [
+        "boosted credit card acceptance 11→$2.7M savings"
+      ]
+    },
+    {
+      "title": "Support",
+      "dates": "1998–2000",
+      "bullets": [
+        "support"
+      ]
+    },
+    {
+      "title": "Law Admin",
+      "dates": "1998–2000",
+      "bullets": [
+        "law admin"
+      ]
+    },
+    {
+      "title": "Training",
+      "dates": "1998–2000",
+      "bullets": [
+        "training"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Vendor compliance, QA, product integrity, call center and sales management, budgeting, billing, payroll, and leadership. Saved $400K annually through compliance policy; increased sales 325%; led QA initiatives improving vendor performance.",
+  "job_type": "Senior-level"
+}

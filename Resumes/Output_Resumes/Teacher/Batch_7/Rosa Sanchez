@@ -1,0 +1,51 @@
+{
+  "name": "Rosa Sanchez",
+  "education": [
+    {
+      "school": "Southern Wesleyan University",
+      "degree": "M.Ed.",
+      "details": "2007, GPA 3.8"
+    },
+    {
+      "school": "University of South Carolina",
+      "degree": "B.S.",
+      "details": "1998, GPA 3.4"
+    },
+    {
+      "school": "Carolinas College of Health Sciences",
+      "degree": "Certificate in Medical Technology",
+      "details": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "02/2003–Current",
+      "bullets": [
+        "create engaging plans"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "dates": "02/2001–01/2006",
+      "bullets": [
+        "mentor 1–2 teachers yearly"
+      ]
+    },
+    {
+      "title": "Bridge Program for at-risk 9th graders",
+      "dates": "02/2003–Present",
+      "bullets": [
+        "science inventory/chemical monitoring"
+      ]
+    },
+    {
+      "title": "Medical Technologist",
+      "dates": "02/2001–01/2006",
+      "bullets": [
+        "clinical testing (hematology, chemistry, coagulation, immunology, urinalysis)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "South Carolina certified (all general sciences); National Board Certified & grader (Pearson); AP Biology (2015) and AP Chemistry (2017) certified; strong communication and organization."
+}

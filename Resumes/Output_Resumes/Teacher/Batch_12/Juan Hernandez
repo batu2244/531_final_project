@@ -1,0 +1,77 @@
+{
+  "name": "Juan Hernandez",
+  "education": [
+    {
+      "school": "FAU",
+      "degree": "BAs in Social Studies Education",
+      "details": "2014"
+    },
+    {
+      "school": "Political Science",
+      "degree": "2008"
+    },
+    {
+      "school": "Criminal Justice",
+      "degree": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2014–present",
+      "bullets": [
+        "Created schoolwide management tools"
+      ]
+    },
+    {
+      "title": "Student Teacher",
+      "dates": "2014",
+      "bullets": [
+        "Provided classroom/service hours"
+      ]
+    },
+    {
+      "title": "Director/Manager camps",
+      "dates": "2010–2015",
+      "bullets": [
+        "Managed camps"
+      ]
+    },
+    {
+      "title": "Manager/Buyer",
+      "dates": "2009–present",
+      "bullets": [
+        "Created business partners"
+      ]
+    },
+    {
+      "title": "Title I experience",
+      "dates": "2010–2015",
+      "bullets": [
+        "Ensured Title I eligibility"
+      ]
+    },
+    {
+      "title": "XC/Track coach",
+      "dates": "2008–2009",
+      "bullets": [
+        "Coached XC/Track"
+      ]
+    },
+    {
+      "title": "ESOL/Reading endorsed",
+      "dates": "2008",
+      "bullets": [
+        "ESOL/Reading endorsed"
+      ]
+    },
+    {
+      "title": "Farsi/English bilingual",
+      "dates": "2008",
+      "bullets": [
+        "Farsi/English bilingual"
+      ]
+    }
+  ],
+  "skills_and_achievements": "CA & FL certified; ESOL/Reading endorsed; Farsi/English bilingual; data-driven instruction and classroom management; Title I experience; XC/Track coach; created schoolwide management tools; secured business partners."
+}

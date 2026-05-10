@@ -1,0 +1,51 @@
+{
+  "name": "John Nguyen",
+  "education": [
+    {
+      "school": "Universidad de Palermo",
+      "degree": "Fashion Design"
+    },
+    {
+      "school": "Central Saint Martins",
+      "degree": " Parsons",
+      "details": "studies in fashion styling, marketing, and textile design"
+    },
+    {
+      "school": "FIT",
+      "degree": "FIT"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Creative Director & Fashion Designer",
+      "dates": "2007–2015",
+      "bullets": [
+        "designed collections",
+        "led teams",
+        "directed campaigns"
+      ]
+    },
+    {
+      "title": "Consultant",
+      "dates": "2012–2015",
+      "bullets": [
+        "developed full collections"
+      ]
+    },
+    {
+      "title": "Designer",
+      "dates": "2002–2007",
+      "bullets": [
+        "concepts, materials, graphics, prototypes"
+      ]
+    },
+    {
+      "title": "Known for blending artistry and commercial design.",
+      "dates": "2002–2007",
+      "bullets": [
+        "blended artistry and commercial design"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Creative direction, brand identity, team leadership, color/material selection, marketing, Photoshop, CorelDRAW, Illustrator. 15+ years in fashion design; led campaigns, developed full collections, managed production and QC, fluent in Spanish/English."
+}

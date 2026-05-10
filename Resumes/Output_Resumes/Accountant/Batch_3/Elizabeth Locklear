@@ -1,0 +1,64 @@
+{
+  "name": "Elizabeth Locklear",
+  "education": [
+    {
+      "school": "Sheridan Technical Center",
+      "degree": "B.A. Business Administration",
+      "details": "Certificate—Bookkeeping Fundamentals"
+    },
+    {
+      "school": "University of Phoenix",
+      "degree": "Accounting studies",
+      "details": "in progress"
+    },
+    {
+      "school": "CUC University, Colombia",
+      "degree": "attended"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2009–Present",
+      "bullets": [
+        "Full-cycle AP/AR & payroll"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "dates": "2006–2009",
+      "bullets": [
+        "Supervised 4+ interns"
+      ]
+    },
+    {
+      "title": "Junior Accountant",
+      "dates": "2004–2006",
+      "bullets": [
+        "AP/AR"
+      ]
+    },
+    {
+      "title": "Reconciled online transactions",
+      "dates": "2004–2006",
+      "bullets": [
+        "Bank/CC/lockbox recs"
+      ]
+    },
+    {
+      "title": "trained interns",
+      "dates": "2004–2006",
+      "bullets": [
+        "Royalty & 1099 reporting"
+      ]
+    },
+    {
+      "title": "managed high-volume production petty cash",
+      "dates": "2006–2009",
+      "bullets": [
+        "managed high-volume production petty cash"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Full-cycle AP/AR & payroll; month/year-end close; GL maintenance (cash, inventory, prepaids, fixed assets, accruals, LOC); bank/credit card/lockbox reconciliations; commissions & royalty reporting; production petty cash control; 1099 preparation; staff training/supervision; MS Office; QuickBooks Enterprise 17.0; Timberline; FileMaker; POS; bilingual Spanish."
+}

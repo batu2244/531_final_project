@@ -1,0 +1,52 @@
+{
+  "name": "James Yazzie",
+  "education": [
+    {
+      "school": "Albright College",
+      "degree": "B.S. Business Administration",
+      "details": "Spring 2013"
+    },
+    {
+      "school": "Montgomery County Community College",
+      "degree": "M.S. (Jan 2016)",
+      "details": "Liberal Studies"
+    },
+    {
+      "school": "Albright College",
+      "degree": "A.A. Liberal Studies",
+      "details": "Fall 2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Administrative Assistant",
+      "dates": "07/2013–Present",
+      "bullets": [
+        "exec support to Dean"
+      ]
+    },
+    {
+      "title": "Administrative Assistant",
+      "dates": "01/2005–01/2011",
+      "bullets": [
+        "support Dean/VP"
+      ]
+    },
+    {
+      "title": "SARS admin",
+      "dates": "07/2013–Present",
+      "bullets": [
+        "manage Title III/PECO grant budgets/POs"
+      ]
+    },
+    {
+      "title": "call center",
+      "dates": "07/2013–Present",
+      "bullets": [
+        "manage Title III/PECO grant budgets/POs"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Microsoft Office (Word/Excel/PowerPoint/Access/Visio/Publisher)",
+  "job_type": "Senior-level"
+}

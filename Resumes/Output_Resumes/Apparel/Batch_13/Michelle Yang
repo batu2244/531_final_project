@@ -1,0 +1,37 @@
+{
+  "name": "Michelle Yang",
+  "education": [
+    {
+      "school": "West Deptford High",
+      "degree": "High school diploma"
+    },
+    {
+      "school": "Crisplant S2000, Buschman Unisort IV/X, Accuglide",
+      "degree": "Conveyor/Sortation Systems"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior-level",
+      "dates": "7+ yrs",
+      "bullets": [
+        "Lead mechanic managing 4 techs"
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "dates": "7+ yrs",
+      "bullets": [
+        "Conveyor/Sortation Systems (Crisplant S2000, Buschman Unisort IV/X, Accuglide)"
+      ]
+    },
+    {
+      "title": "Facilities Maintenance, IT support, PM planning, and troubleshooting",
+      "dates": "7+ yrs",
+      "bullets": [
+        "PM planning"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Expert in electrical and mechanical conveyor repair, AC motors, VFDs, sensors, TCP/IP; skilled in PM program design, CCTV setup, vendor coordination, spare-parts control, leadership, and communication."
+}

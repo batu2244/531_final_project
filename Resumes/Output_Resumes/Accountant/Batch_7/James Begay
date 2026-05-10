@@ -1,0 +1,39 @@
+{
+  "name": "James Begay",
+  "education": [
+    {
+      "school": "Oakland University",
+      "degree": "B.S. Accounting & Finance",
+      "details": "2020, Dean's List Jan 2020"
+    },
+    {
+      "school": "Macomb Community College",
+      "degree": "A.A. Accounting",
+      "details": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Accountant",
+      "dates": "2020–Present",
+      "bullets": [
+        "Vendor setup/payments"
+      ]
+    },
+    {
+      "title": "Branch Service Specialist",
+      "dates": "11/2017–04/2020",
+      "bullets": [
+        "deposits/withdrawals/transfers"
+      ]
+    },
+    {
+      "title": "Cashier",
+      "dates": "09/2012–06/2017",
+      "bullets": [
+        "cash drawer reconciliation"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Microsoft Office; GL & journal entries; account reconciliations; financial statements; data entry; analytical/problem-solving; interpersonal & customer service; administrative support; Polish (proficient); Strengthened processes to near-zero errors; prepared governmental reports; supported month/quarter/year-end closes."
+}

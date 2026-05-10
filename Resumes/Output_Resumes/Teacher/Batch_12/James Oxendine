@@ -1,0 +1,46 @@
+{
+  "name": "James Oxendine",
+  "education": [
+    {
+      "school": "University of Phoenix",
+      "degree": "M.A. Education/Curriculum & Instruction",
+      "details": "2007"
+    },
+    {
+      "school": "Arizona State University",
+      "degree": "B.A. Interdisciplinary Arts & Performance",
+      "details": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Teacher",
+      "dates": "2012–Current",
+      "bullets": [
+        "Built Trivium/ADDIE-based writing & language arts programs"
+      ]
+    },
+    {
+      "title": "Lead Curriculum Developer/Project Manager",
+      "dates": "2009–2012",
+      "bullets": [
+        "Designed ground/online courses with SMEs"
+      ]
+    },
+    {
+      "title": "Visual Arts Instructor",
+      "dates": "2005–2009",
+      "bullets": [
+        "Created new Fine Arts curricula (Perspective Drawing, Digital Painting)"
+      ]
+    },
+    {
+      "title": "Created assessments",
+      "dates": "2005–2009",
+      "bullets": [
+        "QA in LMS (24–48h turnaround)"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Curriculum development, instructional design (ADDIE, UbD), LMS/e-learning creation, research & assessment, critical thinking strategies, staff development, troubleshooting, conflict resolution, MS Office. Designed standards-aligned ELA/LA curricula that drove measurable gains (AIMS +4% Y1; +12% by Y3; 93% meets/exceeds, 64% exceeds on 2015 AZ Merit Writing)."
+}

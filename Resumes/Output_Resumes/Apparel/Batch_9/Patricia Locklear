@@ -1,0 +1,51 @@
+{
+  "name": "Patricia Locklear",
+  "education": [
+    {
+      "school": "Horry Georgetown Technical College",
+      "degree": "A.A."
+    },
+    {
+      "school": "Central Carolina Technical College",
+      "degree": "1991"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Customer Service Manager",
+      "dates": "2012–Present",
+      "bullets": [
+        "team supervision",
+        "cash control",
+        "returns",
+        "policy enforcement"
+      ]
+    },
+    {
+      "title": "Apparel Processor",
+      "dates": "2012–2015",
+      "bullets": [
+        "training",
+        "inventory",
+        "POS operations"
+      ]
+    },
+    {
+      "title": "Assistant Manager",
+      "dates": "2015–2017",
+      "bullets": [
+        "inventory",
+        "POS operations"
+      ]
+    },
+    {
+      "title": "Lead Cashier",
+      "dates": "2017–2018",
+      "bullets": [
+        "training",
+        "inventory"
+      ]
+    }
+  ],
+  "skills_and_achievements": "Customer service, merchandising, leadership, bookkeeping, cash management, AS/400, Excel, proofreading, medical terminology, office systems, and training. Recognized for excellence in service and operational accuracy."
+}
